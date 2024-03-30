@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Canterbury, New Zealand - Mount Cook Airport",
+        "code": "MON"
+    },
+    {
+        "name": "Wanaka, New Zealand - Wanaka",
+        "code": "WKA"
+    },
+    {
+        "name": "Manurewa, New Zealand - Ardmore Airport",
+        "code": "AMZ"
+    },
+    {
+        "name": "Canterbury, New Zealand - Ashburton Aerodrome",
+        "code": "ASG"
+    },
+    {
+        "name": "Waikato, New Zealand - Coromandel Aerodrome",
+        "code": "CMV"
+    },
+    {
+        "name": "Northland, New Zealand - Dargaville Aerodrome",
+        "code": "DGR"
+    },
+    {
+        "name": "West-Coast, New Zealand - Franz Josef Aerodrome",
+        "code": "WHO"
+    },
+    {
+        "name": "Claris, New Zealand - Great Barrier Aerodrome",
+        "code": "GBZ"
+    },
+    {
+        "name": "West-Coast, New Zealand - Greymouth Airport",
+        "code": "GMN"
+    },
+    {
+        "name": "Glentanner Station, New Zealand - Glentanner Airport",
+        "code": "GTN"
+    },
+    {
+        "name": "Auckland, New Zealand - Waiheke Reeve Airport",
+        "code": "WIK"
+    },
+    {
+        "name": "Marlborough, New Zealand - Kaikoura Airport",
+        "code": "KBZ"
+    },
+    {
+        "name": "Auckland, New Zealand - Kaikohe Airport",
+        "code": "KKO"
+    },
+    {
+        "name": "Alexandra, New Zealand - Alexandra Airport",
+        "code": "ALR"
+    },
+    {
+        "name": "Auckland, New Zealand - Matamata Glider Airport",
+        "code": "MTA"
+    },
+    {
+        "name": "Oamaru, New Zealand - Oamaru Airport",
+        "code": "OAM"
+    },
+    {
+        "name": "Southland, New Zealand - Milford Sound Airport",
+        "code": "MFN"
+    },
+    {
+        "name": "Nelson, New Zealand - Motueka Airport",
+        "code": "MZP"
+    },
+    {
+        "name": "Wellington, New Zealand - RNZAF Base Ohakea",
+        "code": "OHA"
+    },
+    {
+        "name": "Picton, New Zealand - Picton Aerodrome",
+        "code": "PCN"
+    },
+    {
+        "name": "Waikato, New Zealand - Raglan Airfield",
+        "code": "RAG"
+    },
+    {
+        "name": "Oban, New Zealand - Ryans Creek Aerodrome",
+        "code": "SZS"
+    },
+    {
+        "name": "Waikato, New Zealand - Thames Aerodrome",
+        "code": "TMZ"
+    },
+    {
+        "name": "Tasman, New Zealand - Takaka Airport",
+        "code": "KTF"
+    },
+    {
+        "name": "Tokoroa, New Zealand - Tokoroa Airfield",
+        "code": "TKZ"
+    },
+    {
+        "name": "Taharoa, New Zealand - Taharoa Aerodrome",
+        "code": "THH"
+    },
+    {
+        "name": "Twitzel, New Zealand - Pukaki Airport",
+        "code": "TWZ"
+    },
+    {
+        "name": "Wairoa, New Zealand - Wairoa Airport",
+        "code": "WIR"
+    },
+    {
+        "name": "Auckland, New Zealand - Whitianga Airport",
+        "code": "WTZ"
+    },
+    {
+        "name": "Gisborne, New Zealand - Gisborne",
+        "code": "GIS"
+    },
+    {
+        "name": "Wellington, New Zealand - Wellington Intl",
+        "code": "WLG"
+    },
+    {
+        "name": "Christchurch, New Zealand - Christchurch Intl",
+        "code": "CHC"
+    },
+    {
+        "name": "Nelson, New Zealand - Nelson",
+        "code": "NSN"
+    },
+    {
+        "name": "Napier, New Zealand - Hawkes Bay",
+        "code": "NPE"
+    },
+    {
+        "name": "Palmerston North, New Zealand - Palmerston North",
+        "code": "PMR"
+    },
+    {
+        "name": "Queenstown, New Zealand - Frankton",
+        "code": "ZQN"
+    },
+    {
+        "name": "Dunedin, New Zealand - Dunedin",
+        "code": "DUD"
+    },
+    {
+        "name": "Blenheim, New Zealand - Blenheim",
+        "code": "BHE"
+    },
+    {
+        "name": "New Plymouth, New Zealand - New Plymouth",
+        "code": "NPL"
+    },
+    {
+        "name": "Tauranga, New Zealand - Tauranga",
+        "code": "TRG"
+    },
+    {
+        "name": "Hamilton, New Zealand - Hamilton",
+        "code": "HLZ"
+    },
+    {
+        "name": "Invercargill, New Zealand - Invercargill",
+        "code": "IVC"
+    },
+    {
+        "name": "Rotorua, New Zealand - Rotorua",
+        "code": "ROT"
+    },
+    {
+        "name": "Auckland, New Zealand - Auckland International Airport",
+        "code": "AKL"
+    },
+    {
+        "name": "Kerikeri, New Zealand - Kerikeri",
+        "code": "KKE"
+    },
+    {
+        "name": "Whangarei, New Zealand - Whangarei",
+        "code": "WRE"
+    },
+    {
+        "name": "Taupo, New Zealand - Taupo",
+        "code": "TUO"
+    },
+    {
+        "name": "Whakatane, New Zealand - Whakatane Airport",
+        "code": "WHK"
+    },
+    {
+        "name": "Kapiti Coast Airport, Paraparaumu, New Zealand",
+        "code": "PPQ"
+    },
+    {
+        "name": "Wanganui, New Zealand - Wanganui",
+        "code": "WAG"
+    },
+    {
+        "name": "Hokitika, New Zealand - Hokitika",
+        "code": "HKK"
+    },
+    {
+        "name": "Timaru, New Zealand - Timaru",
+        "code": "TIU"
+    },
+    {
+        "name": "Westport, New Zealand - Westport",
+        "code": "WSZ"
+    },
+    {
+        "name": "Chatham Island, New Zealand - Karewa Airport",
+        "code": "CHT"
+    },
+    {
+        "name": "Te Anau, New Zealand",
+        "code": "TEU"
+    },
+    {
+        "name": "Kaitaia, New Zealand - Kaitaia",
+        "code": "KAT"
+    },
+    {
+        "name": "Masterton, New Zealand",
+        "code": "MRO"
+    }
+]

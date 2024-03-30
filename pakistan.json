@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Ormara Raik, Pakistan - Ormara Airport",
+        "code": "ORW"
+    },
+    {
+        "name": "Jacobabad, Pakistan - Shahbaz Air Base",
+        "code": "JAG"
+    },
+    {
+        "name": "Jiwani, Pakistan - Jiwani Airport",
+        "code": "JIW"
+    },
+    {
+        "name": "Hyderabad, Pakistan - Hyderabad Airport",
+        "code": "HDD"
+    },
+    {
+        "name": "Khuzdar, Pakistan - Khuzdar Airport",
+        "code": "KDD"
+    },
+    {
+        "name": "Kalat, Pakistan - Kalat Airport",
+        "code": "KBH"
+    },
+    {
+        "name": "Kohat, Pakistan - Kohat Airport",
+        "code": "OHT"
+    },
+    {
+        "name": "Loralai, Pakistan - Loralai Airport",
+        "code": "LRG"
+    },
+    {
+        "name": "Mangla, Pakistan - Mangla Airport",
+        "code": "XJM"
+    },
+    {
+        "name": "Muzaffarabad, Pakistan - Muzaffarabad Airport",
+        "code": "MFG"
+    },
+    {
+        "name": "Mianwali, Pakistan - Mianwali Air Base",
+        "code": "MWD"
+    },
+    {
+        "name": "Sindhri, Pakistan - Sindhri Tharparkar Airport",
+        "code": "MPD"
+    },
+    {
+        "name": "Nawabash, Pakistan - Nawabshah Airport",
+        "code": "WNS"
+    },
+    {
+        "name": "Nushki, Pakistan - Nushki Airport",
+        "code": "NHS"
+    },
+    {
+        "name": "Dadu, Pakistan - Dadu Airport",
+        "code": "DDU"
+    },
+    {
+        "name": "Parachinar, Pakistan - Parachinar Airport",
+        "code": "PAJ"
+    },
+    {
+        "name": "Pasni, Pakistan - Pasni Airport",
+        "code": "PSI"
+    },
+    {
+        "name": "Rawalakot, Pakistan - Rawalakot Airport",
+        "code": "RAZ"
+    },
+    {
+        "name": "Sibi, Pakistan - Sibi Airport",
+        "code": "SBQ"
+    },
+    {
+        "name": "Sehwan Sharif, Pakistan - Sehwan Sharif Airport",
+        "code": "SYW"
+    },
+    {
+        "name": "Sargodha, Pakistan - Mushaf Air Base",
+        "code": "SGI"
+    },
+    {
+        "name": "Saidu Sharif, Pakistan - Saidu Sharif Airport",
+        "code": "SDT"
+    },
+    {
+        "name": "Sui, Pakistan - Sui Airport",
+        "code": "SUL"
+    },
+    {
+        "name": "Sahiwal, Pakistan - Sahiwal Airport",
+        "code": "SWN"
+    },
+    {
+        "name": "Tarbela, Pakistan - Tarbela Dam Airport",
+        "code": "TLB"
+    },
+    {
+        "name": "Badin, Pakistan - Talhar Airport",
+        "code": "BDN"
+    },
+    {
+        "name": "Taftan, Pakistan - Taftan Airport",
+        "code": "TFT"
+    },
+    {
+        "name": "Waana, Pakistan - Wana Airport",
+        "code": "WAF"
+    },
+    {
+        "name": "Gilgit, Pakistan - Gilgit",
+        "code": "GIL"
+    },
+    {
+        "name": "Islamabad/Rawalpindi, Pakistan - Islamabad Intl",
+        "code": "ISB"
+    },
+    {
+        "name": "Lahore, Pakistan - Lahore",
+        "code": "LHE"
+    },
+    {
+        "name": "Peshawar, Pakistan - Peshawar",
+        "code": "PEW"
+    },
+    {
+        "name": "Multan, Pakistan - Multan",
+        "code": "MUX"
+    },
+    {
+        "name": "Sialkot, Pakistan",
+        "code": "SKT"
+    },
+    {
+        "name": "Faisalabad, Pakistan - Faisalabad",
+        "code": "LYP"
+    },
+    {
+        "name": "Quetta, Pakistan - Quetta",
+        "code": "UET"
+    },
+    {
+        "name": "Sukkur, Pakistan - Sukkur Airport",
+        "code": "SKZ"
+    },
+    {
+        "name": "Rahim Yar Khan, Pakistan - Rahim Yar Khan Airport",
+        "code": "RYK"
+    },
+    {
+        "name": "Turbat, Pakistan - Turbat Airport",
+        "code": "TUK"
+    },
+    {
+        "name": "Gwadar, Pakistan - Gwadar Airport",
+        "code": "GWD"
+    },
+    {
+        "name": "Skardu, Pakistan - Skardu",
+        "code": "KDU"
+    },
+    {
+        "name": "Bahawalpur, Pakistan - Bahawalpur Airport",
+        "code": "BHV"
+    },
+    {
+        "name": "Karachi, Pakistan - Quaid-E-Azam Intl",
+        "code": "KHI"
+    },
+    {
+        "name": "Chitral, Pakistan - Chitral Airport",
+        "code": "CJL"
+    },
+    {
+        "name": "Dera Ghazi Khan, Pakistan - Dera Ghazi Khan Airport",
+        "code": "DEA"
+    },
+    {
+        "name": "Mohenjo Daro, Pakistan - Mohenjo Daro Airport",
+        "code": "MJD"
+    },
+    {
+        "name": "Panjgur, Pakistan - Panjgur Airport",
+        "code": "PJG"
+    },
+    {
+        "name": "Zhob, Pakistan - Zhob Airport",
+        "code": "PZH"
+    },
+    {
+        "name": "Dalbandin, Pakistan - Dalbandin Airport",
+        "code": "DBA"
+    },
+    {
+        "name": "Dera Ismail Khan, Pakistan",
+        "code": "DSK"
+    },
+    {
+        "name": "Abbottabad, Pakistan - Abbottabad Airport",
+        "code": "AAW"
+    },
+    {
+        "name": "Bhagatanwala, Pakistan - Bhagatanwala Airport",
+        "code": "BHW"
+    },
+    {
+        "name": "Bannu, Pakistan - Bannu Airport",
+        "code": "BNP"
+    },
+    {
+        "name": "Bahawalnagar, Pakistan - Bahawalnagar Airport",
+        "code": "WGB"
+    },
+    {
+        "name": "Chilas, Pakistan - Chilas Airport",
+        "code": "CHB"
+    }
+]

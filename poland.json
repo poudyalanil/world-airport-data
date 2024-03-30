@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Zielona Gora, Poland - Babimost Airport",
+        "code": "IEG"
+    },
+    {
+        "name": "Szymany, Poland - Olsztyn-Mazury Airport",
+        "code": "SZY"
+    },
+    {
+        "name": "Suwalki, Poland - Suwalki Airport",
+        "code": "ZWK"
+    },
+    {
+        "name": "Opole, Poland - Opole-Polska Nowa Wies Airport",
+        "code": "QPM"
+    },
+    {
+        "name": "Gdynia, Poland - Oksywie Military Air Base",
+        "code": "QYD"
+    },
+    {
+        "name": "Nowy Targ, Poland - Nowy Targ Airport",
+        "code": "QWS"
+    },
+    {
+        "name": "Lublin, Poland - Lublin Radwiec Airport",
+        "code": "QLU"
+    },
+    {
+        "name": "Czechowice-Dziedzice, Poland - Bielsko-Bialo Kaniow Airfield",
+        "code": "QEO"
+    },
+    {
+        "name": "West-Pomerania, Poland - Koszalin Zegrze Airport",
+        "code": "OSZ"
+    },
+    {
+        "name": "Silesia, Poland - Gliwice Glider Airport",
+        "code": "QLC"
+    },
+    {
+        "name": "Czestochowa, Poland - Czestochowa-Rudniki",
+        "code": "CZW"
+    },
+    {
+        "name": "Biala Podlaska, Poland - Biala Podlaska Airport",
+        "code": "BXP"
+    },
+    {
+        "name": "Bialystok, Poland - Bialystok-Krywlany Airport",
+        "code": "QYY"
+    },
+    {
+        "name": "Warsaw, Poland - Frederic Chopin",
+        "code": "WAW"
+    },
+    {
+        "name": "Lodz, Poland - Lodz Lublinek Airport",
+        "code": "LCJ"
+    },
+    {
+        "name": "Bydgoszcz, Poland - Bydgoszcz",
+        "code": "BZG"
+    },
+    {
+        "name": "Lublin, Poland",
+        "code": "LUZ"
+    },
+    {
+        "name": "Szczecin, Poland - Goleniow",
+        "code": "SZZ"
+    },
+    {
+        "name": "Rzeszow, Poland - Jasionka",
+        "code": "RZE"
+    },
+    {
+        "name": "Warsaw, Poland - Warsaw-Modlin Mazovia Airport",
+        "code": "WMI"
+    },
+    {
+        "name": "Poznan, Poland - Lawica",
+        "code": "POZ"
+    },
+    {
+        "name": "Katowice, Poland - Pyrzowice",
+        "code": "KTW"
+    },
+    {
+        "name": "Wroclaw, Poland - Strachowice",
+        "code": "WRO"
+    },
+    {
+        "name": "Gdansk, Poland - Rebiechowo",
+        "code": "GDN"
+    },
+    {
+        "name": "Krakow, Poland - John Paul II Balice",
+        "code": "KRK"
+    }
+]

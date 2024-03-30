@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Longyearbyen, Norway - Svalbard",
+        "code": "LYR"
+    },
+    {
+        "name": "Bardufoss, Norway - Bardufoss",
+        "code": "BDU"
+    },
+    {
+        "name": "Sandane, Norway - Sandane Anda",
+        "code": "SDN"
+    },
+    {
+        "name": "Lakselv, Norway - Banak",
+        "code": "LKL"
+    },
+    {
+        "name": "Batsfjord, Norway - Batsfjord Airport",
+        "code": "BJF"
+    },
+    {
+        "name": "Honningsvag, Norway - Valan",
+        "code": "HVG"
+    },
+    {
+        "name": "Mehamn, Norway - Mehamn Mncpl",
+        "code": "MEH"
+    },
+    {
+        "name": "Vardoe, Norway - Vardoe Airport",
+        "code": "VAW"
+    },
+    {
+        "name": "Roervik, Norway - Roervik",
+        "code": "RVK"
+    },
+    {
+        "name": "Namsos, Norway - Namsos",
+        "code": "OSY"
+    },
+    {
+        "name": "Hasvik, Norway - Hasvik Airport",
+        "code": "HAA"
+    },
+    {
+        "name": "Sorkjosen, Norway - Sorkjosen",
+        "code": "SOJ"
+    },
+    {
+        "name": "Berlevag, Norway - Berlevag Airport",
+        "code": "BVG"
+    },
+    {
+        "name": "Roros, Norway - Roros",
+        "code": "RRS"
+    },
+    {
+        "name": "Rost, Norway - Stolport Airport",
+        "code": "RET"
+    },
+    {
+        "name": "Norway House, Canada - Norway House Airport",
+        "code": "YNE"
+    },
+    {
+        "name": "Stord, Norway - Stord",
+        "code": "SRP"
+    },
+    {
+        "name": "Notodden, Norway",
+        "code": "NTB"
+    },
+    {
+        "name": "Fagernes, Norway - Valdres",
+        "code": "VDB"
+    },
+    {
+        "name": "Narvik, Norway - Framnes",
+        "code": "NVK"
+    },
+    {
+        "name": "Orland, Norway - Orland Airport",
+        "code": "OLA"
+    },
+    {
+        "name": "Rygge, Norway - Moss Airport",
+        "code": "RYG"
+    },
+    {
+        "name": "Skien, Norway - Skien",
+        "code": "SKE"
+    },
+    {
+        "name": "Vaeroy, Norway - Stolport Airport",
+        "code": "VRY"
+    },
+    {
+        "name": "Dagali, Norway - Geilo Airport Dagali",
+        "code": "DLD"
+    },
+    {
+        "name": "Hamar, Norway - Stafsberg Airport",
+        "code": "HMR"
+    },
+    {
+        "name": "Finnmark, Norway - Kautokeino Air Base",
+        "code": "QKX"
+    },
+    {
+        "name": "Klanten, Norway - Gol Airport",
+        "code": "GLL"
+    },
+    {
+        "name": "Farsund, Norway - Lista Airport",
+        "code": "FAN"
+    },
+    {
+        "name": "Kristiansund, Norway - Kvernberget",
+        "code": "KSU"
+    },
+    {
+        "name": "Bergen, Norway - Flesland",
+        "code": "BGO"
+    },
+    {
+        "name": "Trondheim, Norway - Vaernes",
+        "code": "TRD"
+    },
+    {
+        "name": "Stavanger, Norway - Sola",
+        "code": "SVG"
+    },
+    {
+        "name": "Tromso, Norway - Tromso/Langnes",
+        "code": "TOS"
+    },
+    {
+        "name": "Bodo, Norway - Bodo",
+        "code": "BOO"
+    },
+    {
+        "name": "Oslo, Norway - Sandefjord",
+        "code": "TRF"
+    },
+    {
+        "name": "Kristiansand, Norway - Kjevik",
+        "code": "KRS"
+    },
+    {
+        "name": "Aalesund, Norway - Vigra",
+        "code": "AES"
+    },
+    {
+        "name": "Hammerfest, Norway - Hammerfest",
+        "code": "HFT"
+    },
+    {
+        "name": "Harstad-Narvik, Norway - Evenes Airport",
+        "code": "EVE"
+    },
+    {
+        "name": "Alta, Norway - Alta",
+        "code": "ALF"
+    },
+    {
+        "name": "Leknes, Norway - Leknes",
+        "code": "LKN"
+    },
+    {
+        "name": "Molde, Norway - Aro",
+        "code": "MOL"
+    },
+    {
+        "name": "Vadso, Norway - Vadso",
+        "code": "VDS"
+    },
+    {
+        "name": "Oslo, Norway - Oslo Airport",
+        "code": "OSL"
+    },
+    {
+        "name": "Floro, Norway - Flora",
+        "code": "FRO"
+    },
+    {
+        "name": "Kirkenes, Norway - Hoeybuktmoen",
+        "code": "KKN"
+    },
+    {
+        "name": "Svolvaer, Norway - Helle",
+        "code": "SVJ"
+    },
+    {
+        "name": "Haugesund, Norway - Haugesund",
+        "code": "HAU"
+    },
+    {
+        "name": "Stokmarknes, Norway - Skagen",
+        "code": "SKN"
+    },
+    {
+        "name": "Sogndal, Norway - Haukasen",
+        "code": "SOG"
+    },
+    {
+        "name": "Mo-i-Rana, Norway - Rossvoll",
+        "code": "MQN"
+    },
+    {
+        "name": "Orsta, Norway - Hovden",
+        "code": "HOV"
+    },
+    {
+        "name": "Bronnoysund, Norway - Bronnoy",
+        "code": "BNN"
+    },
+    {
+        "name": "Forde, Norway - Bringeland",
+        "code": "FDE"
+    },
+    {
+        "name": "Andenes, Norway - Andenes Airport",
+        "code": "ANX"
+    },
+    {
+        "name": "Mosjoen, Norway - Kjaerstad",
+        "code": "MJF"
+    },
+    {
+        "name": "Sandnessjoen, Norway - Stokka",
+        "code": "SSJ"
+    }
+]

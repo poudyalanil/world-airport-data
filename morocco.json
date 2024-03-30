@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Tan Tan, Morocco - Tan Tan Airport",
+        "code": "TTA"
+    },
+    {
+        "name": "Morocco - Kenitra Airport",
+        "code": "NNA"
+    },
+    {
+        "name": "Safi, Morocco - Safi Airport",
+        "code": "SFI"
+    },
+    {
+        "name": "Sidi Ifni, Morocco - Sidi Ifni Xx Airport",
+        "code": "SII"
+    },
+    {
+        "name": "Ben Slimane, Morocco - Ben Slimane Airport",
+        "code": "GMD"
+    },
+    {
+        "name": "Meknes, Morocco - Bassatine Airport",
+        "code": "MEK"
+    },
+    {
+        "name": "Bouarfa, Morocco - Bouarfa Airport",
+        "code": "UAR"
+    },
+    {
+        "name": "Casablanca, Morocco - Anfa",
+        "code": "CAS"
+    },
+    {
+        "name": "Zagora, Morocco - Zagora Airport",
+        "code": "OZG"
+    },
+    {
+        "name": "Ksar Es Souk, Morocco",
+        "code": "SEK"
+    },
+    {
+        "name": "Errachidia, Morocco - Errachidia Airport",
+        "code": "ERH"
+    },
+    {
+        "name": "Essaouira, Morocco - Essaouira",
+        "code": "ESU"
+    },
+    {
+        "name": "Al Hoceima, Morocco - Charif Al Idrissi",
+        "code": "AHU"
+    },
+    {
+        "name": "Casablanca, Morocco - Mohamed V",
+        "code": "CMN"
+    },
+    {
+        "name": "Goulimime, Morocco",
+        "code": "GLN"
+    },
+    {
+        "name": "Tetuan, Morocco",
+        "code": "TTU"
+    },
+    {
+        "name": "Ouarzazate, Morocco - Ouarzazate",
+        "code": "OZZ"
+    },
+    {
+        "name": "Dakhla, Morocco - Dakhla Airport",
+        "code": "VIL"
+    },
+    {
+        "name": "Laayoune, Morocco - Hassan I Airport",
+        "code": "EUN"
+    },
+    {
+        "name": "Nador, Morocco - Nador Airport",
+        "code": "NDR"
+    },
+    {
+        "name": "Oujda, Morocco - Les Angades",
+        "code": "OUD"
+    },
+    {
+        "name": "Fez, Morocco - Sais",
+        "code": "FEZ"
+    },
+    {
+        "name": "Rabat, Morocco - Sale",
+        "code": "RBA"
+    },
+    {
+        "name": "Tangier, Morocco - Boukhalef",
+        "code": "TNG"
+    },
+    {
+        "name": "Agadir, Morocco - Agadir Almassira",
+        "code": "AGA"
+    },
+    {
+        "name": "Marrakech, Morocco - Menara",
+        "code": "RAK"
+    }
+]

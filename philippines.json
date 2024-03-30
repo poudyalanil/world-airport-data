@@ -1,0 +1,246 @@
+[
+    {
+        "name": "Philippines - Iligan Airport",
+        "code": "IGN"
+    },
+    {
+        "name": "Calbayog, Philippines - Calbayog Airport",
+        "code": "CYP"
+    },
+    {
+        "name": "San Jose, Philippines - McGuire Field",
+        "code": "SJI"
+    },
+    {
+        "name": "Virac, Philippines - Virac Airport",
+        "code": "VRC"
+    },
+    {
+        "name": "Tawitawi, Philippines - Tawitawi Airport",
+        "code": "TWT"
+    },
+    {
+        "name": "Catarman, Philippines - National Airport",
+        "code": "CRM"
+    },
+    {
+        "name": "Tandag, Philippines",
+        "code": "TDG"
+    },
+    {
+        "name": "Baguio, Philippines - Loakan",
+        "code": "BAG"
+    },
+    {
+        "name": "Jolo, Philippines - Jolo Airport",
+        "code": "JOL"
+    },
+    {
+        "name": "San Fernando, Philippines - San Fernando Airport",
+        "code": "SFE"
+    },
+    {
+        "name": "Olongapo City, Philippines - Subic Bay International Airport",
+        "code": "SFS"
+    },
+    {
+        "name": "Cuyo, Philippines - Cuyo Airport",
+        "code": "CYU"
+    },
+    {
+        "name": "Cavite City, Philippines - Sangley Point Air Base",
+        "code": "NSP"
+    },
+    {
+        "name": "Mimaropa, Philippines - Lubang Airport",
+        "code": "LBX"
+    },
+    {
+        "name": "Surallah, Philippines - Allah Valley Airport",
+        "code": "AAV"
+    },
+    {
+        "name": "Caraga, Philippines - Bislig Airport",
+        "code": "BPH"
+    },
+    {
+        "name": "Camiguin, Philippines - Mambajao Airport",
+        "code": "CGM"
+    },
+    {
+        "name": "Malabang, Philippines - Malabang Airport",
+        "code": "MLP"
+    },
+    {
+        "name": "ARMM, Philippines - Sanga Sanga Airport",
+        "code": "SGS"
+    },
+    {
+        "name": "Davao, Philippines - Mati National Airport",
+        "code": "MXI"
+    },
+    {
+        "name": "Mapun, Philippines - Cagayan de Sulu Airport",
+        "code": "CDY"
+    },
+    {
+        "name": "Ipil, Philippines - Ipil Airport",
+        "code": "IPE"
+    },
+    {
+        "name": "Taytay Airport, Philippines - Cesar Lim Rodriguez Airport",
+        "code": "RZP"
+    },
+    {
+        "name": "Daet, Philippines - Daet Airport",
+        "code": "DTE"
+    },
+    {
+        "name": "Mimaropa, Philippines - Mamburao Airport",
+        "code": "MBO"
+    },
+    {
+        "name": "Baler, Philippines - Dr.Juan C. Angara Airport",
+        "code": "BQA"
+    },
+    {
+        "name": "Gasan, Philippines - Marinduque Airport",
+        "code": "MRQ"
+    },
+    {
+        "name": "Ormoc City, Philippines - Ormoc Airport",
+        "code": "OMC"
+    },
+    {
+        "name": "San Jose, Philippines - Evelio Javier Airport",
+        "code": "EUQ"
+    },
+    {
+        "name": "Romblon, Philippines - Romblon Airport",
+        "code": "TBH"
+    },
+    {
+        "name": "Borongan City, Philippines - Borongan Airport",
+        "code": "BPR"
+    },
+    {
+        "name": "Legaspi, Philippines - Legaspi",
+        "code": "LGP"
+    },
+    {
+        "name": "Cebu, Philippines - Cebu Intl",
+        "code": "CEB"
+    },
+    {
+        "name": "Davao, Philippines - Mati",
+        "code": "DVO"
+    },
+    {
+        "name": "Kalibo, Philippines - Kalibo",
+        "code": "KLO"
+    },
+    {
+        "name": "Iloilo, Philippines - Mandurriao",
+        "code": "ILO"
+    },
+    {
+        "name": "Bacolod, Philippines - Bacolod Airport",
+        "code": "BCD"
+    },
+    {
+        "name": "Puerto Princesa, Philippines - Puerto Princesa",
+        "code": "PPS"
+    },
+    {
+        "name": "Luzon Island, Philippines - Clark Field",
+        "code": "CRK"
+    },
+    {
+        "name": "Caticlan, Philippines - Malay Airport",
+        "code": "MPH"
+    },
+    {
+        "name": "Tacloban, Philippines - D. Z. Romualdez Airport",
+        "code": "TAC"
+    },
+    {
+        "name": "Tagbilaran, Philippines - Tagbilaran Airport",
+        "code": "TAG"
+    },
+    {
+        "name": "Busuanga, Philippines - Busuanga Airport",
+        "code": "USU"
+    },
+    {
+        "name": "Butuan, Philippines - Butuan Airport",
+        "code": "BXU"
+    },
+    {
+        "name": "Zamboanga, Philippines - Zamboanga",
+        "code": "ZAM"
+    },
+    {
+        "name": "General Santos, Philippines - Buayan Airport",
+        "code": "GES"
+    },
+    {
+        "name": "Manila, Philippines - Ninoy Aquino Intl",
+        "code": "MNL"
+    },
+    {
+        "name": "Dumaguete, Philippines - Dumaguete",
+        "code": "DGT"
+    },
+    {
+        "name": "Ozamis City, Philippines",
+        "code": "OZC"
+    },
+    {
+        "name": "Roxas City, Philippines - Roxas City Airport",
+        "code": "RXS"
+    },
+    {
+        "name": "Naga, Philippines - Naga Airport",
+        "code": "WNP"
+    },
+    {
+        "name": "Cotabato, Philippines - Awang Airport",
+        "code": "CBO"
+    },
+    {
+        "name": "El Nido, Philippines - El Nido Airport",
+        "code": "ENI"
+    },
+    {
+        "name": "Laoag, Philippines - Laoag",
+        "code": "LAO"
+    },
+    {
+        "name": "Surigao, Philippines - Surigao Airport",
+        "code": "SUG"
+    },
+    {
+        "name": "Dipolog, Philippines - Dipolog Airport",
+        "code": "DPL"
+    },
+    {
+        "name": "Pagadian, Philippines - Pagadian Airport",
+        "code": "PAG"
+    },
+    {
+        "name": "Masbate, Philippines - Masbate Airport",
+        "code": "MBT"
+    },
+    {
+        "name": "Tuguegarao, Philippines - Tuguegarao Airport",
+        "code": "TUG"
+    },
+    {
+        "name": "Basco, Philippines - Basco Airport",
+        "code": "BSO"
+    },
+    {
+        "name": "Cauayan, Philippines",
+        "code": "CYZ"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Sao Jorge Island, Portugal - Sao Jorge Island Airport",
+        "code": "SJZ"
+    },
+    {
+        "name": "Setubal, Portugal - Sines Airport",
+        "code": "SIE"
+    },
+    {
+        "name": "Faro, Portugal - Portimao Airport",
+        "code": "PRM"
+    },
+    {
+        "name": "Castelo-Branco, Portugal - Covilha Airport",
+        "code": "COV"
+    },
+    {
+        "name": "Coimbra, Portugal - Coimbra Airport",
+        "code": "CBP"
+    },
+    {
+        "name": "Chaves, Portugal - Chaves Airport",
+        "code": "CHV"
+    },
+    {
+        "name": "Braga, Portugal - Braga Municipal Aerodrome",
+        "code": "BGZ"
+    },
+    {
+        "name": "Beja, Portugal - Beja International Airport",
+        "code": "BYJ"
+    },
+    {
+        "name": "Braganca, Portugal - Braganca",
+        "code": "BGC"
+    },
+    {
+        "name": "Porto Santo, Portugal - Porto Santo",
+        "code": "PXO"
+    },
+    {
+        "name": "Viseu, Portugal",
+        "code": "VSE"
+    },
+    {
+        "name": "Vila Real, Portugal - Vila Real",
+        "code": "VRL"
+    },
+    {
+        "name": "Lisbon, Portugal - Lisboa",
+        "code": "LIS"
+    },
+    {
+        "name": "Azores), Portugal - Graciosa Island Airport",
+        "code": "GRW"
+    },
+    {
+        "name": "Santa Maria, Portugal - Vila Do Porto",
+        "code": "SMA"
+    },
+    {
+        "name": "Azores), Portugal - Santa Cruz Airport",
+        "code": "FLW"
+    },
+    {
+        "name": "Azores), Portugal - Pico Island Airport",
+        "code": "PIX"
+    },
+    {
+        "name": "Horta, Portugal - Horta",
+        "code": "HOR"
+    },
+    {
+        "name": "Terceira, Portugal - Lajes Airport",
+        "code": "TER"
+    },
+    {
+        "name": "Ponta Delgada, Portugal - Nordela",
+        "code": "PDL"
+    },
+    {
+        "name": "Funchal, Portugal - Funchal",
+        "code": "FNC"
+    },
+    {
+        "name": "Faro, Portugal - Faro",
+        "code": "FAO"
+    },
+    {
+        "name": "Porto, Portugal - Dr Fran Carneiro",
+        "code": "OPO"
+    }
+]

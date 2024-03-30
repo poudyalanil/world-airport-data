@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Piedras Negras, Mexico - Piedras Negras Mncpl",
+        "code": "PDS"
+    },
+    {
+        "name": "Ciudad Acuna, Mexico - Ciudad Acuna New International Airport",
+        "code": "ACN"
+    },
+    {
+        "name": "Sonora, Mexico - Cananea Airport",
+        "code": "CNA"
+    },
+    {
+        "name": "Nuevo-Leon, Mexico - Del Norte International Airport",
+        "code": "NTR"
+    },
+    {
+        "name": "Salina Cruz, Mexico - Salina Cruz Airport",
+        "code": "SCX"
+    },
+    {
+        "name": "Monclova, Mexico - Monclova",
+        "code": "LOV"
+    },
+    {
+        "name": "Lagos De Moreno, Mexico",
+        "code": "LOM"
+    },
+    {
+        "name": "Jalapa, Mexico - Jalapa Mncpl",
+        "code": "JAL"
+    },
+    {
+        "name": "Cuernavaca, Mexico - Cuernavaca",
+        "code": "CVJ"
+    },
+    {
+        "name": "Palenque, Mexico",
+        "code": "PQM"
+    },
+    {
+        "name": "Guaymas, Mexico - Guaymas",
+        "code": "GYM"
+    },
+    {
+        "name": "Chihuahua, Mexico - Nuevo Casas Grandes Airport",
+        "code": "NCG"
+    },
+    {
+        "name": "Uruapan, Mexico - Uruapan",
+        "code": "UPN"
+    },
+    {
+        "name": "Lazaro Cardenas, Mexico - Lazaro Cardenas Mncp",
+        "code": "LZC"
+    },
+    {
+        "name": "Saltillo, Mexico - Saltillo",
+        "code": "SLW"
+    },
+    {
+        "name": "Nuevo Laredo, Mexico - Quetzalcoatl Intl",
+        "code": "NLD"
+    },
+    {
+        "name": "Loreto, Mexico - Loreto Airport",
+        "code": "LTO"
+    },
+    {
+        "name": "Matamoros, Mexico - Matamoros Intl",
+        "code": "MAM"
+    },
+    {
+        "name": "Poza Rica, Mexico - Tajin",
+        "code": "PAZ"
+    },
+    {
+        "name": "Puerto Escondido, Mexico - Puerto Escondido",
+        "code": "PXM"
+    },
+    {
+        "name": "Ciudad Victoria, Mexico - Ciudad Victoria",
+        "code": "CVM"
+    },
+    {
+        "name": "Tepic, Mexico - Tepic Mncpl",
+        "code": "TPQ"
+    },
+    {
+        "name": "Mexico, Mexico - Atizapan De Zaragoza Airport",
+        "code": "AZP"
+    },
+    {
+        "name": "Michoacan, Mexico - Zamora Airport",
+        "code": "ZMM"
+    },
+    {
+        "name": "Jalisco, Mexico - Tuxpan Airport",
+        "code": "WIX"
+    },
+    {
+        "name": "San-Luis-Potosi, Mexico - Tamuin Airport",
+        "code": "TSL"
+    },
+    {
+        "name": "Santa Lucia, Mexico - Felipe Angeles International Airport",
+        "code": "NLU"
+    },
+    {
+        "name": "Baja-California, Mexico - San Felipe International Airport",
+        "code": "SFH"
+    },
+    {
+        "name": "Chiapas, Mexico - San Cristobal De Las Casas Airport",
+        "code": "SZT"
+    },
+    {
+        "name": "La Ribera, Mexico - Punta Colorada Airport",
+        "code": "PCO"
+    },
+    {
+        "name": "Puerto Penasco, Mexico - Puerto Penasco International Airport",
+        "code": "PPE"
+    },
+    {
+        "name": "Sonora, Mexico - Nogales International Airport",
+        "code": "NOG"
+    },
+    {
+        "name": "Mulege, Mexico - Mulege Airport",
+        "code": "MUG"
+    },
+    {
+        "name": "Colima, Mexico - Colima Mncpl",
+        "code": "CLQ"
+    },
+    {
+        "name": "Oaxaca, Mexico - Ixtepec Airport",
+        "code": "IZT"
+    },
+    {
+        "name": "Quintana-Roo, Mexico - Isla Mujeres Airport",
+        "code": "ISJ"
+    },
+    {
+        "name": "Puebla, Mexico - Tehuacan Airport",
+        "code": "TCN"
+    },
+    {
+        "name": "Guerrero Negro, Mexico - Guerrero Negro Airport",
+        "code": "GUB"
+    },
+    {
+        "name": "Baja-California, Mexico - Ensenada Airport",
+        "code": "ESE"
+    },
+    {
+        "name": "Ciudad Mante, Mexico - Ciudad Mante National Airport",
+        "code": "MMC"
+    },
+    {
+        "name": "Ciudad Constitucion, Mexico - Ciudad Constitucion Airport",
+        "code": "CUA"
+    },
+    {
+        "name": "Celaya, Mexico - Captain Rogelio Castillo National Airport",
+        "code": "CYW"
+    },
+    {
+        "name": "Yucatan, Mexico - Chichen Itza International Airport",
+        "code": "CZA"
+    },
+    {
+        "name": "Chiapas, Mexico - Comitan Airport",
+        "code": "CJT"
+    },
+    {
+        "name": "Queretaro, Mexico - Queretaro Mncpl",
+        "code": "QRO"
+    },
+    {
+        "name": "Morelia, Mexico - Morelia Airport",
+        "code": "MLM"
+    },
+    {
+        "name": "Tampico, Mexico - Tampico",
+        "code": "TAM"
+    },
+    {
+        "name": "San Luis Potosi, Mexico - San Luis Potosi Airport",
+        "code": "SLP"
+    },
+    {
+        "name": "Oaxaca, Mexico - Xoxocotlan Airport",
+        "code": "OAX"
+    },
+    {
+        "name": "Tuxtla Gutierrez, Mexico - Llano San Juan",
+        "code": "TGZ"
+    },
+    {
+        "name": "Chihuahua, Mexico - Chihuahua",
+        "code": "CUU"
+    },
+    {
+        "name": "La Paz, Mexico - Leon Airport",
+        "code": "LAP"
+    },
+    {
+        "name": "Aguascalientes, Mexico - Aguascalients Airport",
+        "code": "AGU"
+    },
+    {
+        "name": "Culiacan, Mexico - Culiacan",
+        "code": "CUL"
+    },
+    {
+        "name": "Villahermosa, Mexico - Villahermosa",
+        "code": "VSA"
+    },
+    {
+        "name": "Ciudad Juarez, Mexico - A Gonzalez Intl",
+        "code": "CJS"
+    },
+    {
+        "name": "Hermosillo, Mexico - Gen Pesqueira Garcia Airport",
+        "code": "HMO"
+    },
+    {
+        "name": "Veracruz, Mexico - Las Bajadas Airport",
+        "code": "VER"
+    },
+    {
+        "name": "Merida, Mexico - Rejon Airport",
+        "code": "MID"
+    },
+    {
+        "name": "Leon, Mexico - Del Bajio Airport",
+        "code": "BJX"
+    },
+    {
+        "name": "Puerto Vallarta, Mexico - Ordaz",
+        "code": "PVR"
+    },
+    {
+        "name": "Los Cabos, Mexico - Los Cabos Airport",
+        "code": "SJD"
+    },
+    {
+        "name": "Tijuana, Mexico - Rodriguez",
+        "code": "TIJ"
+    },
+    {
+        "name": "Monterrey, Mexico - Gen Mariano Escobedo Airport",
+        "code": "MTY"
+    },
+    {
+        "name": "Guadalajara, Mexico - Miguel Hidal Airport",
+        "code": "GDL"
+    },
+    {
+        "name": "Cancun, Mexico - Cancun Airport",
+        "code": "CUN"
+    },
+    {
+        "name": "Puebla, Mexico - Hermanos Serdan",
+        "code": "PBC"
+    },
+    {
+        "name": "Campeche, Mexico - Campeche Intl",
+        "code": "CPE"
+    },
+    {
+        "name": "Chetumal, Mexico - Chetumal",
+        "code": "CTM"
+    },
+    {
+        "name": "Manzanillo, Mexico - Manzanillo Airport",
+        "code": "ZLO"
+    },
+    {
+        "name": "Tapachula, Mexico - Tapachula",
+        "code": "TAP"
+    },
+    {
+        "name": "Ciudad Del Carmen, Mexico - Ciudad Del Carmen",
+        "code": "CME"
+    },
+    {
+        "name": "Minatitlan, Mexico - Minatitlan Airport",
+        "code": "MTT"
+    },
+    {
+        "name": "Mexicali, Mexico - Mexicali Intl",
+        "code": "MXL"
+    },
+    {
+        "name": "Zacatecas, Mexico - La Calera Airport",
+        "code": "ZCL"
+    },
+    {
+        "name": "Ciudad Obregon, Mexico - Ciudad Obregon",
+        "code": "CEN"
+    },
+    {
+        "name": "Los Mochis, Mexico - Federal",
+        "code": "LMM"
+    },
+    {
+        "name": "Mexico City, Mexico - Juarez International Airport",
+        "code": "MEX"
+    },
+    {
+        "name": "Reynosa, Mexico - Gen Lucio Blanco",
+        "code": "REX"
+    },
+    {
+        "name": "Durango, Mexico - Guadalupe Victoria Airport",
+        "code": "DGO"
+    },
+    {
+        "name": "Ixtapa, Mexico - Extapa/Zihuatanejo Internacional Airport",
+        "code": "ZIH"
+    },
+    {
+        "name": "Cozumel, Mexico - Cozumel Airport",
+        "code": "CZM"
+    },
+    {
+        "name": "Torreon, Mexico - Torreon",
+        "code": "TRC"
+    },
+    {
+        "name": "Huatulco, Mexico - Huatulco Airport",
+        "code": "HUX"
+    },
+    {
+        "name": "Mazatlan, Mexico - Gen Rafael Buelna Airport",
+        "code": "MZT"
+    },
+    {
+        "name": "Toluca, Mexico - Toluca",
+        "code": "TLC"
+    },
+    {
+        "name": "Acapulco, Mexico - Alvarez International Airport",
+        "code": "ACA"
+    }
+]

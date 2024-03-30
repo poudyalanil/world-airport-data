@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Asuncion, Paraguay - Silvio Pettirossi",
+        "code": "ASU"
+    },
+    {
+        "name": "Ciudad Del Este, Paraguay - Alejo Garcia Airport",
+        "code": "AGT"
+    },
+    {
+        "name": "Ayolas, Paraguay - Juan De Ayolas Airport",
+        "code": "AYO"
+    },
+    {
+        "name": "Bahia Negra, Paraguay - Bahia Negra Airport",
+        "code": "BFA"
+    },
+    {
+        "name": "Concepcion, Paraguay - Teniente Col Carmelo Peralta Airport",
+        "code": "CIO"
+    },
+    {
+        "name": "Encarnacion, Paraguay - Encarnacion Airport",
+        "code": "ENO"
+    },
+    {
+        "name": "Filadelfia, Paraguay - Filadelfia Airport",
+        "code": "FLM"
+    },
+    {
+        "name": "Mariscal Estigarribia, Paraguay - Dr. Luis Maria Argana International Airport",
+        "code": "ESG"
+    },
+    {
+        "name": "Fuerte Olimpo, Paraguay - Fuerte Olimpo Airport",
+        "code": "OLK"
+    },
+    {
+        "name": "Pilar, Paraguay - Carlos Miguel Gimenez Airport",
+        "code": "PIL"
+    },
+    {
+        "name": "Pedro Juan Caballero, Paraguay - Dr Augusto Roberto Fuster International Airport",
+        "code": "PJC"
+    }
+]

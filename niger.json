@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Asaba, Nigeria - Asaba International Airport",
+        "code": "ABB"
+    },
+    {
+        "name": "Zaria, Nigeria - Zaria Airport",
+        "code": "ZAR"
+    },
+    {
+        "name": "Minna, Nigeria - Minna Airport",
+        "code": "MXJ"
+    },
+    {
+        "name": "Makurdi, Nigeria - Makurdi Airport",
+        "code": "MDI"
+    },
+    {
+        "name": "Gusau, Nigeria - Gusau Airport",
+        "code": "QUS"
+    },
+    {
+        "name": "Akure, Nigeria - Akure Airport",
+        "code": "AKR"
+    },
+    {
+        "name": "Tahoua, Niger",
+        "code": "THZ"
+    },
+    {
+        "name": "Port Harcourt, Nigeria",
+        "code": "PHG"
+    },
+    {
+        "name": "Maradi, Niger",
+        "code": "MFQ"
+    },
+    {
+        "name": "Zinder, Niger",
+        "code": "ZND"
+    },
+    {
+        "name": "Agades, Niger",
+        "code": "AJY"
+    },
+    {
+        "name": "Jos, Nigeria",
+        "code": "JOS"
+    },
+    {
+        "name": "Gombe, Nigeria - Gombe Lawanti International Airport",
+        "code": "GMO"
+    },
+    {
+        "name": "Ibadan, Nigeria",
+        "code": "IBA"
+    },
+    {
+        "name": "Sokoto, Nigeria - Sokoto Airport",
+        "code": "SKO"
+    },
+    {
+        "name": "Lagos, Nigeria - Murtala Muhammed",
+        "code": "LOS"
+    },
+    {
+        "name": "Ilorin, Nigeria",
+        "code": "ILR"
+    },
+    {
+        "name": "Maiduguri, Nigeria",
+        "code": "MIU"
+    },
+    {
+        "name": "Yola, Nigeria",
+        "code": "YOL"
+    },
+    {
+        "name": "Calabar, Nigeria - Calabar Airport",
+        "code": "CBQ"
+    },
+    {
+        "name": "Qsubi, Nigeria - Warri Airport",
+        "code": "QRW"
+    },
+    {
+        "name": "Oron, Nigeria - Akwa Ibom Airport",
+        "code": "QUO"
+    },
+    {
+        "name": "Enugu, Nigeria - Enugu",
+        "code": "ENU"
+    },
+    {
+        "name": "Owerri, Nigeria - Sam Mbakwe Airport",
+        "code": "QOW"
+    },
+    {
+        "name": "Benin City, Nigeria - Benin City Airport",
+        "code": "BNI"
+    },
+    {
+        "name": "Niamey, Niger - Niamey",
+        "code": "NIM"
+    },
+    {
+        "name": "Kaduna, Nigeria - Kaduna Airport",
+        "code": "KAD"
+    },
+    {
+        "name": "Kano, Nigeria - Aminu Kano International Airport",
+        "code": "KAN"
+    },
+    {
+        "name": "Port Harcourt, Nigeria - Port Harcourt",
+        "code": "PHC"
+    },
+    {
+        "name": "Abuja, Nigeria - Abuja International",
+        "code": "ABV"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Rodriguez de Mendoza, Peru - San Nicolas Airport",
+        "code": "RIM"
+    },
+    {
+        "name": "Andoas, Peru - Alferez FAP Alfredo Vladimir Sara Bauer Airport",
+        "code": "AOP"
+    },
+    {
+        "name": "Atalaya, Peru - Teniente General Gerardo Perez Pinedo Airport",
+        "code": "ATG"
+    },
+    {
+        "name": "Moyobamba, Peru - Moyobamba Airport",
+        "code": "MBP"
+    },
+    {
+        "name": "Bellavista, Peru - Huallaga Airport",
+        "code": "BLP"
+    },
+    {
+        "name": "Iberia, Peru - Iberia Airport",
+        "code": "IBP"
+    },
+    {
+        "name": "Chimbote, Peru - Teniente FAP Jaime A De Montreuil Morales Airport",
+        "code": "CHM"
+    },
+    {
+        "name": "Quince Mil, Peru - Quince Air Base",
+        "code": "UMI"
+    },
+    {
+        "name": "Uchiza, Peru - Uchiza Airport",
+        "code": "UCZ"
+    },
+    {
+        "name": "Rioja, Peru - Juan Simons Vela Airport",
+        "code": "RIJ"
+    },
+    {
+        "name": "Juanjui, Peru - Juanjui Airport",
+        "code": "JJI"
+    },
+    {
+        "name": "San Juan de Marcona, Peru - San Juan de Marcona Airport",
+        "code": "SJA"
+    },
+    {
+        "name": "Fortaleza, Peru - Alerta Airport",
+        "code": "ALD"
+    },
+    {
+        "name": "Ilo, Peru - Ilo Airport",
+        "code": "ILQ"
+    },
+    {
+        "name": "Santa Maria, Peru - Santa Maria Airport",
+        "code": "SMG"
+    },
+    {
+        "name": "Yurimaguas, Peru - Moises Benzaquen Rengifo Airport",
+        "code": "YMS"
+    },
+    {
+        "name": "Plaza Saposoa, Peru - Saposoa Airport",
+        "code": "SQU"
+    },
+    {
+        "name": "Chachapoyas, Peru - Chachapoyas Airport",
+        "code": "CHH"
+    },
+    {
+        "name": "Requena, Peru - Requena Airport",
+        "code": "REQ"
+    },
+    {
+        "name": "San Francisco de Yeso, Peru - San Francisco Airport",
+        "code": "SQD"
+    },
+    {
+        "name": "Pisco, Peru - Capitan FAP Renan Elias Olivera International Airport",
+        "code": "PIO"
+    },
+    {
+        "name": "Shiringayoc, Peru - Shiringayoc Airport",
+        "code": "SYC"
+    },
+    {
+        "name": "Ica, Peru - Maria Reiche Neuman Airport",
+        "code": "NZA"
+    },
+    {
+        "name": "Puerto Maldonado, Peru - Puerto Maldonado",
+        "code": "PEM"
+    },
+    {
+        "name": "Cuzco, Peru - Velazco Astete",
+        "code": "CUZ"
+    },
+    {
+        "name": "Arequipa, Peru - Rodriguez Ballon",
+        "code": "AQP"
+    },
+    {
+        "name": "Piura, Peru - Piura Airport",
+        "code": "PIU"
+    },
+    {
+        "name": "Iquitos, Peru - C.F. Secada",
+        "code": "IQT"
+    },
+    {
+        "name": "Tarapoto, Peru - Tarapoto",
+        "code": "TPP"
+    },
+    {
+        "name": "Pucallpa, Peru - Capitan Rolden Airport",
+        "code": "PCL"
+    },
+    {
+        "name": "Trujillo, Peru - Trujillo",
+        "code": "TRU"
+    },
+    {
+        "name": "Juliaca, Peru - Juliaca",
+        "code": "JUL"
+    },
+    {
+        "name": "Chiclayo, Peru - Coronel Ruiz",
+        "code": "CIX"
+    },
+    {
+        "name": "Cajamarca, Peru - Cajamarca Airport",
+        "code": "CJA"
+    },
+    {
+        "name": "Jauja, Peru",
+        "code": "JAU"
+    },
+    {
+        "name": "Lima, Peru - J Chavez International Airport",
+        "code": "LIM"
+    },
+    {
+        "name": "Tacna, Peru - Tacna Airport",
+        "code": "TCQ"
+    },
+    {
+        "name": "Ayacucho, Peru - Yanamilla Airport",
+        "code": "AYP"
+    },
+    {
+        "name": "Huanuco, Peru",
+        "code": "HUU"
+    },
+    {
+        "name": "Tumbes, Peru - Tumbes Airport",
+        "code": "TBP"
+    },
+    {
+        "name": "Talara, Peru",
+        "code": "TYL"
+    },
+    {
+        "name": "Perugia, Italy - Sant Egidio",
+        "code": "PEG"
+    },
+    {
+        "name": "Tingo Maria, Peru",
+        "code": "TGI"
+    },
+    {
+        "name": "Andahuaylas, Peru - Andahuaylas Airport",
+        "code": "ANS"
+    },
+    {
+        "name": "Anta, Peru",
+        "code": "ATA"
+    },
+    {
+        "name": "San Juan Aposento, Peru - San Juan Aposento Airport",
+        "code": "APE"
+    }
+]

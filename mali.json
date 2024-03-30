@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Nara, Mali - Nara Airport",
+        "code": "NRM"
+    },
+    {
+        "name": "Maliana, Timor-Leste - Maliana Airport",
+        "code": "MPT"
+    },
+    {
+        "name": "Burao, Somalia - Burao Airport",
+        "code": "BUO"
+    },
+    {
+        "name": "Erigavo, Somalia - Erigavo Airport",
+        "code": "ERA"
+    },
+    {
+        "name": "Scusciuban, Somalia - Scusciuban Airport",
+        "code": "CMS"
+    },
+    {
+        "name": "Obbia, Somalia - Obbia Airport",
+        "code": "CMO"
+    },
+    {
+        "name": "Lower-Juba, Somalia - Kisimayu Airport",
+        "code": "KMU"
+    },
+    {
+        "name": "Gardo, Somalia - Gardo Airport",
+        "code": "GSR"
+    },
+    {
+        "name": "Eil, Somalia - Eil Airport",
+        "code": "HCM"
+    },
+    {
+        "name": "Gedo, Somalia - Bardera Airport",
+        "code": "BSY"
+    },
+    {
+        "name": "Candala, Somalia - Candala Airport",
+        "code": "CXN"
+    },
+    {
+        "name": "Baidoa, Somalia - Baidoa Airport",
+        "code": "BIB"
+    },
+    {
+        "name": "Alula, Somalia - Alula Airport",
+        "code": "ALU"
+    },
+    {
+        "name": "Yelimane, Mali - Yelimane Airport",
+        "code": "EYL"
+    },
+    {
+        "name": "Sikasso, Mali - Sikasso Airport",
+        "code": "KSS"
+    },
+    {
+        "name": "Nioro du Sahel, Mali - Nioro du Sahel Airport",
+        "code": "NIX"
+    },
+    {
+        "name": "Bamako, Mali - Bamako",
+        "code": "BKO"
+    },
+    {
+        "name": "Kayes, Mali - Kayes Dag Dag Airport",
+        "code": "KYS"
+    },
+    {
+        "name": "Koutiala, Mali - Koutiala Airport",
+        "code": "KTX"
+    },
+    {
+        "name": "Kenieba, Mali - Kenieba Airport",
+        "code": "KNZ"
+    },
+    {
+        "name": "Gao, Mali - Gao Airport",
+        "code": "GAQ"
+    },
+    {
+        "name": "Goundam, Mali - Goundam Airport",
+        "code": "GUD"
+    },
+    {
+        "name": "Tombouctou, Mali",
+        "code": "TOM"
+    },
+    {
+        "name": "Mopti, Mali",
+        "code": "MZI"
+    },
+    {
+        "name": "Berbera, Somalia - Berbera Airport",
+        "code": "BBO"
+    },
+    {
+        "name": "Homalin, Myanmar",
+        "code": "HOX"
+    },
+    {
+        "name": "Bossaso, Somalia - Bossaso Airport",
+        "code": "BSA"
+    },
+    {
+        "name": "Galcaio, Somalia - Galcaio Airport",
+        "code": "GLK"
+    },
+    {
+        "name": "Malindi, Kenya - Malindi",
+        "code": "MYD"
+    },
+    {
+        "name": "Mogadishu, Somalia - Mogadishu International Airport",
+        "code": "MGQ"
+    },
+    {
+        "name": "Hargeisa, Somalia - Hargeisa Airport",
+        "code": "HGA"
+    },
+    {
+        "name": "St Thomas Island, VI - Charlotte Amalie Harbor Seaplane Base",
+        "code": "SPB"
+    }
+]

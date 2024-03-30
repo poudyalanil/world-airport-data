@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Majuro, Marshall Islands - Amata Kabua Intl",
+        "code": "MAJ"
+    },
+    {
+        "name": "Kwajalein, Marshall Islands - Kwajalein Airport",
+        "code": "KWA"
+    },
+    {
+        "name": "Arno, Marshall Islands",
+        "code": "AMR"
+    },
+    {
+        "name": "Bikini Atoll, Marshall Islands - Enyu Airfield",
+        "code": "BII"
+    },
+    {
+        "name": "Enewetak Island, Marshall Islands - Enewetak Island Airport",
+        "code": "ENT"
+    },
+    {
+        "name": "Jabot, Marshall Islands - Jabot Airport",
+        "code": "JAT"
+    },
+    {
+        "name": "Jeh, Marshall Islands - Jeh Airport",
+        "code": "JEJ"
+    },
+    {
+        "name": "Kwajalein Atoll, Marshall Islands - Elenak Airport",
+        "code": "EAL"
+    },
+    {
+        "name": "Rongelap, Marshall Islands - Rongelap Airport",
+        "code": "RNP"
+    },
+    {
+        "name": "Woja, Marshall Islands - Woja Airport",
+        "code": "WJA"
+    },
+    {
+        "name": "Mili Island, Marshall Islands - Mili Island Airport",
+        "code": "MIJ"
+    },
+    {
+        "name": "Ujae Atoll, Marshall Islands - Ujae Atoll Airport",
+        "code": "UJE"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Jiri, Nepal - Jiri Airport",
+        "code": "JIR"
+    },
+    {
+        "name": "Mountain, Nepal - Mountain Flight",
+        "code": "MTN"
+    },
+    {
+        "name": "Bajhang, Nepal - Bajhang Airport",
+        "code": "BJH"
+    },
+    {
+        "name": "Bhojpur, Nepal - Bhojpur Airport",
+        "code": "BHP"
+    },
+    {
+        "name": "Baglung, Nepal - Baglung Airport",
+        "code": "BGL"
+    },
+    {
+        "name": "Bajura, Nepal - Bajura Airport",
+        "code": "BJU"
+    },
+    {
+        "name": "Baitadi, Nepal - Baitadi Airport",
+        "code": "BIT"
+    },
+    {
+        "name": "Dang, Nepal - Tulsipur Airport",
+        "code": "DNP"
+    },
+    {
+        "name": "Darchula, Nepal - Darchula Airport",
+        "code": "DAP"
+    },
+    {
+        "name": "Silgadi Doti, Nepal - Silgadi Doti Airport",
+        "code": "SIH"
+    },
+    {
+        "name": "Gorkha, Nepal - Gorkha Airport",
+        "code": "GKH"
+    },
+    {
+        "name": "Jomsom, Nepal - Jomsom",
+        "code": "JMO"
+    },
+    {
+        "name": "Langtang, Nepal - Langtang Airport",
+        "code": "LTG"
+    },
+    {
+        "name": "Ngawal, Nepal - Manang Airport",
+        "code": "NGX"
+    },
+    {
+        "name": "Mahendranagar, Nepal - Mahendranagar Airport",
+        "code": "XMG"
+    },
+    {
+        "name": "Rajbiraj, Nepal - Rajbiraj Airport",
+        "code": "RJB"
+    },
+    {
+        "name": "Ramechhap, Nepal - Ramechhap Airport",
+        "code": "RHP"
+    },
+    {
+        "name": "Rukumkot, Nepal - Rukumkot Airport",
+        "code": "RUK"
+    },
+    {
+        "name": "Rolpa, Nepal - Rolpa Airport",
+        "code": "RPA"
+    },
+    {
+        "name": "Sanfebagar, Nepal - Sanfebagar Airport",
+        "code": "FEB"
+    },
+    {
+        "name": "Taplejung, Nepal - Suketar Airport",
+        "code": "TPJ"
+    },
+    {
+        "name": "Janakpur, Nepal",
+        "code": "JKR"
+    },
+    {
+        "name": "Pokhara, Nepal - Pokhara",
+        "code": "PKR"
+    },
+    {
+        "name": "Biratnagar, Nepal - Biratnagar Airport",
+        "code": "BIR"
+    },
+    {
+        "name": "Bhairahawa, Nepal - Bhairahawa Airport",
+        "code": "BWA"
+    },
+    {
+        "name": "Simara, Nepal - Simara Airport",
+        "code": "SIF"
+    },
+    {
+        "name": "Bhadrapur, Nepal - Bhadrapur Airport",
+        "code": "BDP"
+    },
+    {
+        "name": "Bharatpur, Nepal - Bharatpur Airport",
+        "code": "BHR"
+    },
+    {
+        "name": "Nepalgunj, Nepal - Nepalgunj Airport",
+        "code": "KEP"
+    },
+    {
+        "name": "Lukla, Nepal - Lukla Airport",
+        "code": "LUA"
+    },
+    {
+        "name": "Tumlingtar, Nepal",
+        "code": "TMI"
+    },
+    {
+        "name": "Kathmandu, Nepal - Tribhuvan",
+        "code": "KTM"
+    },
+    {
+        "name": "Dhangadhi, Nepal",
+        "code": "DHI"
+    },
+    {
+        "name": "Dolpa, Nepal - Dolpa Airport",
+        "code": "DOP"
+    },
+    {
+        "name": "Jumla, Nepal - Jumla Airport",
+        "code": "JUM"
+    },
+    {
+        "name": "Lamidanda, Nepal - Lamidanda Airport",
+        "code": "LDN"
+    },
+    {
+        "name": "Meghauli, Nepal - Meghauli Airport",
+        "code": "MEY"
+    },
+    {
+        "name": "Phaplu, Nepal - Phaplu Airport",
+        "code": "PPL"
+    },
+    {
+        "name": "Rumjatar, Nepal - Rumjatar Airport",
+        "code": "RUM"
+    },
+    {
+        "name": "Simikot, Nepal - Simikot Airport",
+        "code": "IMK"
+    },
+    {
+        "name": "Surkhet, Nepal - Surkhet Airport",
+        "code": "SKH"
+    }
+]

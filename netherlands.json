@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Amsterdam, Netherlands - Amsterdam-Schiphol Airport",
+        "code": "AMS"
+    },
+    {
+        "name": "Eindhoven, Netherlands - Eindhoven",
+        "code": "EIN"
+    },
+    {
+        "name": "Rotterdam, Netherlands - Rotterdam",
+        "code": "RTM"
+    },
+    {
+        "name": "Groningen, Netherlands - Eelde",
+        "code": "GRQ"
+    },
+    {
+        "name": "Maastricht, Netherlands - Maastricht",
+        "code": "MST"
+    },
+    {
+        "name": "Arnhem, Netherlands - Deelen Air Base",
+        "code": "QAR"
+    },
+    {
+        "name": "Breda, Netherlands - Gilze Rijen Air Base",
+        "code": "GLZ"
+    },
+    {
+        "name": "Den Helder, Netherlands - De Kooy Airport",
+        "code": "DHR"
+    },
+    {
+        "name": "Lelystad, Netherlands - Lelystad Airport",
+        "code": "LEY"
+    },
+    {
+        "name": "Leeuwarden, Netherlands - Leeuwarden Air Base",
+        "code": "LWR"
+    },
+    {
+        "name": "Enschede, Netherlands - Twenthe Airport",
+        "code": "ENS"
+    },
+    {
+        "name": "Uden, Netherlands - Volkel Air Base",
+        "code": "UDE"
+    },
+    {
+        "name": "Bergen Op Zoom, Netherlands - Woensdrecht Air Base",
+        "code": "WOE"
+    }
+]

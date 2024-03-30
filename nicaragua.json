@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Managua, Nicaragua - Augusto C Sandino Airport",
+        "code": "MGA"
+    },
+    {
+        "name": "Bluefields, Nicaragua - Bluefields Airport",
+        "code": "BEF"
+    },
+    {
+        "name": "Corn Island, Nicaragua - Corn Island Airport",
+        "code": "RNI"
+    },
+    {
+        "name": "Puerto Cabezas, Nicaragua - Puerto Cabezas Airport",
+        "code": "PUZ"
+    },
+    {
+        "name": "Bonanza, Nicaragua - San Pedro Airport",
+        "code": "BZA"
+    },
+    {
+        "name": "Nueva Guinea, Nicaragua - Nueva Guinea Airport",
+        "code": "NVG"
+    },
+    {
+        "name": "La Rosita, Nicaragua - Rosita Airport",
+        "code": "RFS"
+    },
+    {
+        "name": "San Carlos, Nicaragua - San Carlos",
+        "code": "NCR"
+    },
+    {
+        "name": "Siuna, Nicaragua - Siuna",
+        "code": "SIU"
+    },
+    {
+        "name": "Waspam, Nicaragua - Waspam Airport",
+        "code": "WSP"
+    }
+]

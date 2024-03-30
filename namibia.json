@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Gobabis, Namibia - Gobabis Airport",
+        "code": "GOG"
+    },
+    {
+        "name": "Tsumeb, Namibia - Tsumeb Airport",
+        "code": "TSB"
+    },
+    {
+        "name": "Swakopmund, Namibia - Swakopmund Airport",
+        "code": "SWP"
+    },
+    {
+        "name": "Okaukuejo, Namibia - Okaukuejo Airport",
+        "code": "OKF"
+    },
+    {
+        "name": "Omega, Namibia - Omega Airport",
+        "code": "OMG"
+    },
+    {
+        "name": "Namutoni, Namibia - Namutoni Airport",
+        "code": "NNI"
+    },
+    {
+        "name": "Mokuti Lodge, Namibia - Mokuti Lodge Airport",
+        "code": "OKU"
+    },
+    {
+        "name": "Keetmanshoop, Namibia - Keetmanshoop Airport",
+        "code": "KMP"
+    },
+    {
+        "name": "Grootfontein, Namibia - Grootfontein Airport",
+        "code": "GFY"
+    },
+    {
+        "name": "Windhoek, Namibia - Hosea Kutako Intl",
+        "code": "WDH"
+    },
+    {
+        "name": "Arandis, Namibia - Arandis Airport",
+        "code": "ADI"
+    },
+    {
+        "name": "Rundu, Namibia",
+        "code": "NDU"
+    },
+    {
+        "name": "Oranjemund, Namibia - Oranjemund Airport",
+        "code": "OMD"
+    },
+    {
+        "name": "Luderitz, Namibia - Luderitz",
+        "code": "LUD"
+    },
+    {
+        "name": "Mpacha, Namibia - Mpacha Airport",
+        "code": "MPA"
+    },
+    {
+        "name": "Ondangwa, Namibia - Ondangwa Airport",
+        "code": "OND"
+    },
+    {
+        "name": "Windhoek, Namibia - Eros",
+        "code": "ERS"
+    },
+    {
+        "name": "Walvis Bay, Namibia - Rooikop",
+        "code": "WVB"
+    }
+]

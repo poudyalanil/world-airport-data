@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Male, Republic of Maldives - Male International Airport",
+        "code": "MLE"
+    },
+    {
+        "name": "Gan Island, Republic of Maldives - Gan/Seenu Airport",
+        "code": "GAN"
+    },
+    {
+        "name": "Hanimaadhoo, Republic of Maldives - Hanimaadhoo Airport",
+        "code": "HAQ"
+    },
+    {
+        "name": "Dharavandhoo Island, Maldives - Dharavandhoo Airport",
+        "code": "DRV"
+    },
+    {
+        "name": "Fuvahmulah, Maldives - Fuvahmulah Airport",
+        "code": "FVM"
+    },
+    {
+        "name": "Kaadedhdhoo, Republic of Maldives - Kaadedhdhoo Airport",
+        "code": "KDM"
+    },
+    {
+        "name": "Kadhdhoo, Republic of Maldives - Kadhdhoo Airport",
+        "code": "KDO"
+    },
+    {
+        "name": "Kooddoo, Maldives - Kooddoo Airport",
+        "code": "GKK"
+    },
+    {
+        "name": "Thimarafushi, Maldives - Thimaragushi Airport",
+        "code": "TMF"
+    },
+    {
+        "name": "Ifuru, Maldives - Ifuru Airport",
+        "code": "IFU"
+    },
+    {
+        "name": "Maamigili, Maldives - Villa Airport",
+        "code": "VAM"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Carti, Panama - Carti Airport",
+        "code": "CTE"
+    },
+    {
+        "name": "Wannukandi, Panama - San Blas Airport",
+        "code": "NBL"
+    },
+    {
+        "name": "Santiago, Panama - Ruben Cantu Airport",
+        "code": "SYP"
+    },
+    {
+        "name": "Rio Hato, Panama - Scarlett Martinez International Airport",
+        "code": "RIH"
+    },
+    {
+        "name": "Panama City, Panama - Howard/Panama Pacifico International Airport",
+        "code": "BLB"
+    },
+    {
+        "name": "La Palma, Panama - Captain Ramon Xatruch Airport",
+        "code": "PLP"
+    },
+    {
+        "name": "Colon, Panama - Enrique Adolfo Jimenez Airport",
+        "code": "ONX"
+    },
+    {
+        "name": "Panama City, United States of America - Panama City-Bay Co International Airport",
+        "code": "PFN"
+    },
+    {
+        "name": "Ustupo, Panama - Ustupo Airport",
+        "code": "UTU"
+    },
+    {
+        "name": "Sambu, Panama - Sambu Airport",
+        "code": "SAX"
+    },
+    {
+        "name": "Rio Sidra, Panama - Rio Sidra Airport",
+        "code": "RSI"
+    },
+    {
+        "name": "Mamitupo, Panama - Mamitupo Airport",
+        "code": "MPI"
+    },
+    {
+        "name": "Garachine, Panama - Garachine Airport",
+        "code": "GHE"
+    },
+    {
+        "name": "El Porvenir, Panama - El Porvenir Airport",
+        "code": "PVE"
+    },
+    {
+        "name": "Corazon De Jesus, Panama - Corazon De Jesus Airport",
+        "code": "CZJ"
+    },
+    {
+        "name": "Panama City, Panama - Tocumen International Airport",
+        "code": "PTY"
+    },
+    {
+        "name": "Pinas Bay, Panama - Bahia Pinas Airport",
+        "code": "BFQ"
+    },
+    {
+        "name": "Jaque, Panama - Jaque Airport",
+        "code": "JQE"
+    },
+    {
+        "name": "Puerto Obaldia, Panama - Puerto Obaldia Airport",
+        "code": "PUE"
+    },
+    {
+        "name": "Mulatupo, Panama - Mulatupo Airport",
+        "code": "MPP"
+    },
+    {
+        "name": "Changuinola, Panama - Changuinola Airport",
+        "code": "CHX"
+    },
+    {
+        "name": "Playon Chico, Panama - Playon Chico Airport",
+        "code": "PYC"
+    },
+    {
+        "name": "Achutupo, Panama",
+        "code": "ACU"
+    },
+    {
+        "name": "Contadora Island, Panama - Contadora",
+        "code": "OTD"
+    },
+    {
+        "name": "Chitre, Panama",
+        "code": "CTD"
+    },
+    {
+        "name": "Bocas del Toro, Panama - Bocas del Toro",
+        "code": "BOC"
+    },
+    {
+        "name": "David, Panama - Enrique Malek",
+        "code": "DAV"
+    },
+    {
+        "name": "Panama City, FL - Northwest Florida Beaches Intl Airport",
+        "code": "ECP"
+    },
+    {
+        "name": "Panama City, Panama - Paitilla",
+        "code": "PAC"
+    }
+]

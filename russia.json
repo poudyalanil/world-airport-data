@@ -1,0 +1,682 @@
+[
+    {
+        "name": "Moscow, Russia - All Airports",
+        "code": "MOW"
+    },
+    {
+        "name": "Moscow, Russia - Sheremetyevo Airport",
+        "code": "SVO"
+    },
+    {
+        "name": "Moscow, Russia - Domodedovo Airport",
+        "code": "DME"
+    },
+    {
+        "name": "St Petersburg, Russia - Pulkovo",
+        "code": "LED"
+    },
+    {
+        "name": "Moscow, Russia - Vnukovo Airport",
+        "code": "VKO"
+    },
+    {
+        "name": "Novosibirsk, Russia - Tolmachevo",
+        "code": "OVB"
+    },
+    {
+        "name": "Adler/Sochi, Russia - Adler/Sochi Airport",
+        "code": "AER"
+    },
+    {
+        "name": "Ekaterinburg, Russia - Koltsovo",
+        "code": "SVX"
+    },
+    {
+        "name": "Krasnodar, Russia - Krasnodar",
+        "code": "KRR"
+    },
+    {
+        "name": "Kazan, Russia - Kazan",
+        "code": "KZN"
+    },
+    {
+        "name": "Samara, Russia - Samara",
+        "code": "KUF"
+    },
+    {
+        "name": "Vladivostok, Russia - Vladivostok",
+        "code": "VVO"
+    },
+    {
+        "name": "Rostov, Russia - Rostov",
+        "code": "ROV"
+    },
+    {
+        "name": "Kaliningrad, Russia - Khrabrovo",
+        "code": "KGD"
+    },
+    {
+        "name": "Ufa, Russia - Ufa",
+        "code": "UFA"
+    },
+    {
+        "name": "Tyumen, Russia - Tyumen",
+        "code": "TJM"
+    },
+    {
+        "name": "Khabarovsk, Russia - Novyy",
+        "code": "KHV"
+    },
+    {
+        "name": "Irkutsk, Russia - Irkutsk",
+        "code": "IKT"
+    },
+    {
+        "name": "Mineralnye Vody, Russia - Mineralnye Vody Airport",
+        "code": "MRV"
+    },
+    {
+        "name": "Krasnojarsk, Russia - Krasnojarsk",
+        "code": "KJA"
+    },
+    {
+        "name": "Yakutsk, Russia - Yakutsk Airport",
+        "code": "YKS"
+    },
+    {
+        "name": "Anapa, Russia - Anapa",
+        "code": "AAQ"
+    },
+    {
+        "name": "Surgut, Russia - Surgut",
+        "code": "SGC"
+    },
+    {
+        "name": "Yuzhno-Sakhalinsk, Russia - Yuzhno-Sakhalinsk",
+        "code": "UUS"
+    },
+    {
+        "name": "Perm, Russia - Perm",
+        "code": "PEE"
+    },
+    {
+        "name": "Chelyabinsk, Russia - Chelyabinsk",
+        "code": "CEK"
+    },
+    {
+        "name": "Nizhniy Novgorod, Russia - Nizhniy Novgorod",
+        "code": "GOJ"
+    },
+    {
+        "name": "Novyj Urengoj, Russia - Novyj Urengoj Airport",
+        "code": "NUX"
+    },
+    {
+        "name": "Volgograd, Russia - Volgograd",
+        "code": "VOG"
+    },
+    {
+        "name": "Arkhangelsk, Russia - Arkhangelsk",
+        "code": "ARH"
+    },
+    {
+        "name": "Voronezh, Russia - Voronezh Airport",
+        "code": "VOZ"
+    },
+    {
+        "name": "Murmansk, Russia - Murmansk",
+        "code": "MMK"
+    },
+    {
+        "name": "Omsk, Russia - Omsk Airport",
+        "code": "OMS"
+    },
+    {
+        "name": "Makhachkala, Russia - Makhachkala Airport",
+        "code": "MCX"
+    },
+    {
+        "name": "Syktyvkar, Russia - Syktyvkar Airport",
+        "code": "SCW"
+    },
+    {
+        "name": "Orenburg, Russia - Orenburg Airport",
+        "code": "REN"
+    },
+    {
+        "name": "Nizhnevartovsk, Russia - Nizhnevartovsk Airport",
+        "code": "NJC"
+    },
+    {
+        "name": "Tomsk, Russia - Tomsk Airport",
+        "code": "TOF"
+    },
+    {
+        "name": "Naberevnye Chelny, Russian Federation",
+        "code": "NBC"
+    },
+    {
+        "name": "Noril'sk, Russia - Noril'sk Airport",
+        "code": "NSK"
+    },
+    {
+        "name": "Russian Mission, AK - Russian Mission Airport",
+        "code": "RSH"
+    },
+    {
+        "name": "Petropavlovsk-Kamchatsky, Russia - Petropavlovsk-Kamcha",
+        "code": "PKC"
+    },
+    {
+        "name": "Stavropol, Russia - Stavropol",
+        "code": "STW"
+    },
+    {
+        "name": "Saratov, Russia - Saratov",
+        "code": "RTW"
+    },
+    {
+        "name": "Astrakhan, Russia - Astrakhan",
+        "code": "ASF"
+    },
+    {
+        "name": "Chita, Russia - Chita Airport",
+        "code": "HTA"
+    },
+    {
+        "name": "Ulan-Ude, Russia - Ulan-Ude Airport",
+        "code": "UUD"
+    },
+    {
+        "name": "Belgorod, Russia - Belgorod Airport",
+        "code": "EGO"
+    },
+    {
+        "name": "Gelendzik, Russian Federation",
+        "code": "GDZ"
+    },
+    {
+        "name": "Barnaul, Russia - Barnaul Airport",
+        "code": "BAX"
+    },
+    {
+        "name": "Kemerovo, Russia - Kemerovo",
+        "code": "KEJ"
+    },
+    {
+        "name": "Cherepovets, Russia - Cherepovets Airport",
+        "code": "CEE"
+    },
+    {
+        "name": "Salekhard, Russia - Salehard Airport",
+        "code": "SLY"
+    },
+    {
+        "name": "Penza, Russia - Penza Airport",
+        "code": "PEZ"
+    },
+    {
+        "name": "Magadan, Russia - Magadan Airport",
+        "code": "GDX"
+    },
+    {
+        "name": "Izhevsk, Russian Federation",
+        "code": "IJK"
+    },
+    {
+        "name": "Blagoveschensk, Russia - Blagoveschensk Airport",
+        "code": "BQS"
+    },
+    {
+        "name": "Abakan, Russia - Abakan Airport",
+        "code": "ABA"
+    },
+    {
+        "name": "Kirov, Russian Federation",
+        "code": "KVX"
+    },
+    {
+        "name": "Vladikavkaz, Russia - Vladikavkaz Airport",
+        "code": "OGZ"
+    },
+    {
+        "name": "Khanty-Mansiysk, Russia - Khanty-Mansiysk",
+        "code": "HMA"
+    },
+    {
+        "name": "Mirnyj, Russia - Mirnyj Airport",
+        "code": "MJZ"
+    },
+    {
+        "name": "Novokuznetsk, Russia - Novokuznetsk Airport",
+        "code": "NOZ"
+    },
+    {
+        "name": "Bratsk, Russia - Bratsk Airport",
+        "code": "BTK"
+    },
+    {
+        "name": "Groznyy, Russian Federation",
+        "code": "GRV"
+    },
+    {
+        "name": "Nojabrxsk, Russia - Nojabrxsk Airport",
+        "code": "NOJ"
+    },
+    {
+        "name": "Nadym, Russia - Nadym Airport",
+        "code": "NYM"
+    },
+    {
+        "name": "Ukhta, Russia - Ukhta Airport",
+        "code": "UCT"
+    },
+    {
+        "name": "Gorno-Altaysk, Russia - Gorno-Altaysk Airport",
+        "code": "RGK"
+    },
+    {
+        "name": "Magnitogorsk, Russia - Magnitogorsk Airport",
+        "code": "MQF"
+    },
+    {
+        "name": "Usinsk, Russia - Usinsk Airport",
+        "code": "USK"
+    },
+    {
+        "name": "Ulyanovsk, Russia - Ulyanovsk Baratayevka Airport",
+        "code": "ULV"
+    },
+    {
+        "name": "Kirovsk, Russian Federation",
+        "code": "KVK"
+    },
+    {
+        "name": "Nalchik, Russia - Nalchik Airport",
+        "code": "NAL"
+    },
+    {
+        "name": "Lipetsk, Russia - Lipetsk Airport",
+        "code": "LPK"
+    },
+    {
+        "name": "Lensk, Russia - Lensk Airport",
+        "code": "ULK"
+    },
+    {
+        "name": "Naryan-Mar, Russia - Naryan-Mar Airport",
+        "code": "NNM"
+    },
+    {
+        "name": "Cheboksary, Russian Federation",
+        "code": "CSY"
+    },
+    {
+        "name": "Neryungri, Russia - Neryungri Airport",
+        "code": "NER"
+    },
+    {
+        "name": "Ulyanovsk, Russia - Ulyanovsk Airport",
+        "code": "ULY"
+    },
+    {
+        "name": "Okha, Russia - Okha Airport",
+        "code": "OHH"
+    },
+    {
+        "name": "Sovetsky, Russia - Sovetsky Airport",
+        "code": "OVS"
+    },
+    {
+        "name": "Tambov, Russia - Tambov Airport",
+        "code": "TBW"
+    },
+    {
+        "name": "Magas, Russia - Magas Airport",
+        "code": "IGT"
+    },
+    {
+        "name": "Bodaybo, Russia - Bodaybo Airport",
+        "code": "ODO"
+    },
+    {
+        "name": "Kursk, Russia - Kursk Airport",
+        "code": "URS"
+    },
+    {
+        "name": "Petrozavodsk, Russia - Petrozavodsk",
+        "code": "PES"
+    },
+    {
+        "name": "Polyarnyj, Russian Federation",
+        "code": "PYJ"
+    },
+    {
+        "name": "Olokminsk, Russia - Olokminsk Airport",
+        "code": "OLZ"
+    },
+    {
+        "name": "Kurgan, Russia - Kurgan Airport",
+        "code": "KRO"
+    },
+    {
+        "name": "Orsk, Russia - Orsk Airport",
+        "code": "OSW"
+    },
+    {
+        "name": "Ust-Kut, Russian Federation",
+        "code": "UKX"
+    },
+    {
+        "name": "Belaya Gora, Russia - Belaya Gora Airport",
+        "code": "BGN"
+    },
+    {
+        "name": "Tiksi, Russian Federation",
+        "code": "IKS"
+    },
+    {
+        "name": "Chokurdah, Russian Federation",
+        "code": "CKH"
+    },
+    {
+        "name": "Kotlas, Russia - Kotlas Airport",
+        "code": "KSZ"
+    },
+    {
+        "name": "Anadyr, Russia - Anadyr Airport",
+        "code": "DYR"
+    },
+    {
+        "name": "Ust-Maya, Russia - Ust-Maya Airport",
+        "code": "UMS"
+    },
+    {
+        "name": "Vorkuta, Russia - Vorkuta Airport",
+        "code": "VKT"
+    },
+    {
+        "name": "Yuzhno-Kurilsk, Russia - Mendeleyevo Airport",
+        "code": "DEE"
+    },
+    {
+        "name": "Komi Republic, Russia - Ust-Tsylma Airport",
+        "code": "UTS"
+    },
+    {
+        "name": "Uraj, Russia - Uraj Airport",
+        "code": "URJ"
+    },
+    {
+        "name": "Deptatskiy, Russia - Deputatskiy Airport",
+        "code": "DPT"
+    },
+    {
+        "name": "Yaroslavl, Russian Federation",
+        "code": "IAR"
+    },
+    {
+        "name": "Briansk, Russian Federation",
+        "code": "BZK"
+    },
+    {
+        "name": "Magan, Russia - Magan Airport",
+        "code": "GYG"
+    },
+    {
+        "name": "Nyagan, Russia - Nyagan Airport",
+        "code": "NYA"
+    },
+    {
+        "name": "Komsomolsk Na Amure, Russia - Komsomolsk Na Amure",
+        "code": "KXK"
+    },
+    {
+        "name": "Pechora, Russia - Pechora Airport",
+        "code": "PEX"
+    },
+    {
+        "name": "Joshkar-Ola, Russian Federation",
+        "code": "JOK"
+    },
+    {
+        "name": "Nogliki, Russia - Nogliki Airport",
+        "code": "NGK"
+    },
+    {
+        "name": "Cherskiy, Russian Federation",
+        "code": "CYX"
+    },
+    {
+        "name": "Kogalym, Russia - Kogalym International Airport",
+        "code": "KGP"
+    },
+    {
+        "name": "Kyzyl, Russia - Kyzyl Airport",
+        "code": "KYZ"
+    },
+    {
+        "name": "Elista, Russian Federation",
+        "code": "ESL"
+    },
+    {
+        "name": "Velikij Ustyug, Russian Federation",
+        "code": "VUS"
+    },
+    {
+        "name": "Igarka, Russia - Igarka Airport",
+        "code": "IAA"
+    },
+    {
+        "name": "Shakhtyorsk, Russia - Shakhtyorsk Airport",
+        "code": "EKS"
+    },
+    {
+        "name": "Aldan, Russian Federation",
+        "code": "ADH"
+    },
+    {
+        "name": "Okhotsk, Russia - Okhotsk Airport",
+        "code": "OHO"
+    },
+    {
+        "name": "Hatanga, Russia - Hatanga Airport",
+        "code": "HTG"
+    },
+    {
+        "name": "Turukhansk, Russia - Turukhansk Airport",
+        "code": "THX"
+    },
+    {
+        "name": "Inta, Russian Federation",
+        "code": "INA"
+    },
+    {
+        "name": "Pevek, Russian Federation",
+        "code": "PWE"
+    },
+    {
+        "name": "Podkamennaya Tunguska, Russia - Podkamennaya Tungus Airport",
+        "code": "TGP"
+    },
+    {
+        "name": "Amderma, Russian Federation",
+        "code": "AMV"
+    },
+    {
+        "name": "Berezovo, Russia - Berezovo Airport",
+        "code": "EZV"
+    },
+    {
+        "name": "Bugulma, Russian Federation",
+        "code": "UUA"
+    },
+    {
+        "name": "Burevestnik, Russia - Burevestnik Airport",
+        "code": "BVV"
+    },
+    {
+        "name": "Igrim, Russia - Igrim Airport",
+        "code": "IRM"
+    },
+    {
+        "name": "Leshukonskoye, Russia - Leshukonskoye Airport",
+        "code": "LDG"
+    },
+    {
+        "name": "Moscow, Russian Federation",
+        "code": "BKA"
+    },
+    {
+        "name": "Saransk, Russian Federation",
+        "code": "SKX"
+    },
+    {
+        "name": "Solovetsky, Russia - Solovetsky Airport",
+        "code": "CSH"
+    },
+    {
+        "name": "Taganrog, Russia - Taganrog Yuzhny Airport",
+        "code": "TGK"
+    },
+    {
+        "name": "Tarko-Sale, Russia - Tarko-Sale Airport",
+        "code": "TQL"
+    },
+    {
+        "name": "Yamalsky, Russia - Mys Kamenny Airport",
+        "code": "YMK"
+    },
+    {
+        "name": "Chulman, Russian Federation - Chulman Airport",
+        "code": "CNN"
+    },
+    {
+        "name": "Magdagachi, Russian Federation - Magdagachi Airport",
+        "code": "GDG"
+    },
+    {
+        "name": "Tynda, Russian Federation - Tynda Airport",
+        "code": "TYD"
+    },
+    {
+        "name": "Sovetskaya Gavan, Russian Federation - Maygatka Airport.",
+        "code": "GVN"
+    },
+    {
+        "name": "Chukotka, Russian Federation - Provideniya Bay Airport",
+        "code": "PVS"
+    },
+    {
+        "name": "Bogorodskoye, Russian Federation - Bogorodskoye Airport",
+        "code": "BQG"
+    },
+    {
+        "name": "Tymovskoye, Russian Federation - Zonalnoye Airport",
+        "code": "ZZO"
+    },
+    {
+        "name": "Ust-Ilimsk, Russian Federation - Ust-Ilimsk Airport",
+        "code": "UIK"
+    },
+    {
+        "name": "Erbogachen, Russian Federation - Yerbogachen Airport",
+        "code": "ERG"
+    },
+    {
+        "name": "Velikiye Luki, Russian Federation - Velikiye Luki Airport",
+        "code": "VLU"
+    },
+    {
+        "name": "Pskov, Russian Federation - Pskov Airport",
+        "code": "PKV"
+    },
+    {
+        "name": "Vologda, Russian Federation - Vologda Airport",
+        "code": "VGD"
+    },
+    {
+        "name": "Yeniseysk, Russian Federation - Yeniseysk Airport",
+        "code": "EIE"
+    },
+    {
+        "name": "Achinsk, Russian Federation - Achinsk Airport",
+        "code": "ACS"
+    },
+    {
+        "name": "Dikson, Russian Federation - Dikson Airport",
+        "code": "DKS"
+    },
+    {
+        "name": "Simferopol, Russian Federation - Simferopol International Airport",
+        "code": "SIP"
+    },
+    {
+        "name": "Yeysk, Russian Federation - Yeysk Airport",
+        "code": "EIK"
+    },
+    {
+        "name": "Rostov-on-Don, Russian Federation - Rostov-na-Donu Airport",
+        "code": "RVI"
+    },
+    {
+        "name": "Urengoy, Russian Federation - Urengoy Airport",
+        "code": "UEN"
+    },
+    {
+        "name": "Nefteyugansk, Russian Federation - Nefteyugansk Airport",
+        "code": "NFG"
+    },
+    {
+        "name": "Tobolsk, Russian Federation - Tobolsk Airport",
+        "code": "TOX"
+    },
+    {
+        "name": "Kostroma, Russian Federation - Kostroma Sokerkino Airport",
+        "code": "KMW"
+    },
+    {
+        "name": "Ivanovo, Russian Federation - Ivanovo South Airport",
+        "code": "IWA"
+    },
+    {
+        "name": "Rybinsk, Russian Federation - Staroselye Airport",
+        "code": "RYB"
+    },
+    {
+        "name": "Smolensk, Russian Federation - Smolensk South Airport",
+        "code": "LNX"
+    },
+    {
+        "name": "Tver, Russian Federation - Migalovo Air Base",
+        "code": "KLD"
+    },
+    {
+        "name": "Orel, Russian Federation - Oryol Yuzhny Airport",
+        "code": "OEL"
+    },
+    {
+        "name": "Ryazan, Russian Federation - Turlatovo Airport",
+        "code": "RZN"
+    },
+    {
+        "name": "Balakovo, Russian Federation - Balakovo Airport",
+        "code": "BWO"
+    },
+    {
+        "name": "Saratov, Russian Federation - Saratov Gagarin Airport",
+        "code": "GSV"
+    },
+    {
+        "name": "Beloretsk, Russian Federation - Beloretsk Airport",
+        "code": "BCX"
+    },
+    {
+        "name": "Neftekamsk, Russian Federation - Neftekamsk Airport",
+        "code": "NEF"
+    },
+    {
+        "name": "Kzyl-Yar, Russian Federation - Oktyabrskiy Airport",
+        "code": "OKT"
+    }
+]

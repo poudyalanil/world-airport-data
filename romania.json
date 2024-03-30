@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Bacau, Romania - Bacau",
+        "code": "BCM"
+    },
+    {
+        "name": "Caransebes, Romania - Caransebes Airport",
+        "code": "CSB"
+    },
+    {
+        "name": "Tulcea, Romania",
+        "code": "TCE"
+    },
+    {
+        "name": "Bucharest, Romania - Baneasa",
+        "code": "BBU"
+    },
+    {
+        "name": "Baia Mare, Romania - Baia Mare",
+        "code": "BAY"
+    },
+    {
+        "name": "Arad, Romania - Arad",
+        "code": "ARW"
+    },
+    {
+        "name": "Tirgu Mures, Romania - Tirgu Mures",
+        "code": "TGM"
+    },
+    {
+        "name": "Constanta, Romania - Kogalniceanu",
+        "code": "CND"
+    },
+    {
+        "name": "Satu Mare, Romania - Satu Mare",
+        "code": "SUJ"
+    },
+    {
+        "name": "Bucharest, Romania - All Airports",
+        "code": "BUH"
+    },
+    {
+        "name": "Oradea, Romania - Oradea",
+        "code": "OMR"
+    },
+    {
+        "name": "Suceava, Romania - Salcea",
+        "code": "SCV"
+    },
+    {
+        "name": "Craiova, Romania",
+        "code": "CRA"
+    },
+    {
+        "name": "Sibiu, Romania - Sibiu",
+        "code": "SBZ"
+    },
+    {
+        "name": "Iasi, Romania - Iasi",
+        "code": "IAS"
+    },
+    {
+        "name": "Timisoara, Romania - Timisoara",
+        "code": "TSR"
+    },
+    {
+        "name": "Cluj-Napoca, Romania - Cluj",
+        "code": "CLJ"
+    },
+    {
+        "name": "Bucharest, Romania - Otopeni Intl",
+        "code": "OTP"
+    }
+]
