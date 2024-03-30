@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Odense, Denmark",
+        "code": "ODE"
+    },
+    {
+        "name": "Skjern / Ringkobing, Denmark - Stauning Airport",
+        "code": "STA"
+    },
+    {
+        "name": "Thisted, Denmark - Thisted Airport",
+        "code": "TED"
+    },
+    {
+        "name": "Skive, Denmark - Skive Airport",
+        "code": "SQW"
+    },
+    {
+        "name": "Vojens, Denmark - Vojens Skrydstrup Airport",
+        "code": "SKS"
+    },
+    {
+        "name": "Sindal, Denmark - Sindal Airport",
+        "code": "CNL"
+    },
+    {
+        "name": "Copenhagen, Denmark - Copenhagen Roskilde Airport",
+        "code": "RKE"
+    },
+    {
+        "name": "Lolland Falster / Maribo, Denmark - Lolland Falster Maribo Airport",
+        "code": "MRW"
+    },
+    {
+        "name": "Laeso, Denmark - Laeso Airport",
+        "code": "BYR"
+    },
+    {
+        "name": "Copenhagen, Denmark - Copenhagen Airport",
+        "code": "CPH"
+    },
+    {
+        "name": "Sonderborg, Denmark - Sonderborg",
+        "code": "SGD"
+    },
+    {
+        "name": "Esbjerg, Denmark - Esbjerg",
+        "code": "EBJ"
+    },
+    {
+        "name": "Karup, Denmark - Karup Airport",
+        "code": "KRP"
+    },
+    {
+        "name": "Ronne, Denmark - Bornholm",
+        "code": "RNN"
+    },
+    {
+        "name": "Faroe Islands, Denmark - Vagar Airport",
+        "code": "FAE"
+    },
+    {
+        "name": "Aarhus, Denmark - Tirstrup",
+        "code": "AAR"
+    },
+    {
+        "name": "Aalborg, Denmark - Aalborg",
+        "code": "AAL"
+    },
+    {
+        "name": "Billund, Denmark - Billund",
+        "code": "BLL"
+    }
+]

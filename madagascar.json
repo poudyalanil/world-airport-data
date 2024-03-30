@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Mampikony, Madagascar - Mampikony Airport",
+        "code": "WMP"
+    },
+    {
+        "name": "Mahanoro, Madagascar - Mahanoro Airport",
+        "code": "VVB"
+    },
+    {
+        "name": "Madagascar - Miandrivazo Airport",
+        "code": "ZVA"
+    },
+    {
+        "name": "Ilaka, Madagascar - Atsinanana Airport",
+        "code": "ILK"
+    },
+    {
+        "name": "Tambohorano, Madagascar - Tambohorano Airport",
+        "code": "WTA"
+    },
+    {
+        "name": "Vatomandry, Madagascar - Vatomandry Airport",
+        "code": "VAT"
+    },
+    {
+        "name": "Ambatondrazaka, Madagascar - Ambatondrazaka Airport",
+        "code": "WAM"
+    },
+    {
+        "name": "Mananara Nord, Madagascar - Mananara Nord Airport",
+        "code": "WMR"
+    },
+    {
+        "name": "Madagascar - Andapa Airport",
+        "code": "ZWA"
+    },
+    {
+        "name": "Madagascar - Ambilobe Airport",
+        "code": "AMB"
+    },
+    {
+        "name": "Befandriana, Madagascar - Avaratra Airport",
+        "code": "WBD"
+    },
+    {
+        "name": "Port Berge, Madagascar - Port Berge Airport",
+        "code": "WPB"
+    },
+    {
+        "name": "Ambanja, Madagascar - Ambanja Airport",
+        "code": "IVA"
+    },
+    {
+        "name": "Madagascar - Analalava Airport",
+        "code": "HVA"
+    },
+    {
+        "name": "Antsirabe, Madagascar - Antsirabe Airport",
+        "code": "ATJ"
+    },
+    {
+        "name": "Tsaratanana, Madagascar - Tsaratanana Airport",
+        "code": "TTS"
+    },
+    {
+        "name": "Madagascar - Vohimarina Airport",
+        "code": "VOH"
+    },
+    {
+        "name": "Mandritsara, Madagascar - Mandritsara Airport",
+        "code": "WMA"
+    },
+    {
+        "name": "Beroroha, Madagascar - Antsoa Airport",
+        "code": "WBO"
+    },
+    {
+        "name": "Mandabe, Madagascar - Mandabe Airport",
+        "code": "WMD"
+    },
+    {
+        "name": "Ihosy, Madagascar - Ihosy Airport",
+        "code": "IHO"
+    },
+    {
+        "name": "Madagascar - Manakara Airport",
+        "code": "WVK"
+    },
+    {
+        "name": "Bekily, Madagascar - Bekily Airport",
+        "code": "OVA"
+    },
+    {
+        "name": "Tanandava, Madagascar - Samangoky Airport",
+        "code": "TDV"
+    },
+    {
+        "name": "Vangaindrano, Madagascar - Vangaindrano Airport",
+        "code": "VND"
+    },
+    {
+        "name": "Betioky, Madagascar - Betioky Airport",
+        "code": "BKU"
+    },
+    {
+        "name": "Ampanihy, Madagascar - Ampanihy Airport",
+        "code": "AMP"
+    },
+    {
+        "name": "Ankazoabo, Madagascar - Ankazoabo Airport",
+        "code": "WAK"
+    },
+    {
+        "name": "Antsalova, Madagascar - Antsalova Airport",
+        "code": "WAQ"
+    },
+    {
+        "name": "Tamatave, Madagascar - Tamatave Airport",
+        "code": "TMM"
+    },
+    {
+        "name": "Nosy-Be, Madagascar - Fascene Airport",
+        "code": "NOS"
+    },
+    {
+        "name": "Antsiranana, Madagascar - Antsiranana/Arrachart Airport",
+        "code": "DIE"
+    },
+    {
+        "name": "Sambava, Madagascar - Sambava Airport",
+        "code": "SVB"
+    },
+    {
+        "name": "Majunga, Madagascar - Amborovy Airport",
+        "code": "MJN"
+    },
+    {
+        "name": "Tulear, Madagascar - Tulear Airport",
+        "code": "TLE"
+    },
+    {
+        "name": "Fort Dauphin, Madagascar - Marillac Airport",
+        "code": "FTU"
+    },
+    {
+        "name": "Sainte Marie, Madagascar - Sainte Marie Airport",
+        "code": "SMS"
+    },
+    {
+        "name": "Maroantsetra, Madagascar - Maroantsetra Airport",
+        "code": "WMN"
+    },
+    {
+        "name": "Morondava, Madagascar - Morondava Airport",
+        "code": "MOQ"
+    },
+    {
+        "name": "Ambatomainty, Madagascar - Ambatomainty Airport",
+        "code": "AMY"
+    },
+    {
+        "name": "Ankavandra, Madagascar - Ankavandra Airport",
+        "code": "JVA"
+    },
+    {
+        "name": "Antalaha, Madagascar - Antsirabato",
+        "code": "ANM"
+    },
+    {
+        "name": "Antananarivo, Madagascar - Antananarivo",
+        "code": "TNR"
+    },
+    {
+        "name": "Antsohihy, Madagascar - Antsohihy Airport",
+        "code": "WAI"
+    },
+    {
+        "name": "Belo, Madagascar - Belo Airport",
+        "code": "BMD"
+    },
+    {
+        "name": "Besalampy, Madagascar - Besalampy Airport",
+        "code": "BPY"
+    },
+    {
+        "name": "Farafangana, Madagascar - Farafangana Airport",
+        "code": "RVA"
+    },
+    {
+        "name": "Fianarantsoa, Madagascar - Fianarantsoa Airport",
+        "code": "WFI"
+    },
+    {
+        "name": "Maintirano, Madagascar - Maintirano Airport",
+        "code": "MXT"
+    },
+    {
+        "name": "Mananjary, Madagascar - Mananjary Airport",
+        "code": "MNJ"
+    },
+    {
+        "name": "Manja, Madagascar - Manja Airport",
+        "code": "MJA"
+    },
+    {
+        "name": "Morafenobe, Madagascar - Morafenobe Airport",
+        "code": "TVA"
+    },
+    {
+        "name": "Morombe, Madagascar - Morombe Airport",
+        "code": "MXM"
+    },
+    {
+        "name": "Soalala, Madagascar - Soalala Airport",
+        "code": "DWB"
+    },
+    {
+        "name": "Tsiroanomandidy, Madagascar - Tsiroanomandidy Airport",
+        "code": "WTS"
+    },
+    {
+        "name": "Malaimbandy, Madagascar - Malaimbandy Airport",
+        "code": "WML"
+    }
+]

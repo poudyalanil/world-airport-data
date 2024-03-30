@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Baghdad, Iraq",
+        "code": "BGW"
+    },
+    {
+        "name": "Najaf, Iraq - Al Najaf International Airport",
+        "code": "NJF"
+    },
+    {
+        "name": "Basra, Iraq",
+        "code": "BSR"
+    },
+    {
+        "name": "Sulaymaniyah, Iraq - Sulaimaniyah International Airport",
+        "code": "ISU"
+    },
+    {
+        "name": "Mosul, Iraq",
+        "code": "OSM"
+    },
+    {
+        "name": "Hit, Iraq - Al Asad Air Base",
+        "code": "IQA"
+    },
+    {
+        "name": "Bamarni, Iraq - Bamarni Airport",
+        "code": "BMN"
+    },
+    {
+        "name": "Kirkuk, Iraq - Kirkuk Air Base",
+        "code": "KIK"
+    },
+    {
+        "name": "Qayyarah, Iraq - Qayyarah West Airport",
+        "code": "RQW"
+    }
+]

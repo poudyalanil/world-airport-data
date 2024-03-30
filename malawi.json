@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lilongwe, Malawi - Lilongwe Intl",
+        "code": "LLW"
+    },
+    {
+        "name": "Blantyre, Malawi - Chileka",
+        "code": "BLZ"
+    },
+    {
+        "name": "Mzuzu, Malawi - Mzuzu",
+        "code": "ZZU"
+    },
+    {
+        "name": "Northern-Region, Malawi - Chelinda Malawi Airport",
+        "code": "CEH"
+    },
+    {
+        "name": "Club Makokola, Malawi - Club Makokola Airport",
+        "code": "CMK"
+    },
+    {
+        "name": "Dwangwa, Malawi - Dwangwa Airport",
+        "code": "DWA"
+    },
+    {
+        "name": "Karonga, Malawi - Karonga Airport",
+        "code": "KGJ"
+    },
+    {
+        "name": "Kasungu, Malawi - Kasungu Airport",
+        "code": "KBQ"
+    },
+    {
+        "name": "Likoma Island, Malawi - Likoma Island Airport",
+        "code": "LIX"
+    },
+    {
+        "name": "Mangochi, Malawi - Mangochi Airport",
+        "code": "MAI"
+    },
+    {
+        "name": "Monkey Bay, Malawi - Monkey Bay Airport",
+        "code": "MYZ"
+    },
+    {
+        "name": "Salima, Malawi - Salima Airport",
+        "code": "LMB"
+    }
+]

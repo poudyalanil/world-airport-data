@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Minsk, Belarus - Minsk 2 Intl",
+        "code": "MSQ"
+    },
+    {
+        "name": "Brest, Belarus",
+        "code": "BQT"
+    },
+    {
+        "name": "Gomel, Belarus",
+        "code": "GME"
+    },
+    {
+        "name": "Grodno, Belarus",
+        "code": "GNA"
+    },
+    {
+        "name": "Minsk, Belarus - Minsk International 1 Airport",
+        "code": "MHP"
+    },
+    {
+        "name": "Vitebsk, Belarus - Vitebsk East Airport",
+        "code": "VTB"
+    },
+    {
+        "name": "Mogilev, Belarus - Mogilev Airport",
+        "code": "MVQ"
+    }
+]

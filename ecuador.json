@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Portoviejo, Ecuador - Portoviejo Airport",
+        "code": "PVO"
+    },
+    {
+        "name": "Tarapoa, Ecuador - Tarapoa Airport",
+        "code": "TPC"
+    },
+    {
+        "name": "Tiputini, Ecuador - Tiputini Airport",
+        "code": "TPN"
+    },
+    {
+        "name": "Taisha, Ecuador - Taisha Airport",
+        "code": "TSC"
+    },
+    {
+        "name": "Bahia de Caraquez, Ecuador - Los Perales Airport",
+        "code": "BHA"
+    },
+    {
+        "name": "Shell Mera, Ecuador - Rio Amazonas Airport",
+        "code": "PTZ"
+    },
+    {
+        "name": "Sucua, Ecuador - Sucua Airport",
+        "code": "SUQ"
+    },
+    {
+        "name": "Puerto Putumayo, Ecuador - Putumayo Airport",
+        "code": "PYO"
+    },
+    {
+        "name": "Machala, Ecuador - General Manuel Serrano Airport",
+        "code": "MCH"
+    },
+    {
+        "name": "Macara, Ecuador - Jose Maria Velasco Ibarra Airport",
+        "code": "MRR"
+    },
+    {
+        "name": "Jipijapa, Ecuador - Jipijapa Airport",
+        "code": "JIP"
+    },
+    {
+        "name": "Isabela, Ecuador - General Villamil Airport",
+        "code": "IBB"
+    },
+    {
+        "name": "Ambato, Ecuador - Chachoan Airport",
+        "code": "ATF"
+    },
+    {
+        "name": "Tulcan, Ecuador - Tulcan Airport",
+        "code": "TUA"
+    },
+    {
+        "name": "Quito, Ecuador - Mariscal Sucre Airport",
+        "code": "UIO"
+    },
+    {
+        "name": "Macas, Ecuador - Macas Airport",
+        "code": "XMS"
+    },
+    {
+        "name": "Latacunga, Ecuador",
+        "code": "LTX"
+    },
+    {
+        "name": "Salinas, Ecuador - Salinas Airport",
+        "code": "SNC"
+    },
+    {
+        "name": "Santa Rosa, Ecuador - Coronel Artilleria Victor Larrea Airport",
+        "code": "ETR"
+    },
+    {
+        "name": "Lago Agrio, Ecuador - Lago Agrio Airport",
+        "code": "LGQ"
+    },
+    {
+        "name": "San Cristobal, Ecuador - San Cristobal Airport",
+        "code": "SCY"
+    },
+    {
+        "name": "Coca, Ecuador - Coca",
+        "code": "OCC"
+    },
+    {
+        "name": "Esmeraldas, Ecuador - Esmeraldas Airport",
+        "code": "ESM"
+    },
+    {
+        "name": "Loja, Ecuador - Loja Airport",
+        "code": "LOH"
+    },
+    {
+        "name": "Manta, Ecuador - Manta Airport",
+        "code": "MEC"
+    },
+    {
+        "name": "Cuenca, Ecuador - Mariscal Lamar",
+        "code": "CUE"
+    },
+    {
+        "name": "Galapagos Islands, Ecuador - Baltra Airport",
+        "code": "GPS"
+    },
+    {
+        "name": "Guayaquil, Ecuador - Josu00e9 Joaquu00edn de Olmedo Intl Airport",
+        "code": "GYE"
+    }
+]

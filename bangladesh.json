@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Dhaka, Bangladesh - Shahjalal International Airport",
+        "code": "DAC"
+    },
+    {
+        "name": "Chittagong, Bangladesh - Patenga",
+        "code": "CGP"
+    },
+    {
+        "name": "Sylhet, Bangladesh - Civil Airport",
+        "code": "ZYL"
+    },
+    {
+        "name": "Coxs Bazar, Bangladesh - Coxs Bazar Airport",
+        "code": "CXB"
+    },
+    {
+        "name": "Jessore, Bangladesh - Jessore Airport",
+        "code": "JSR"
+    },
+    {
+        "name": "Saidpur, Bangladesh - Saidpur Airport",
+        "code": "SPD"
+    },
+    {
+        "name": "Rajshahi, Bangladesh - Rajshahi Airport",
+        "code": "RJH"
+    },
+    {
+        "name": "Barisal, Bangladesh - Barisal Airport",
+        "code": "BZL"
+    },
+    {
+        "name": "Ishurdi, Bangladesh",
+        "code": "IRD"
+    },
+    {
+        "name": "Comilla, Bangladesh - Comilla Airport",
+        "code": "CLA"
+    },
+    {
+        "name": "Lalmonirhat, Bangladesh - Lalmonirhat Airport",
+        "code": "LLJ"
+    },
+    {
+        "name": "Thakurgaon, Bangladesh - Thakurgaon Airport",
+        "code": "TKR"
+    },
+    {
+        "name": "Shamshernagar, Bangladesh - Shamshernagar Airport",
+        "code": "ZHM"
+    }
+]

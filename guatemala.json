@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Paso Caballos, Guatemala - Paso Caballos Airport",
+        "code": "PCG"
+    },
+    {
+        "name": "Uaxactun, Guatemala - Uaxactun Airport",
+        "code": "UAX"
+    },
+    {
+        "name": "Puerto San Jose, Guatemala - San Jose Airport",
+        "code": "GSJ"
+    },
+    {
+        "name": "Retalhuleu, Guatemala - Retalhuleu Airport",
+        "code": "RER"
+    },
+    {
+        "name": "Rio Dulce, Guatemala - Las Vegas Airport",
+        "code": "LCF"
+    },
+    {
+        "name": "Rubelsanto, Guatemala - Rubelsanto Airport",
+        "code": "RUV"
+    },
+    {
+        "name": "Quezaltenango, Guatemala - Quezaltenango Airport",
+        "code": "AAZ"
+    },
+    {
+        "name": "Santa Cruz del Quiche, Guatemala - Santa Cruz del Quiche Airport",
+        "code": "AQB"
+    },
+    {
+        "name": "Poptun, Guatemala - Poptun Airport",
+        "code": "PON"
+    },
+    {
+        "name": "Playa Grande, Guatemala - Playa Grande Airport",
+        "code": "PKJ"
+    },
+    {
+        "name": "Guatemala City, Guatemala - La Aurora Airport",
+        "code": "GUA"
+    },
+    {
+        "name": "Puerto Barrios, Guatemala - Puerto Barrios Airport",
+        "code": "PBR"
+    },
+    {
+        "name": "Melchor de Mencos, Guatemala - Melchor de Mencos Airport",
+        "code": "MCR"
+    },
+    {
+        "name": "Huehuetenango, Guatemala - Huehuetenango Airport",
+        "code": "HUG"
+    },
+    {
+        "name": "Dos Lagunas, Guatemala - Dos Lagunas Airport",
+        "code": "DON"
+    },
+    {
+        "name": "Coatepeque, Guatemala - Coatepeque Airport",
+        "code": "CTF"
+    },
+    {
+        "name": "Carmelita, Guatemala - Carmelita Airport",
+        "code": "CMM"
+    },
+    {
+        "name": "Chiquimula, Guatemala - Chiquimula Airport",
+        "code": "CIQ"
+    },
+    {
+        "name": "Coban, Guatemala - Coban Airport",
+        "code": "CBV"
+    },
+    {
+        "name": "Flores, Guatemala - Santa Elena",
+        "code": "FRS"
+    }
+]

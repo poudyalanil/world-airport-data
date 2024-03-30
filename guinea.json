@@ -1,0 +1,418 @@
+[
+    {
+        "name": "Port Moresby, Papua New Guinea - Jackson Fld",
+        "code": "POM"
+    },
+    {
+        "name": "Lae, Papua New Guinea - Nadzab",
+        "code": "LAE"
+    },
+    {
+        "name": "Mount Hagen, Papua New Guinea - Kagamuga",
+        "code": "HGU"
+    },
+    {
+        "name": "Malabo, Equatorial Guinea - Santa Isabel Airport",
+        "code": "SSG"
+    },
+    {
+        "name": "Rabaul, Papua New Guinea - Tokua",
+        "code": "RAB"
+    },
+    {
+        "name": "Conakry, Guinea - Conakry",
+        "code": "CKY"
+    },
+    {
+        "name": "Kiunga, Papua New Guinea - Kiunga Airport",
+        "code": "UNG"
+    },
+    {
+        "name": "Hoskins, Papua New Guinea - Hoskins Airport",
+        "code": "HKN"
+    },
+    {
+        "name": "Goroka, Papua New Guinea - Goroka",
+        "code": "GKA"
+    },
+    {
+        "name": "Bata, Equatorial Guinea",
+        "code": "BSG"
+    },
+    {
+        "name": "Madang, Papua New Guinea - Madang",
+        "code": "MAG"
+    },
+    {
+        "name": "Popondetta, Papua New Guinea - Girua Airport",
+        "code": "PNP"
+    },
+    {
+        "name": "Wewak, Papua New Guinea - Boram Airport",
+        "code": "WWK"
+    },
+    {
+        "name": "Bissau, Guinea-Bissau - Osvaldo Vieira",
+        "code": "OXB"
+    },
+    {
+        "name": "Tari, Papua New Guinea - Tari Airport",
+        "code": "TIZ"
+    },
+    {
+        "name": "Alotau, Papua New Guinea - Gurney",
+        "code": "GUR"
+    },
+    {
+        "name": "Kavieng, Papua New Guinea - Kavieng Airport",
+        "code": "KVG"
+    },
+    {
+        "name": "Tabubil, Papua New Guinea - Tabubil Airport",
+        "code": "TBG"
+    },
+    {
+        "name": "Lihir Island, Papua New Guinea - Lihir Island Airport",
+        "code": "LNV"
+    },
+    {
+        "name": "Buka, Papua New Guinea - Buka Airport",
+        "code": "BUA"
+    },
+    {
+        "name": "Moro, Papua New Guinea - Moro Airport",
+        "code": "MXH"
+    },
+    {
+        "name": "Daru, Papua New Guinea - Daru Airport",
+        "code": "DAU"
+    },
+    {
+        "name": "Vanimo, Papua New Guinea - Vanimo Airport",
+        "code": "VAI"
+    },
+    {
+        "name": "Mendi, Papua New Guinea - Mendi Airport",
+        "code": "MDU"
+    },
+    {
+        "name": "Losuia, Papua New Guinea - Losuia Airport",
+        "code": "LSA"
+    },
+    {
+        "name": "Tufi, Papua New Guinea - Tufi Airport",
+        "code": "TFI"
+    },
+    {
+        "name": "Manus Island, Papua New Guinea - Momote Airport",
+        "code": "MAS"
+    },
+    {
+        "name": "Misima Island, Papua New Guinea - Misima Island Airport",
+        "code": "MIS"
+    },
+    {
+        "name": "Wapenamanda, Papua New Guinea - Wapenamanda Airport",
+        "code": "WBM"
+    },
+    {
+        "name": "Bulolo, Papua New Guinea",
+        "code": "BUL"
+    },
+    {
+        "name": "Kerema, Papua New Guinea - Kerema Airport",
+        "code": "KMA"
+    },
+    {
+        "name": "Balimo, Papua New Guinea - Balimo Airport",
+        "code": "OPU"
+    },
+    {
+        "name": "Kikori, Papua New Guinea - Kikori Airport",
+        "code": "KRI"
+    },
+    {
+        "name": "Kundiawa, Papua New Guinea - Chimbu Airport",
+        "code": "CMU"
+    },
+    {
+        "name": "Namatanai, Papua New Guinea - Namatanai Airport",
+        "code": "ATN"
+    },
+    {
+        "name": "Sangapi, Papua New Guinea - Sangapi Airport",
+        "code": "SGK"
+    },
+    {
+        "name": "Wanigela, Papua New Guinea - Wanigela Airport",
+        "code": "AGL"
+    },
+    {
+        "name": "Aitape, Papua New Guinea - Aitape Airport",
+        "code": "ATP"
+    },
+    {
+        "name": "Amanab, Papua New Guinea - Amanab Airport",
+        "code": "AMU"
+    },
+    {
+        "name": "Andekombe, Papua New Guinea - Andakombe Airport",
+        "code": "ADC"
+    },
+    {
+        "name": "Aiome, Papua New Guinea - Aiome Airport",
+        "code": "AIE"
+    },
+    {
+        "name": "Enga, Papua New Guinea - Kompiam Airport",
+        "code": "KPM"
+    },
+    {
+        "name": "Ambunti, Papua New Guinea - Ambunti Airport",
+        "code": "AUJ"
+    },
+    {
+        "name": "Awaba, Papua New Guinea - Awaba Airport",
+        "code": "AWB"
+    },
+    {
+        "name": "Aiyura Valley, Papua New Guinea - Aiyura Airport",
+        "code": "AYU"
+    },
+    {
+        "name": "Baimuru, Papua New Guinea - Baimuru Airport",
+        "code": "VMU"
+    },
+    {
+        "name": "Morobe, Papua New Guinea - Baindoung Airport",
+        "code": "BDZ"
+    },
+    {
+        "name": "Derim, Papua New Guinea - Derim Airport",
+        "code": "DER"
+    },
+    {
+        "name": "Yellow River Mission, Papua New Guinea - Edwaki Airport",
+        "code": "XYR"
+    },
+    {
+        "name": "Fane Mission, Papua New Guinea - Fane Airport",
+        "code": "FNE"
+    },
+    {
+        "name": "Buki, Papua New Guinea - Finschhafen Airport",
+        "code": "FIN"
+    },
+    {
+        "name": "Frieda River, Papua New Guinea - Frieda River Airport",
+        "code": "FAQ"
+    },
+    {
+        "name": "Au, Papua New Guinea - Garasa Airport",
+        "code": "GRL"
+    },
+    {
+        "name": "Garaina, Papua New Guinea - Garaina Airport",
+        "code": "GAR"
+    },
+    {
+        "name": "Gusap, Papua New Guinea - Gusap Airport",
+        "code": "GAP"
+    },
+    {
+        "name": "Gasmata Island, Papua New Guinea - Gasmata Island Airport",
+        "code": "GMI"
+    },
+    {
+        "name": "Green River, Papua New Guinea - Green River Airport",
+        "code": "GVI"
+    },
+    {
+        "name": "Kieta, Papua New Guinea - Aropa Airport",
+        "code": "KIE"
+    },
+    {
+        "name": "Morobe, Papua New Guinea - Kabwum",
+        "code": "KBM"
+    },
+    {
+        "name": "Kandrian, Papua New Guinea - Kandrian Airport",
+        "code": "KDR"
+    },
+    {
+        "name": "Kokoda, Papua New Guinea - Kokoda Airport",
+        "code": "KKD"
+    },
+    {
+        "name": "Kaintiba, Papua New Guinea - Kaintiba Airport",
+        "code": "KZF"
+    },
+    {
+        "name": "Kuri, Papua New Guinea - Kuri Airport",
+        "code": "KUQ"
+    },
+    {
+        "name": "Kawito, Papua New Guinea - Kawito Airport",
+        "code": "KWO"
+    },
+    {
+        "name": "Lake Murray, Papua New Guinea - Lake Murray Airport",
+        "code": "LMY"
+    },
+    {
+        "name": "Lumi, Papua New Guinea - Lumi Airport",
+        "code": "LMI"
+    },
+    {
+        "name": "Menyamya, Papua New Guinea - Menyamya Airport",
+        "code": "MYX"
+    },
+    {
+        "name": "Mindik, Papua New Guinea - Mindik Airport",
+        "code": "MXK"
+    },
+    {
+        "name": "Mougulu, Papua New Guinea - Mougulu Airport",
+        "code": "GUV"
+    },
+    {
+        "name": "Negarbo, Papua New Guinea - Negarbo(Negabo) Airport",
+        "code": "GBF"
+    },
+    {
+        "name": "Manguna, Papua New Guinea - Manguna Airport",
+        "code": "MFO"
+    },
+    {
+        "name": "Nuku, Papua New Guinea - Nuku Airport",
+        "code": "UKU"
+    },
+    {
+        "name": "Morobe, Papua New Guinea - Ogeranang Airport",
+        "code": "OGE"
+    },
+    {
+        "name": "Omora, Papua New Guinea - Omora Airport",
+        "code": "OSE"
+    },
+    {
+        "name": "Pindiu, Papua New Guinea - Pindiu Airport",
+        "code": "PDI"
+    },
+    {
+        "name": "East Sepik, Papua New Guinea - Karawari Airstrip",
+        "code": "KRJ"
+    },
+    {
+        "name": "Western Province, Papua New Guinea - Rumginae Airport",
+        "code": "RMN"
+    },
+    {
+        "name": "Karimui, Papua New Guinea - Karimui Airport",
+        "code": "KMR"
+    },
+    {
+        "name": "Western Province, Papua New Guinea - Suabi Airport",
+        "code": "SBE"
+    },
+    {
+        "name": "Simberi Island, Papua New Guinea - Simberi Airport",
+        "code": "NIS"
+    },
+    {
+        "name": "Sila Mission, Papua New Guinea - Sila Airport",
+        "code": "SIL"
+    },
+    {
+        "name": "Simbai, Papua New Guinea - Simbai Airport",
+        "code": "SIM"
+    },
+    {
+        "name": "Suki, Papua New Guinea - Suki Airport",
+        "code": "SKC"
+    },
+    {
+        "name": "Telefomin, Papua New Guinea - Telefomin Airport",
+        "code": "TFM"
+    },
+    {
+        "name": "Tapini, Papua New Guinea - Tapini Airport",
+        "code": "TPI"
+    },
+    {
+        "name": "Aitape, Papua New Guinea - Tadji Airport",
+        "code": "TAJ"
+    },
+    {
+        "name": "Tekin, Papua New Guinea - Tekin Airport",
+        "code": "TKW"
+    },
+    {
+        "name": "Wabo, Papua New Guinea - Wabo Airport",
+        "code": "WAO"
+    },
+    {
+        "name": "Wonenara, Papua New Guinea - Wonenara Airport",
+        "code": "WOA"
+    },
+    {
+        "name": "Wasu, Papua New Guinea - Wasu Airport",
+        "code": "WSU"
+    },
+    {
+        "name": "Fatima Mission, Papua New Guinea - Woitape Airport",
+        "code": "WTP"
+    },
+    {
+        "name": "Wau, Papua New Guinea - Wau Airport",
+        "code": "WUG"
+    },
+    {
+        "name": "Bubaque, Guinea-Bissau - Bubaque Airport",
+        "code": "BQE"
+    },
+    {
+        "name": "Boke, Guinea - Fria Airport",
+        "code": "FIG"
+    },
+    {
+        "name": "Faranah, Guinea - Faranah Airport",
+        "code": "FAA"
+    },
+    {
+        "name": "Kissidougou, Guinea - Kissidougou Airport",
+        "code": "KSI"
+    },
+    {
+        "name": "Labe, Guinea - Labe Airport",
+        "code": "LEK"
+    },
+    {
+        "name": "Macenta, Guinea - Macenta Airport",
+        "code": "MCA"
+    },
+    {
+        "name": "Nzerekore, Guinea - Nzerekore Airport",
+        "code": "NZE"
+    },
+    {
+        "name": "Boke, Guinea - Boke Airport",
+        "code": "BKJ"
+    },
+    {
+        "name": "Koundara, Guinea - Sambailo Airport",
+        "code": "SBI"
+    },
+    {
+        "name": "Siguiri, Guinea - Siguiri Airport",
+        "code": "GII"
+    },
+    {
+        "name": "Kankan, Guinea - Kankan Airport",
+        "code": "KNN"
+    },
+    {
+        "name": "Nueva Guinea, Nicaragua - Nueva Guinea Airport",
+        "code": "NVG"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Tel Aviv, Israel - Ben Gurion International Airport",
+        "code": "TLV"
+    },
+    {
+        "name": "Haifa, Israel",
+        "code": "HFA"
+    },
+    {
+        "name": "Beersheva, Israel - Be'er Sheva (Teyman) Airport",
+        "code": "BEV"
+    },
+    {
+        "name": "Eilat, Israel - Eilat Airport",
+        "code": "ETH"
+    },
+    {
+        "name": "Eilat, Israel - Ramon Airport",
+        "code": "ETM"
+    },
+    {
+        "name": "Sapir, Israel - Ein Yahav Airfield",
+        "code": "EIY"
+    },
+    {
+        "name": "Rosh Pina, Israel - Ben Ya'akov Airport",
+        "code": "RPN"
+    },
+    {
+        "name": "Kiryat Shmona, Israel - Kiryat Shmona Airport",
+        "code": "KSW"
+    },
+    {
+        "name": "Masada, Israel - Bar Yehuda Airfield",
+        "code": "MTZ"
+    },
+    {
+        "name": "Beersheba, Israel - Nevatim Air Base",
+        "code": "VTM"
+    },
+    {
+        "name": "Eilat, Israel - Ovda International Airport",
+        "code": "VDA"
+    },
+    {
+        "name": "Beersheba, Israel - Ramon Air Base",
+        "code": "MIP"
+    },
+    {
+        "name": "Tel Aviv, Israel - Sde Dov Airport",
+        "code": "SDV"
+    },
+    {
+        "name": "Yotvata, Israel - Yotvata Airfield",
+        "code": "YOT"
+    }
+]

@@ -1,0 +1,1934 @@
+[
+    {
+        "name": "Sydney, Australia - Kingsford Smith Airport",
+        "code": "SYD"
+    },
+    {
+        "name": "Melbourne, Australia - Tullamarine Airport",
+        "code": "MEL"
+    },
+    {
+        "name": "Brisbane, Australia - Brisbane Intl",
+        "code": "BNE"
+    },
+    {
+        "name": "Perth, Australia - Perth International",
+        "code": "PER"
+    },
+    {
+        "name": "Adelaide, Australia - Adelaide",
+        "code": "ADL"
+    },
+    {
+        "name": "Cairns, Australia - Cairns",
+        "code": "CNS"
+    },
+    {
+        "name": "Canberra, Australia - Canberra",
+        "code": "CBR"
+    },
+    {
+        "name": "Townsville, Australia - Townsville",
+        "code": "TSV"
+    },
+    {
+        "name": "Darwin, Australia - Darwin",
+        "code": "DRW"
+    },
+    {
+        "name": "Hobart, Australia - Hobart International",
+        "code": "HBA"
+    },
+    {
+        "name": "Newcastle, Australia - Williamtown",
+        "code": "NTL"
+    },
+    {
+        "name": "Launceston, Australia - Launceston",
+        "code": "LST"
+    },
+    {
+        "name": "Dubbo, Australia - Dubbo",
+        "code": "DBO"
+    },
+    {
+        "name": "Mackay, Australia - Mackay",
+        "code": "MKY"
+    },
+    {
+        "name": "Rockhampton, Australia - Rockhampton",
+        "code": "ROK"
+    },
+    {
+        "name": "Albury, Australia - Albury",
+        "code": "ABX"
+    },
+    {
+        "name": "Wagga Wagga, Australia - Forest Hill",
+        "code": "WGA"
+    },
+    {
+        "name": "Port Lincoln, Australia - Port Lincoln Airport",
+        "code": "PLO"
+    },
+    {
+        "name": "Mildura, Australia - Mildura",
+        "code": "MQL"
+    },
+    {
+        "name": "Alice Springs, Australia - Alice Spring",
+        "code": "ASP"
+    },
+    {
+        "name": "Karratha, Australia - Karratha",
+        "code": "KTA"
+    },
+    {
+        "name": "Maroochydore, Australia - Sunshine Coast Airport",
+        "code": "MCY"
+    },
+    {
+        "name": "Coffs Harbour, Australia - Coffs Harbour",
+        "code": "CFS"
+    },
+    {
+        "name": "Burnie, Australia - Burnie Wynyard",
+        "code": "BWT"
+    },
+    {
+        "name": "Gladstone, Australia - Gladstone",
+        "code": "GLT"
+    },
+    {
+        "name": "Tamworth, Australia - Tamworth",
+        "code": "TMW"
+    },
+    {
+        "name": "Port Macquarie, Australia - Port Macquarie",
+        "code": "PQQ"
+    },
+    {
+        "name": "Armidale, Australia - Armidale",
+        "code": "ARM"
+    },
+    {
+        "name": "Hamilton Island, Australia - Hamilton Is",
+        "code": "HTI"
+    },
+    {
+        "name": "Mount Isa, Australia - Mt Isa",
+        "code": "ISA"
+    },
+    {
+        "name": "Port Hedland, Australia - Port Hedland",
+        "code": "PHE"
+    },
+    {
+        "name": "Broome, Australia - Broome",
+        "code": "BME"
+    },
+    {
+        "name": "Whyalla, Australia - Whyalla",
+        "code": "WYA"
+    },
+    {
+        "name": "Mount Gambier, Australia - Mt Gambier",
+        "code": "MGB"
+    },
+    {
+        "name": "Emerald, Australia - Emerald Airport",
+        "code": "EMD"
+    },
+    {
+        "name": "Toowoomba, Australia - Brisbane West Wellcamp Airport",
+        "code": "WTB"
+    },
+    {
+        "name": "Newman, Australia - Newman",
+        "code": "ZNE"
+    },
+    {
+        "name": "Broken Hill, Australia - Broken Hill",
+        "code": "BHQ"
+    },
+    {
+        "name": "Bundaberg, Australia - Bundaberg",
+        "code": "BDB"
+    },
+    {
+        "name": "Melbourne, Australia - Avalon",
+        "code": "AVV"
+    },
+    {
+        "name": "Ballina, Australia - Ballina Byron Gtwy",
+        "code": "BNK"
+    },
+    {
+        "name": "Kalgoorlie, Australia - Kalgoorlie",
+        "code": "KGI"
+    },
+    {
+        "name": "Hervey Bay, Australia - Hervey Bay",
+        "code": "HVB"
+    },
+    {
+        "name": "Griffith, Australia - Griffith",
+        "code": "GFF"
+    },
+    {
+        "name": "Palm Island, Australia - Palm Island Airport",
+        "code": "PMK"
+    },
+    {
+        "name": "Moranbah, Australia - Moranbah Airport",
+        "code": "MOV"
+    },
+    {
+        "name": "King Island, Australia - King Island Airport",
+        "code": "KNS"
+    },
+    {
+        "name": "Ayers Rock, Australia - Ayers Rock Connellan",
+        "code": "AYQ"
+    },
+    {
+        "name": "Merimbula, Australia - Merimbula",
+        "code": "MIM"
+    },
+    {
+        "name": "Orange, Australia - Springhill",
+        "code": "OAG"
+    },
+    {
+        "name": "Devonport, Australia - Devonport",
+        "code": "DPO"
+    },
+    {
+        "name": "Grafton, Australia - Grafton",
+        "code": "GFN"
+    },
+    {
+        "name": "Melbourne, Australia",
+        "code": "MEB"
+    },
+    {
+        "name": "Proserpine, Australia - Whitsunday Coast Airport",
+        "code": "PPP"
+    },
+    {
+        "name": "Moruya, Australia - Moruya Airport",
+        "code": "MYA"
+    },
+    {
+        "name": "Paraburdoo, Australia - Paraburdoo Airport",
+        "code": "PBO"
+    },
+    {
+        "name": "Maningrida, Australia - Maningrida Airport",
+        "code": "MNG"
+    },
+    {
+        "name": "Albany, Australia - Albany",
+        "code": "ALH"
+    },
+    {
+        "name": "Narrandera, Australia - Narrandera",
+        "code": "NRA"
+    },
+    {
+        "name": "Warrnambool, Australia",
+        "code": "WMB"
+    },
+    {
+        "name": "Geraldton, Australia - Geraldton",
+        "code": "GET"
+    },
+    {
+        "name": "Roma, Australia - Roma",
+        "code": "RMA"
+    },
+    {
+        "name": "Gove, Australia - Nhulunbuy Airport",
+        "code": "GOV"
+    },
+    {
+        "name": "Kingscote, Australia - Kingscote",
+        "code": "KGC"
+    },
+    {
+        "name": "Lismore, Australia - Lismore",
+        "code": "LSY"
+    },
+    {
+        "name": "Kununurra, Australia - Kununurra",
+        "code": "KNX"
+    },
+    {
+        "name": "Bathurst, Australia",
+        "code": "BHS"
+    },
+    {
+        "name": "Esperance, Australia - Esperance",
+        "code": "EPR"
+    },
+    {
+        "name": "Parkes, Australia - Parkes",
+        "code": "PKE"
+    },
+    {
+        "name": "Taree, Australia - Taree",
+        "code": "TRO"
+    },
+    {
+        "name": "Moree, Australia - Moree",
+        "code": "MRZ"
+    },
+    {
+        "name": "Weipa, Australia - Weipa Airport",
+        "code": "WEI"
+    },
+    {
+        "name": "Horn Island, Australia - Horn Island Airport",
+        "code": "HID"
+    },
+    {
+        "name": "Lord Howe Island, Australia - Lord Howe Is",
+        "code": "LDH"
+    },
+    {
+        "name": "Groote Island, Australia - Alyangula Airport",
+        "code": "GTE"
+    },
+    {
+        "name": "Learmonth, Australia - Learmonth Airport",
+        "code": "LEA"
+    },
+    {
+        "name": "Ceduna, Australia - Ceduna",
+        "code": "CED"
+    },
+    {
+        "name": "Portland, Australia",
+        "code": "PTJ"
+    },
+    {
+        "name": "Cooktown, Australia - Cooktown Airport",
+        "code": "CTN"
+    },
+    {
+        "name": "Charleville, Australia - Charleville Airport",
+        "code": "CTL"
+    },
+    {
+        "name": "Port Augusta, Australia - Port Augusta/Pagas",
+        "code": "PUG"
+    },
+    {
+        "name": "Carnarvon, Australia - Carnarvon Airport",
+        "code": "CVQ"
+    },
+    {
+        "name": "Cloncurry, Australia - Cloncurry Airport",
+        "code": "CNJ"
+    },
+    {
+        "name": "Longreach, Australia - Longreach",
+        "code": "LRE"
+    },
+    {
+        "name": "Olympic Dam, Australia - Olympic Dam Airport",
+        "code": "OLP"
+    },
+    {
+        "name": "Doomadgee, Australia - Doomadgee Airport",
+        "code": "DMD"
+    },
+    {
+        "name": "Mornington, Australia - Mornington Airport",
+        "code": "ONG"
+    },
+    {
+        "name": "Normanton, Australia - Normanton Airport",
+        "code": "NTN"
+    },
+    {
+        "name": "Cooma, Australia - Cooma",
+        "code": "OOM"
+    },
+    {
+        "name": "Elcho Island, Australia - Elcho Island Airport",
+        "code": "ELC"
+    },
+    {
+        "name": "Katherine, Australia - Tindal",
+        "code": "KTR"
+    },
+    {
+        "name": "Tennant Creek, Australia",
+        "code": "TCA"
+    },
+    {
+        "name": "Hughenden, Australia - Hughenden Airport",
+        "code": "HGD"
+    },
+    {
+        "name": "Julia Creek, Australia - Julia Creek Airport",
+        "code": "JCK"
+    },
+    {
+        "name": "Richmond, Australia - Richmond Airport",
+        "code": "RCM"
+    },
+    {
+        "name": "Bamaga, Australia - Bamaga Airport",
+        "code": "ABM"
+    },
+    {
+        "name": "Coober Pedy, Australia - Coober Pedy",
+        "code": "CPD"
+    },
+    {
+        "name": "Mcarthur River, Australia - Mcarthur River Airport",
+        "code": "MCV"
+    },
+    {
+        "name": "Milingimbi, Australia - Milingimbi Airport",
+        "code": "MGT"
+    },
+    {
+        "name": "Mudgee, Australia",
+        "code": "DGE"
+    },
+    {
+        "name": "Leonora, Australia - Leonora Airport",
+        "code": "LNO"
+    },
+    {
+        "name": "Edward River, Australia - Edward River Airport",
+        "code": "EDR"
+    },
+    {
+        "name": "Kowanyama, Australia - Kowanyama Airport",
+        "code": "KWM"
+    },
+    {
+        "name": "Bedourie, Australia - Bedourie Airport",
+        "code": "BEU"
+    },
+    {
+        "name": "Birdsville, Australia - Birdsville Airport",
+        "code": "BVI"
+    },
+    {
+        "name": "Boulia, Australia - Boulia Airport",
+        "code": "BQL"
+    },
+    {
+        "name": "Burketown, Australia - Burketown Airport",
+        "code": "BUC"
+    },
+    {
+        "name": "Quilpie, Australia - Quilpie Airport",
+        "code": "ULP"
+    },
+    {
+        "name": "Windorah, Australia - Windorah Airport",
+        "code": "WNR"
+    },
+    {
+        "name": "Monkey Mia, Australia - Shark Bay Airport",
+        "code": "MJK"
+    },
+    {
+        "name": "Cunnamulla, Australia - Cunnamulla Airport",
+        "code": "CMA"
+    },
+    {
+        "name": "St George, Australia - St. George Airport",
+        "code": "SGO"
+    },
+    {
+        "name": "Winton, Australia - Winton Airport",
+        "code": "WIN"
+    },
+    {
+        "name": "Leinster, Australia - Leinster Airport",
+        "code": "LER"
+    },
+    {
+        "name": "Blackall, Australia",
+        "code": "BKQ"
+    },
+    {
+        "name": "Barcaldine, Australia - Barcaldine Airport",
+        "code": "BCI"
+    },
+    {
+        "name": "Laverton, Australia - Laverton Airport",
+        "code": "LVO"
+    },
+    {
+        "name": "Meekatharra, Australia - Meekatharra Airport",
+        "code": "MKR"
+    },
+    {
+        "name": "Mount Magnet, Australia - Mount Magnet Airport",
+        "code": "MMG"
+    },
+    {
+        "name": "Wiluna, Australia - Wiluna Airport",
+        "code": "WUN"
+    },
+    {
+        "name": "Halls Creek, Australia",
+        "code": "HCQ"
+    },
+    {
+        "name": "Moomba, Australia - Moomba Airport",
+        "code": "MOO"
+    },
+    {
+        "name": "Narrabri, Australia - Narrabri",
+        "code": "NAA"
+    },
+    {
+        "name": "Cape Barren Island, Australia - Cape Barren Island Airport",
+        "code": "CBI"
+    },
+    {
+        "name": "Thargomindah, Australia - Thargomindah Airport",
+        "code": "XTG"
+    },
+    {
+        "name": "Keeling) Islands, Australia - Cocos Islands Airport",
+        "code": "CCK"
+    },
+    {
+        "name": "Aurukun Mission, Australia - Aurukun Mission Airport",
+        "code": "AUU"
+    },
+    {
+        "name": "Lockhart River, Australia - Lockhart River Airport",
+        "code": "IRG"
+    },
+    {
+        "name": "Coen, Australia - Coen Airport",
+        "code": "CUQ"
+    },
+    {
+        "name": "Karumba, Australia - Karumba Airport",
+        "code": "KRB"
+    },
+    {
+        "name": "Airlie Beach, Australia",
+        "code": "WSY"
+    },
+    {
+        "name": "Argyle, Australia - Argyle Airport",
+        "code": "GYL"
+    },
+    {
+        "name": "Badu Island, Australia - Badu Island Airport",
+        "code": "BDD"
+    },
+    {
+        "name": "Biloela, Australia - Biloela Airport",
+        "code": "ZBL"
+    },
+    {
+        "name": "Blackwater, Australia - Blackwater Airport",
+        "code": "BLT"
+    },
+    {
+        "name": "Bloomfield, Australia",
+        "code": "BFC"
+    },
+    {
+        "name": "Boigu Island, Australia - Boigu Island Airport",
+        "code": "GIC"
+    },
+    {
+        "name": "Bussellton, Australia",
+        "code": "BQB"
+    },
+    {
+        "name": "Clermont, Australia",
+        "code": "CMQ"
+    },
+    {
+        "name": "Coconut Island, Australia - Coconut Island Airport",
+        "code": "CNC"
+    },
+    {
+        "name": "Derby, Australia",
+        "code": "DRB"
+    },
+    {
+        "name": "Eloise Copper Mine, Australia - Elrose Mine Airport",
+        "code": "ERQ"
+    },
+    {
+        "name": "Flinders Island, Australia - Flinders Island Airport",
+        "code": "FLS"
+    },
+    {
+        "name": "Hamilton, Australia",
+        "code": "HLT"
+    },
+    {
+        "name": "Hayman Island, Australia - Hayman Island Airport",
+        "code": "HIS"
+    },
+    {
+        "name": "Inverell, Australia - Inverell",
+        "code": "IVR"
+    },
+    {
+        "name": "Kalbarri, Australia - Kalbarri",
+        "code": "KAX"
+    },
+    {
+        "name": "Kubin Island, Australia - Kubin Island Airport",
+        "code": "KUG"
+    },
+    {
+        "name": "Mabuiag Island, Australia - Mabuiag Island Airport",
+        "code": "UBB"
+    },
+    {
+        "name": "Oakey, Australia - Oakey Airport",
+        "code": "OKY"
+    },
+    {
+        "name": "Saibai Island, Australia - Saibai Island Airport",
+        "code": "SBR"
+    },
+    {
+        "name": "Sue Island, Australia - Warraber Island Airport",
+        "code": "SYU"
+    },
+    {
+        "name": "Thursday Island, Australia - Thursday Island Airport",
+        "code": "TIS"
+    },
+    {
+        "name": "West Wyalong, Australia - West Wyalong",
+        "code": "WWY"
+    },
+    {
+        "name": "Wollongong, Australia - Wollongong",
+        "code": "WOL"
+    },
+    {
+        "name": "Yam Island, Australia - Yam Island Airport",
+        "code": "XMY"
+    },
+    {
+        "name": "Yorke Island, Australia - Yorke Island Airport",
+        "code": "OKR"
+    },
+    {
+        "name": "Queensland, Australia - Abingdon Downs Airport",
+        "code": "ABG"
+    },
+    {
+        "name": "South-Australia, Australia - Alton Downs Airport",
+        "code": "AWN"
+    },
+    {
+        "name": "Queensland, Australia - Augustus Downs Airport",
+        "code": "AUD"
+    },
+    {
+        "name": "South-Australia, Australia - Marla Airport",
+        "code": "MRP"
+    },
+    {
+        "name": "Northern-Territory, Australia - Alexandria Homestead Airport",
+        "code": "AXL"
+    },
+    {
+        "name": "Queensland, Australia - Aramac Airport",
+        "code": "AXC"
+    },
+    {
+        "name": "South-Australia, Australia - Andamooka Airport",
+        "code": "ADO"
+    },
+    {
+        "name": "Northern-Territory, Australia - Ammaroo Airport",
+        "code": "AMX"
+    },
+    {
+        "name": "South-Australia, Australia - Amata Airport",
+        "code": "AMT"
+    },
+    {
+        "name": "Northern-Territory, Australia - Anthony Lagoon Airport",
+        "code": "AYL"
+    },
+    {
+        "name": "Queensland, Australia - Alpha Airport",
+        "code": "ABH"
+    },
+    {
+        "name": "Victoria, Australia - Ararat Airport",
+        "code": "ARY"
+    },
+    {
+        "name": "Queensland, Australia - Arrabury Airport",
+        "code": "AAB"
+    },
+    {
+        "name": "Northern-Territory, Australia - Austral Downs Airport",
+        "code": "AWP"
+    },
+    {
+        "name": "Northern-Territory, Australia - Auvergne Airport",
+        "code": "AVG"
+    },
+    {
+        "name": "Queensland, Australia - Ayr Airport",
+        "code": "AYR"
+    },
+    {
+        "name": "Brisbane, Australia - Brisbane Archerfield Airport",
+        "code": "ACF"
+    },
+    {
+        "name": "Queensland, Australia - Barkly Downs Airport",
+        "code": "BKP"
+    },
+    {
+        "name": "Big Bell, Australia - Big Bell Airport",
+        "code": "BBE"
+    },
+    {
+        "name": "Western-Australia, Australia - Bedford Downs Airport",
+        "code": "BDW"
+    },
+    {
+        "name": "Victoria, Australia - Bendigo Airport",
+        "code": "BXG"
+    },
+    {
+        "name": "Queensland, Australia - Betoota Airport",
+        "code": "BTX"
+    },
+    {
+        "name": "Western-Australia, Australia - Boolgeeda Airport",
+        "code": "OCM"
+    },
+    {
+        "name": "Western-Australia, Australia - Balgo Hill Airport",
+        "code": "BQW"
+    },
+    {
+        "name": "Western-Australia, Australia - Billiluna Airport",
+        "code": "BIW"
+    },
+    {
+        "name": "Lakefield National Park, Australia - Bizant Airport",
+        "code": "BZP"
+    },
+    {
+        "name": "New-South-Wales, Australia - Bourke Airport",
+        "code": "BRK"
+    },
+    {
+        "name": "Victoria, Australia - Benalla Airport",
+        "code": "BLN"
+    },
+    {
+        "name": "South-Australia, Australia - Balcanoona Airport",
+        "code": "LCN"
+    },
+    {
+        "name": "Queensland, Australia - Bollon Airport",
+        "code": "BLS"
+    },
+    {
+        "name": "Victoria, Australia - Bairnsdale Airport",
+        "code": "BSJ"
+    },
+    {
+        "name": "Queensland, Australia - Brampton Island Airport",
+        "code": "BMP"
+    },
+    {
+        "name": "Northern-Territory, Australia - Borroloola Airport",
+        "code": "BOX"
+    },
+    {
+        "name": "New-South-Wales, Australia - Balranald Airport",
+        "code": "BZD"
+    },
+    {
+        "name": "Northern-Territory, Australia - Brunette Downs Airport",
+        "code": "BTD"
+    },
+    {
+        "name": "New-South-Wales, Australia - Brewarrina Airport",
+        "code": "BWQ"
+    },
+    {
+        "name": "Northern-Territory, Australia - Bathurst Island Airport",
+        "code": "BRT"
+    },
+    {
+        "name": "Western-Australia, Australia - Bunbury Airport",
+        "code": "BUY"
+    },
+    {
+        "name": "Queensland, Australia - Bulimba Airport",
+        "code": "BIP"
+    },
+    {
+        "name": "Queensland, Australia - Bowen Airport",
+        "code": "ZBO"
+    },
+    {
+        "name": "Western-Australia, Australia - Barrow Island Airport",
+        "code": "BWB"
+    },
+    {
+        "name": "Western-Australia, Australia - Beverley Springs Airport",
+        "code": "BVZ"
+    },
+    {
+        "name": "Western-Australia, Australia - Caiguna Airport",
+        "code": "CGV"
+    },
+    {
+        "name": "New-South-Wales, Australia - Coolah Airport",
+        "code": "CLH"
+    },
+    {
+        "name": "New-South-Wales, Australia - Casino Airport",
+        "code": "CSI"
+    },
+    {
+        "name": "New-South-Wales, Australia - Cobar Airport",
+        "code": "CAZ"
+    },
+    {
+        "name": "New-South-Wales, Australia - Coonabarabran Airport",
+        "code": "COJ"
+    },
+    {
+        "name": "Canobie, Australia - Canobie Airport",
+        "code": "CBY"
+    },
+    {
+        "name": "New-South-Wales, Australia - Collarenebri Airport",
+        "code": "CRB"
+    },
+    {
+        "name": "Queensland, Australia - Chinchilla Airport",
+        "code": "CCL"
+    },
+    {
+        "name": "New-South-Wales, Australia - Condobolin Airport",
+        "code": "CBX"
+    },
+    {
+        "name": "Queensland, Australia - Caloundra Airport",
+        "code": "CUD"
+    },
+    {
+        "name": "South-Australia, Australia - Cleve Airport",
+        "code": "CVC"
+    },
+    {
+        "name": "Northern-Territory, Australia - Camfield Airport",
+        "code": "CFI"
+    },
+    {
+        "name": "Queensland, Australia - Chillagoe Airport",
+        "code": "LLG"
+    },
+    {
+        "name": "Christmas Creek mine, Australia - Graeme Rowley Aerodrome",
+        "code": "CKW"
+    },
+    {
+        "name": "Queensland, Australia - Charters Towers Airport",
+        "code": "CXT"
+    },
+    {
+        "name": "Northern-Territory, Australia - Croker Island Airport",
+        "code": "CKI"
+    },
+    {
+        "name": "Queensland, Australia - Camooweal Airport",
+        "code": "CML"
+    },
+    {
+        "name": "Western-Australia, Australia - Camp Nifty Airport",
+        "code": "NIF"
+    },
+    {
+        "name": "New-South-Wales, Australia - Cessnock Airport",
+        "code": "CES"
+    },
+    {
+        "name": "New-South-Wales, Australia - Coonamble Airport",
+        "code": "CNB"
+    },
+    {
+        "name": "Cordillo Downs, Australia - Cordillo Downs Airport",
+        "code": "ODL"
+    },
+    {
+        "name": "Northern-Territory, Australia - Cooinda Airport",
+        "code": "CDA"
+    },
+    {
+        "name": "New-South-Wales, Australia - Corowa Airport",
+        "code": "CWW"
+    },
+    {
+        "name": "Victoria, Australia - Corryong Airport",
+        "code": "CYG"
+    },
+    {
+        "name": "Queensland, Australia - Croydon Airport",
+        "code": "CDQ"
+    },
+    {
+        "name": "Queensland, Australia - Collinsville Airport",
+        "code": "KCE"
+    },
+    {
+        "name": "New-South-Wales, Australia - Cootamundra Airport",
+        "code": "CMD"
+    },
+    {
+        "name": "New-South-Wales, Australia - Cudal Airport",
+        "code": "CUG"
+    },
+    {
+        "name": "Western-Australia, Australia - Cue Airport",
+        "code": "CUY"
+    },
+    {
+        "name": "Western-Australia, Australia - Coondewanna Wa Airport",
+        "code": "CJF"
+    },
+    {
+        "name": "South-Australia, Australia - Cowarie Airport",
+        "code": "CWR"
+    },
+    {
+        "name": "South-Australia, Australia - Cowell Airport",
+        "code": "CCW"
+    },
+    {
+        "name": "New-South-Wales, Australia - Cowra Airport",
+        "code": "CWT"
+    },
+    {
+        "name": "Queensland, Australia - Dajarra Airport",
+        "code": "DJR"
+    },
+    {
+        "name": "Queensland, Australia - Dalby Airport",
+        "code": "DBY"
+    },
+    {
+        "name": "Queensland, Australia - Dirranbandi Airport",
+        "code": "DRN"
+    },
+    {
+        "name": "Queensland, Australia - Dunbar Airport",
+        "code": "DNB"
+    },
+    {
+        "name": "Drumduff, Australia - Drumduff Airport",
+        "code": "DFP"
+    },
+    {
+        "name": "Western-Australia, Australia - Dalgaranga Gold Mine Airport",
+        "code": "DGD"
+    },
+    {
+        "name": "New Dixie, Australia - Dixie Airport",
+        "code": "DXD"
+    },
+    {
+        "name": "Dulkaninna, Australia - Dulkaninna Airport",
+        "code": "DLK"
+    },
+    {
+        "name": "Queensland, Australia - Delta Downs Airport",
+        "code": "DDN"
+    },
+    {
+        "name": "Northern-Territory, Australia - Delissaville Airport",
+        "code": "DLV"
+    },
+    {
+        "name": "Daly Waters, Australia - Daly Waters Airport",
+        "code": "DYW"
+    },
+    {
+        "name": "Northern-Territory, Australia - Daly River Airport",
+        "code": "DVR"
+    },
+    {
+        "name": "Darnley Island, Australia - Darnley Island Airport",
+        "code": "NLF"
+    },
+    {
+        "name": "Queensland, Australia - Dorunda Airport",
+        "code": "DRD"
+    },
+    {
+        "name": "Queensland, Australia - Davenport Downs Airport",
+        "code": "DVP"
+    },
+    {
+        "name": "Western-Australia, Australia - Dongara Airport",
+        "code": "DOX"
+    },
+    {
+        "name": "Western-Australia, Australia - Drysdale River Airport",
+        "code": "DRY"
+    },
+    {
+        "name": "Queensland, Australia - Durham Downs Airport",
+        "code": "DHD"
+    },
+    {
+        "name": "Queensland, Australia - Durrie Airport",
+        "code": "DRR"
+    },
+    {
+        "name": "Northern-Territory, Australia - Docker River Airport",
+        "code": "DKV"
+    },
+    {
+        "name": "Queensland, Australia - Dysart Airport",
+        "code": "DYA"
+    },
+    {
+        "name": "Victoria, Australia - Echuca Airport",
+        "code": "ECH"
+    },
+    {
+        "name": "Western-Australia, Australia - Eucla Airport",
+        "code": "EUC"
+    },
+    {
+        "name": "Etadunna, Australia - Etadunna Airport",
+        "code": "ETD"
+    },
+    {
+        "name": "Eneabba, Australia - Eneabba Airport",
+        "code": "ENB"
+    },
+    {
+        "name": "Einasleigh, Australia - Einasleigh Airport",
+        "code": "EIH"
+    },
+    {
+        "name": "South-Australia, Australia - Ernabella Airport",
+        "code": "ERB"
+    },
+    {
+        "name": "Eva Downs, Australia - Eva Downs Airport",
+        "code": "EVD"
+    },
+    {
+        "name": "New-South-Wales, Australia - Evans Head Aerodrome",
+        "code": "EVH"
+    },
+    {
+        "name": "Western-Australia, Australia - Exmouth Airport",
+        "code": "EXM"
+    },
+    {
+        "name": "Cloudbreak Village, Australia - Fortescue - Dave Forrest Aerodrome",
+        "code": "KFE"
+    },
+    {
+        "name": "New-South-Wales, Australia - Finley Airport",
+        "code": "FLY"
+    },
+    {
+        "name": "Western-Australia, Australia - Flora Valley Airport",
+        "code": "FVL"
+    },
+    {
+        "name": "Finke, Australia - Finke Airport",
+        "code": "FIK"
+    },
+    {
+        "name": "Western-Australia, Australia - Forrest Airport",
+        "code": "FOS"
+    },
+    {
+        "name": "New-South-Wales, Australia - Forster (Wallis Is) Airport",
+        "code": "FOT"
+    },
+    {
+        "name": "Western-Australia, Australia - Fitzroy Crossing Airport",
+        "code": "FIZ"
+    },
+    {
+        "name": "Queensland, Australia - Gayndah Airport",
+        "code": "GAH"
+    },
+    {
+        "name": "Northern-Territory, Australia - South Goulburn Is Airport",
+        "code": "GBL"
+    },
+    {
+        "name": "New-South-Wales, Australia - Gunnedah Airport",
+        "code": "GUH"
+    },
+    {
+        "name": "Queensland, Australia - Goondiwindi Airport",
+        "code": "GOO"
+    },
+    {
+        "name": "Gordon Downs, Australia - Gordon Downs Airport",
+        "code": "GDD"
+    },
+    {
+        "name": "Queensland, Australia - Gregory Downs Airport",
+        "code": "GGD"
+    },
+    {
+        "name": "South-Australia, Australia - Granite Downs Airport",
+        "code": "GTS"
+    },
+    {
+        "name": "Ginbata, Australia - Ginbata",
+        "code": "GBW"
+    },
+    {
+        "name": "Western-Australia, Australia - Gibb River Airport",
+        "code": "GBV"
+    },
+    {
+        "name": "New-South-Wales, Australia - Goulburn Airport",
+        "code": "GUL"
+    },
+    {
+        "name": "Queensland, Australia - Glengyle Airport",
+        "code": "GLG"
+    },
+    {
+        "name": "Victoria, Australia - Geelong Airport",
+        "code": "GEX"
+    },
+    {
+        "name": "New-South-Wales, Australia - Glen Innes Airport",
+        "code": "GLI"
+    },
+    {
+        "name": "Queensland, Australia - Glenormiston Airport",
+        "code": "GLM"
+    },
+    {
+        "name": "Queensland, Australia - Greenvale Airport",
+        "code": "GVP"
+    },
+    {
+        "name": "Northern-Territory, Australia - Garden Point Airport",
+        "code": "GPN"
+    },
+    {
+        "name": "Queensland, Australia - Georgetown Airport",
+        "code": "GTT"
+    },
+    {
+        "name": "Tasmania, Australia - Georgetown (Tas) Airport",
+        "code": "GEE"
+    },
+    {
+        "name": "Queensland, Australia - Gympie Airport",
+        "code": "GYP"
+    },
+    {
+        "name": "Hawker, Australia - Wilpena Pound Airport",
+        "code": "HWK"
+    },
+    {
+        "name": "New-South-Wales, Australia - Hay Airport",
+        "code": "HXX"
+    },
+    {
+        "name": "Northern-Territory, Australia - Humbert River Airport",
+        "code": "HUB"
+    },
+    {
+        "name": "Queensland, Australia - Headingly Airport",
+        "code": "HIP"
+    },
+    {
+        "name": "Northern-Territory, Australia - Hermannsburg Airport",
+        "code": "HMG"
+    },
+    {
+        "name": "Northern-Territory, Australia - Hooker Creek Airport",
+        "code": "HOK"
+    },
+    {
+        "name": "Mount Hotham, Australia - Mount Hotham Airport",
+        "code": "MHU"
+    },
+    {
+        "name": "Victoria, Australia - Hopetoun Airport",
+        "code": "HTU"
+    },
+    {
+        "name": "Victoria, Australia - Horsham Airport",
+        "code": "HSM"
+    },
+    {
+        "name": "South-Australia, Australia - Indulkana Airport",
+        "code": "IDK"
+    },
+    {
+        "name": "Queensland, Australia - Innisfail Airport",
+        "code": "IFL"
+    },
+    {
+        "name": "Queensland, Australia - Iffley Airport",
+        "code": "IFF"
+    },
+    {
+        "name": "Queensland, Australia - Ingham Airport",
+        "code": "IGH"
+    },
+    {
+        "name": "Queensland, Australia - Inkerman Airport",
+        "code": "IKP"
+    },
+    {
+        "name": "Queensland, Australia - Injune Airport",
+        "code": "INJ"
+    },
+    {
+        "name": "South-Australia, Australia - Innamincka Airport",
+        "code": "INM"
+    },
+    {
+        "name": "Inverway, Australia - Inverway Airport",
+        "code": "IVW"
+    },
+    {
+        "name": "Queensland, Australia - Isisford Airport",
+        "code": "ISI"
+    },
+    {
+        "name": "Northern-Territory, Australia - Jabiru Airport",
+        "code": "JAB"
+    },
+    {
+        "name": "Queensland, Australia - Jundah Airport",
+        "code": "JUN"
+    },
+    {
+        "name": "New-South-Wales, Australia - Jindabyne Airport",
+        "code": "QJD"
+    },
+    {
+        "name": "Western-Australia, Australia - Jurien Bay Airport",
+        "code": "JUR"
+    },
+    {
+        "name": "Western-Australia, Australia - Kalumburu Airport",
+        "code": "UBU"
+    },
+    {
+        "name": "South-Australia, Australia - Streaky Bay Airport",
+        "code": "KBY"
+    },
+    {
+        "name": "Northern-Territory, Australia - Kings Creek Airport",
+        "code": "KCS"
+    },
+    {
+        "name": "Victoria, Australia - Kerang Airport",
+        "code": "KRA"
+    },
+    {
+        "name": "Kirkimbie, Australia - Kirkimbie Station Airport",
+        "code": "KBB"
+    },
+    {
+        "name": "Northern-Territory, Australia - Kalkgurung Airport",
+        "code": "KFG"
+    },
+    {
+        "name": "Koolburra, Australia - Koolburra Airport",
+        "code": "KKP"
+    },
+    {
+        "name": "Queensland, Australia - Kamileroi Airport",
+        "code": "KML"
+    },
+    {
+        "name": "New-South-Wales, Australia - Kempsey Airport",
+        "code": "KPS"
+    },
+    {
+        "name": "Western-Australia, Australia - Katanning Airport",
+        "code": "KNI"
+    },
+    {
+        "name": "Queensland, Australia - Kingaroy Airport",
+        "code": "KGY"
+    },
+    {
+        "name": "Queensland, Australia - Lawn Hill Airport",
+        "code": "LWH"
+    },
+    {
+        "name": "South-Australia, Australia - Leigh Creek Airport",
+        "code": "LGH"
+    },
+    {
+        "name": "Northern-Territory, Australia - Lake Evella Airport",
+        "code": "LEL"
+    },
+    {
+        "name": "Lyndhurst, Australia - Lyndhurst Airport",
+        "code": "LTP"
+    },
+    {
+        "name": "Lindeman Island, Australia - Lindeman Island Airport",
+        "code": "LDC"
+    },
+    {
+        "name": "Lock, Australia - Lock Airport",
+        "code": "LOC"
+    },
+    {
+        "name": "Queensland, Australia - Lorraine Airport",
+        "code": "LOA"
+    },
+    {
+        "name": "Lotus Vale, Australia - Lotus Vale Airport",
+        "code": "LTV"
+    },
+    {
+        "name": "Queensland, Australia - Laura Airport",
+        "code": "LUU"
+    },
+    {
+        "name": "New-South-Wales, Australia - Lightning Ridge Airport",
+        "code": "LHG"
+    },
+    {
+        "name": "Queensland, Australia - New Laura Airport",
+        "code": "LUT"
+    },
+    {
+        "name": "Victoria, Australia - Latrobe Valley Airport",
+        "code": "TGN"
+    },
+    {
+        "name": "Queensland, Australia - Lizard Island Airport",
+        "code": "LZR"
+    },
+    {
+        "name": "Queensland, Australia - Mareeba Airport",
+        "code": "MRG"
+    },
+    {
+        "name": "Western-Australia, Australia - Marble Bar Airport",
+        "code": "MBB"
+    },
+    {
+        "name": "Victoria, Australia - Mallacoota Airport",
+        "code": "XMC"
+    },
+    {
+        "name": "Northern-Territory, Australia - Manners Creek Airport",
+        "code": "MFP"
+    },
+    {
+        "name": "South-Australia, Australia - Millicent Airport",
+        "code": "MLR"
+    },
+    {
+        "name": "Mandora, Australia - Mandora Airport",
+        "code": "MQA"
+    },
+    {
+        "name": "Victoria, Australia - RAAF Base East Sale",
+        "code": "SXE"
+    },
+    {
+        "name": "Mount Gunson, Australia - Mount Gunson Airport",
+        "code": "GSN"
+    },
+    {
+        "name": "Western-Australia, Australia - Margaret River (Station) Airport",
+        "code": "MGV"
+    },
+    {
+        "name": "Western-Australia, Australia - Margaret River Airport",
+        "code": "MQZ"
+    },
+    {
+        "name": "Western-Australia, Australia - Mount House Airport",
+        "code": "MHO"
+    },
+    {
+        "name": "South-Australia, Australia - Minlaton Airport",
+        "code": "XML"
+    },
+    {
+        "name": "Mitchell Plateau, Australia - Mitchell Plateau Airport",
+        "code": "MIH"
+    },
+    {
+        "name": "Queensland, Australia - Mitchell Airport",
+        "code": "MTQ"
+    },
+    {
+        "name": "Western-Australia, Australia - Manjimup Airport",
+        "code": "MJP"
+    },
+    {
+        "name": "Melbourne, Australia - Melbourne Moorabbin Airport",
+        "code": "MBW"
+    },
+    {
+        "name": "Queensland, Australia - Middlemount Airport",
+        "code": "MMM"
+    },
+    {
+        "name": "New-South-Wales, Australia - Maitland Airport",
+        "code": "MTL"
+    },
+    {
+        "name": "Western-Australia, Australia - Mount Keith Airport",
+        "code": "WME"
+    },
+    {
+        "name": "Queensland, Australia - Monkira Airport",
+        "code": "ONR"
+    },
+    {
+        "name": "Queensland, Australia - Morney Airport",
+        "code": "OXY"
+    },
+    {
+        "name": "Queensland, Australia - Mooraberree Airport",
+        "code": "OOR"
+    },
+    {
+        "name": "Moreton, Australia - Moreton Airport",
+        "code": "MET"
+    },
+    {
+        "name": "South-Australia, Australia - Minnipa Airport",
+        "code": "MIN"
+    },
+    {
+        "name": "Marqua, Australia - Marqua Airport",
+        "code": "MQE"
+    },
+    {
+        "name": "South-Australia, Australia - Marree Airport",
+        "code": "RRE"
+    },
+    {
+        "name": "Western-Australia, Australia - Morawa Airport",
+        "code": "MWB"
+    },
+    {
+        "name": "Northern-Territory, Australia - Mount Sanford Station Airport",
+        "code": "MTD"
+    },
+    {
+        "name": "Queensland, Australia - Muttaburra Airport",
+        "code": "UTB"
+    },
+    {
+        "name": "Queensland, Australia - Monto Airport",
+        "code": "MNQ"
+    },
+    {
+        "name": "Muccan Station, Australia - Muccan Station Airport",
+        "code": "MUQ"
+    },
+    {
+        "name": "Mungeranie, Australia - Mungeranie Airport",
+        "code": "MNE"
+    },
+    {
+        "name": "Murray Island, Australia - Murray Island Airport",
+        "code": "MYI"
+    },
+    {
+        "name": "Mulka, Australia - Mulka Airport",
+        "code": "MVK"
+    },
+    {
+        "name": "Western-Australia, Australia - Mullewa Airport",
+        "code": "MXU"
+    },
+    {
+        "name": "Queensland, Australia - Marion Downs Airport",
+        "code": "MXD"
+    },
+    {
+        "name": "Queensland, Australia - Maryborough Airport",
+        "code": "MBH"
+    },
+    {
+        "name": "South-Australia, Australia - Merty Merty Airport",
+        "code": "RTY"
+    },
+    {
+        "name": "Queensland, Australia - Nappa Merrie Airport",
+        "code": "NMR"
+    },
+    {
+        "name": "Northern-Territory, Australia - Ngukurr Airport",
+        "code": "RPM"
+    },
+    {
+        "name": "Nambucca Heads, Australia - Nambucca Heads Airport",
+        "code": "NBH"
+    },
+    {
+        "name": "Western-Australia, Australia - Nicholson Airport",
+        "code": "NLS"
+    },
+    {
+        "name": "South-Australia, Australia - Naracoorte Airport",
+        "code": "NAC"
+    },
+    {
+        "name": "New-South-Wales, Australia - Narromine Airport",
+        "code": "QRM"
+    },
+    {
+        "name": "Queensland, Australia - Noosa Airport",
+        "code": "NSV"
+    },
+    {
+        "name": "Western-Australia, Australia - Norseman Airport",
+        "code": "NSM"
+    },
+    {
+        "name": "South-Australia, Australia - Nullabor Motel Airport",
+        "code": "NUR"
+    },
+    {
+        "name": "Western-Australia, Australia - Nullagine Airport",
+        "code": "NLL"
+    },
+    {
+        "name": "Northern-Territory, Australia - Numbulwar Airport",
+        "code": "NUB"
+    },
+    {
+        "name": "New-South-Wales, Australia - Nyngan Airport",
+        "code": "NYN"
+    },
+    {
+        "name": "Northern-Territory, Australia - Oenpelli Airport",
+        "code": "OPI"
+    },
+    {
+        "name": "Victoria, Australia - Colac Airport",
+        "code": "XCO"
+    },
+    {
+        "name": "Western-Australia, Australia - Onslow Airport",
+        "code": "ONS"
+    },
+    {
+        "name": "South-Australia, Australia - Oodnadatta Airport",
+        "code": "ODD"
+    },
+    {
+        "name": "Victoria, Australia - Orbost Airport",
+        "code": "RBS"
+    },
+    {
+        "name": "Ord River, Australia - Ord River Airport",
+        "code": "ODR"
+    },
+    {
+        "name": "Queensland, Australia - Osborne Mine Airport",
+        "code": "OSO"
+    },
+    {
+        "name": "Victoria, Australia - Ouyen Airport",
+        "code": "OYN"
+    },
+    {
+        "name": "South-Australia, Australia - Pandie Pandie Airport",
+        "code": "PDE"
+    },
+    {
+        "name": "Pardoo, Australia - Pardoo Airport",
+        "code": "PRD"
+    },
+    {
+        "name": "New-South-Wales, Australia - Aeropelican Airport",
+        "code": "BEO"
+    },
+    {
+        "name": "South-Australia, Australia - Port Pirie Airport",
+        "code": "PPI"
+    },
+    {
+        "name": "Perth, Australia - Perth Jandakot Airport",
+        "code": "JAD"
+    },
+    {
+        "name": "Northern-Territory, Australia - Port Keats Airport",
+        "code": "PKT"
+    },
+    {
+        "name": "Ironstone, Australia - Penneshaw Airport",
+        "code": "PEA"
+    },
+    {
+        "name": "Woomera, Australia - Woomera Airfield",
+        "code": "UMR"
+    },
+    {
+        "name": "New-South-Wales, Australia - Quirindi Airport",
+        "code": "UIR"
+    },
+    {
+        "name": "Tasmania, Australia - Queenstown Airport",
+        "code": "UEE"
+    },
+    {
+        "name": "South-Australia, Australia - Renmark Airport",
+        "code": "RMK"
+    },
+    {
+        "name": "Northern-Territory, Australia - Ramingining Airport",
+        "code": "RAM"
+    },
+    {
+        "name": "Queensland, Australia - Robinhood Airport",
+        "code": "ROH"
+    },
+    {
+        "name": "Roebourne, Australia - Roebourne Airport",
+        "code": "RBU"
+    },
+    {
+        "name": "Victoria, Australia - Robinvale Airport",
+        "code": "RBC"
+    },
+    {
+        "name": "Queensland, Australia - Roseberth Airport",
+        "code": "RSB"
+    },
+    {
+        "name": "Western-Australia, Australia - Rottnest Island Airport",
+        "code": "RTS"
+    },
+    {
+        "name": "Queensland, Australia - Rutland Plains Airport",
+        "code": "RTP"
+    },
+    {
+        "name": "Western-Australia, Australia - Roy Hill Station Airport",
+        "code": "RHL"
+    },
+    {
+        "name": "Sandstone, Australia - Sandstone Airport",
+        "code": "NDS"
+    },
+    {
+        "name": "Sydney, Australia - Sydney Bankstown Airport",
+        "code": "BWU"
+    },
+    {
+        "name": "New-South-Wales, Australia - Camden Airport",
+        "code": "CDU"
+    },
+    {
+        "name": "New-South-Wales, Australia - Scone Airport",
+        "code": "NSO"
+    },
+    {
+        "name": "Western-Australia, Australia - Southern Cross Airport",
+        "code": "SQC"
+    },
+    {
+        "name": "Singleton, Australia - Singleton Airport",
+        "code": "SIX"
+    },
+    {
+        "name": "Queensland, Australia - South Galway Airport",
+        "code": "ZGL"
+    },
+    {
+        "name": "Shay Gap, Australia - Shay Gap Airport",
+        "code": "SGP"
+    },
+    {
+        "name": "Queensland, Australia - Shute Harbour Airport",
+        "code": "JHQ"
+    },
+    {
+        "name": "Victoria, Australia - Shepparton Airport",
+        "code": "SHT"
+    },
+    {
+        "name": "Tasmania, Australia - Smithton Airport",
+        "code": "SIO"
+    },
+    {
+        "name": "Northern-Territory, Australia - Smith Point Airport",
+        "code": "SHU"
+    },
+    {
+        "name": "Queensland, Australia - Strathmore Airport",
+        "code": "STH"
+    },
+    {
+        "name": "Northern-Territory, Australia - Snake Bay Airport",
+        "code": "SNB"
+    },
+    {
+        "name": "New-South-Wales, Australia - Nowra Airport",
+        "code": "NOA"
+    },
+    {
+        "name": "Karijini National Park, Australia - Solomon Airport",
+        "code": "SLJ"
+    },
+    {
+        "name": "Queensland, Australia - Stanthorpe Airport",
+        "code": "SNH"
+    },
+    {
+        "name": "Queensland, Australia - Spring Creek Airport",
+        "code": "SCG"
+    },
+    {
+        "name": "Queensland, Australia - Southport Airport",
+        "code": "SHQ"
+    },
+    {
+        "name": "Queensland, Australia - Springvale Airport",
+        "code": "KSV"
+    },
+    {
+        "name": "Tasmania, Australia - Strahan Airport",
+        "code": "SRN"
+    },
+    {
+        "name": "Tasmania, Australia - St Helens Airport",
+        "code": "HLS"
+    },
+    {
+        "name": "Victoria, Australia - Swan Hill Airport",
+        "code": "SWH"
+    },
+    {
+        "name": "Victoria, Australia - Stawell Airport",
+        "code": "SWC"
+    },
+    {
+        "name": "Queensland, Australia - Tara Airport",
+        "code": "XTR"
+    },
+    {
+        "name": "Western-Australia, Australia - Tableland Homestead Airport",
+        "code": "TBL"
+    },
+    {
+        "name": "Queensland, Australia - Taroom Airport",
+        "code": "XTO"
+    },
+    {
+        "name": "Tarcoola, Australia - Tarcoola Airport",
+        "code": "TAQ"
+    },
+    {
+        "name": "Northern-Territory, Australia - Timber Creek Airport",
+        "code": "TBK"
+    },
+    {
+        "name": "Queensland, Australia - Theodore Airport",
+        "code": "TDR"
+    },
+    {
+        "name": "Western-Australia, Australia - Telfer Airport",
+        "code": "TEF"
+    },
+    {
+        "name": "New-South-Wales, Australia - Temora Airport",
+        "code": "TEM"
+    },
+    {
+        "name": "Queensland, Australia - Tangalooma Airport",
+        "code": "TAN"
+    },
+    {
+        "name": "Queensland, Australia - Thylungra Airport",
+        "code": "TYG"
+    },
+    {
+        "name": "New-South-Wales, Australia - Tibooburra Airport",
+        "code": "TYB"
+    },
+    {
+        "name": "Turkey Creek, Australia - Turkey Creek Airport",
+        "code": "TKY"
+    },
+    {
+        "name": "Tom Price, Australia - Tom Price Airport",
+        "code": "TPR"
+    },
+    {
+        "name": "New-South-Wales, Australia - Tumut Airport",
+        "code": "TUM"
+    },
+    {
+        "name": "Tobermorey, Australia - Tobermorey Airport",
+        "code": "TYP"
+    },
+    {
+        "name": "Biloela, Australia - Thangool Airport",
+        "code": "THG"
+    },
+    {
+        "name": "New-South-Wales, Australia - Tocumwal Airport",
+        "code": "TCW"
+    },
+    {
+        "name": "Queensland, Australia - Toowoomba Airport",
+        "code": "TWB"
+    },
+    {
+        "name": "Queensland, Australia - Undara Airport",
+        "code": "UDA"
+    },
+    {
+        "name": "Queensland, Australia - Cluny Airport",
+        "code": "CZY"
+    },
+    {
+        "name": "Western-Australia, Australia - Useless Loop Airport",
+        "code": "USL"
+    },
+    {
+        "name": "Northern-Territory, Australia - Victoria River Downs Airport",
+        "code": "VCD"
+    },
+    {
+        "name": "Queensland, Australia - Vanrook Station Airport",
+        "code": "VNR"
+    },
+    {
+        "name": "Wallal, Australia - Wallal Airport",
+        "code": "WLA"
+    },
+    {
+        "name": "Northern-Territory, Australia - Wave Hill Airport",
+        "code": "WAV"
+    },
+    {
+        "name": "New-South-Wales, Australia - Wilcannia Airport",
+        "code": "WIO"
+    },
+    {
+        "name": "New-South-Wales, Australia - Walcha Airport",
+        "code": "WLC"
+    },
+    {
+        "name": "Queensland, Australia - Warwick Airport",
+        "code": "WAZ"
+    },
+    {
+        "name": "Western-Australia, Australia - Windarra Airport",
+        "code": "WND"
+    },
+    {
+        "name": "Victoria, Australia - Wangaratta Airport",
+        "code": "WGT"
+    },
+    {
+        "name": "Western-Australia, Australia - Wittenoom Airport",
+        "code": "WIT"
+    },
+    {
+        "name": "Victoria, Australia - Warracknabeal Airport",
+        "code": "WKB"
+    },
+    {
+        "name": "New-South-Wales, Australia - Walgett Airport",
+        "code": "WGE"
+    },
+    {
+        "name": "Queensland, Australia - Wrotham Park Airport",
+        "code": "WPK"
+    },
+    {
+        "name": "Queensland, Australia - Wondai Airport",
+        "code": "WDI"
+    },
+    {
+        "name": "New-South-Wales, Australia - Warren Airport",
+        "code": "QRR"
+    },
+    {
+        "name": "Northern-Territory, Australia - Waterloo Airport",
+        "code": "WLO"
+    },
+    {
+        "name": "South-Australia, Australia - Wudinna Airport",
+        "code": "WUD"
+    },
+    {
+        "name": "New-South-Wales, Australia - Wee Waa Airport",
+        "code": "WEW"
+    },
+    {
+        "name": "Western-Australia, Australia - Warrawagine Airport",
+        "code": "WRW"
+    },
+    {
+        "name": "Woodie Woodie, Australia - Woodie Woodie Airport",
+        "code": "WWI"
+    },
+    {
+        "name": "Western-Australia, Australia - Wyndham Airport",
+        "code": "WYN"
+    },
+    {
+        "name": "Yalgoo, Australia - Yalgoo Airport",
+        "code": "YLG"
+    },
+    {
+        "name": "Western-Australia, Australia - Yeelirrie Airport",
+        "code": "KYF"
+    },
+    {
+        "name": "Northern-Territory, Australia - Yuendumu Airport",
+        "code": "YUE"
+    },
+    {
+        "name": "New-South-Wales, Australia - Young Airport",
+        "code": "NGA"
+    },
+    {
+        "name": "South-Australia, Australia - Yorketown Airport",
+        "code": "ORR"
+    },
+    {
+        "name": "Yalata Mission, Australia - Yalata Mission Airport",
+        "code": "KYI"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Nordfjordur, Iceland - Nordfjordur Airport",
+        "code": "NOR"
+    },
+    {
+        "name": "Grundarfjordur, Iceland - Grundarfjordur Airport",
+        "code": "GUU"
+    },
+    {
+        "name": "Gjogur, Iceland - Gjogur Airport",
+        "code": "GJR"
+    },
+    {
+        "name": "Holmavik, Iceland - Holmavik Airport",
+        "code": "HVK"
+    },
+    {
+        "name": "Hornafjordur, Iceland - Hornafjordur Airport",
+        "code": "HFN"
+    },
+    {
+        "name": "Flateyri, Iceland - Holt Airport",
+        "code": "FLI"
+    },
+    {
+        "name": "Husavik, Iceland - Husavik Airport",
+        "code": "HZK"
+    },
+    {
+        "name": "Hvammstangi, Iceland - Krokstadarmelar Airport",
+        "code": "HVM"
+    },
+    {
+        "name": "Onundarfjordur, Iceland - Ingjaldssandur Airport",
+        "code": "HLO"
+    },
+    {
+        "name": "Kopasker, Iceland - Kopasker Airport",
+        "code": "OPA"
+    },
+    {
+        "name": "Saudarkrokur, Iceland - Saudarkrokur Airport",
+        "code": "SAK"
+    },
+    {
+        "name": "Fagurholsmyri, Iceland - Fagurholsmyri Airport",
+        "code": "FAG"
+    },
+    {
+        "name": "Olafsfjordur, Iceland - Olafsfjordur Airport",
+        "code": "OFJ"
+    },
+    {
+        "name": "Patreksfjordur, Iceland - Patreksfjordur Airport",
+        "code": "PFJ"
+    },
+    {
+        "name": "Reykholar, Iceland - Reykholar Airport",
+        "code": "RHA"
+    },
+    {
+        "name": "Rif, Iceland - Rif Airport",
+        "code": "OLI"
+    },
+    {
+        "name": "Raufarhofn, Iceland - Raufarhofn Airport",
+        "code": "RFN"
+    },
+    {
+        "name": "Myvatn, Iceland - Reykjahlid Airport",
+        "code": "MVA"
+    },
+    {
+        "name": "Siglufjordur, Iceland - Siglufjordur Airport",
+        "code": "SIJ"
+    },
+    {
+        "name": "Stykkisholmur, Iceland - Stykkisholmur Airport",
+        "code": "SYK"
+    },
+    {
+        "name": "Tingeyri, Iceland - Tingeyri Airport",
+        "code": "TEY"
+    },
+    {
+        "name": "Grimsey, Iceland - Grimsey Airport",
+        "code": "GRY"
+    },
+    {
+        "name": "Reykjavik, Iceland - Keflavik International Airport",
+        "code": "KEF"
+    },
+    {
+        "name": "Reykjavik, Iceland - Reykjavik Domestic",
+        "code": "RKV"
+    },
+    {
+        "name": "Akureyri, Iceland - Akureyri",
+        "code": "AEY"
+    },
+    {
+        "name": "Egilsstadir, Iceland - Egilsstadir",
+        "code": "EGS"
+    },
+    {
+        "name": "Isafjordur, Iceland - Isafjordur",
+        "code": "IFJ"
+    },
+    {
+        "name": "Talknafjordur, Iceland",
+        "code": "TLK"
+    },
+    {
+        "name": "Thorshofn, Iceland - Thorshofn Airport",
+        "code": "THO"
+    },
+    {
+        "name": "Vopnafjordur, Iceland - Vopnafjordur",
+        "code": "VPN"
+    },
+    {
+        "name": "Sudureyri, Iceland",
+        "code": "SUY"
+    },
+    {
+        "name": "Reykjavik, Iceland - All Airports",
+        "code": "REK"
+    },
+    {
+        "name": "Vestmannaeyjar, Iceland - Vestmannaeyjar",
+        "code": "VEY"
+    },
+    {
+        "name": "Bildudalur, Iceland - Bildudalur Airport",
+        "code": "BIU"
+    },
+    {
+        "name": "Borgarfjordur eystri, Iceland - Borgarfjordur eystri Airport",
+        "code": "BGJ"
+    },
+    {
+        "name": "Bakkafjordur, Iceland - Bakkafjordur Airport",
+        "code": "BJD"
+    },
+    {
+        "name": "Blonduos, Iceland - Hjaltabakki Airport",
+        "code": "BLO"
+    },
+    {
+        "name": "Budardalur, Iceland - Budardalur Airport",
+        "code": "BQD"
+    },
+    {
+        "name": "Breiddalsvik, Iceland - Breiddalsvik Airport",
+        "code": "BXV"
+    },
+    {
+        "name": "Djupivogur, Iceland - Djupivogur Airport",
+        "code": "DJU"
+    },
+    {
+        "name": "Faskrudsfjordur, Iceland - Faskrudsfjordur Airport",
+        "code": "FAS"
+    }
+]

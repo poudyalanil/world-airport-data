@@ -1,0 +1,686 @@
+[
+    {
+        "name": "Jakarta, Indonesia - Soekarno-Hatta Intl",
+        "code": "CGK"
+    },
+    {
+        "name": "Denpasar, Indonesia - Bali Ngurah Rai",
+        "code": "DPS"
+    },
+    {
+        "name": "Surabaya, Indonesia - Juanda",
+        "code": "SUB"
+    },
+    {
+        "name": "Ujung Pandang, Indonesia - Hasanuddin",
+        "code": "UPG"
+    },
+    {
+        "name": "Medan, Indonesia - Kuala Namu",
+        "code": "KNO"
+    },
+    {
+        "name": "Balikpapan, Indonesia - Sepinggan",
+        "code": "BPN"
+    },
+    {
+        "name": "Yogyakarta, Indonesia - Adisutjipto",
+        "code": "JOG"
+    },
+    {
+        "name": "Jakarta, Indonesia",
+        "code": "HLP"
+    },
+    {
+        "name": "Batam, Indonesia - Hang Nadim",
+        "code": "BTH"
+    },
+    {
+        "name": "Palembang, Indonesia - Mahmd Badaruddin II",
+        "code": "PLM"
+    },
+    {
+        "name": "Semarang, Indonesia - Achmad Uani",
+        "code": "SRG"
+    },
+    {
+        "name": "Pontianak, Indonesia - Supadio Airport",
+        "code": "PNK"
+    },
+    {
+        "name": "Lombok, Indonesia - Lombok Intl Airport",
+        "code": "LOP"
+    },
+    {
+        "name": "Banjarmasin, Indonesia - Sjamsudin Noor Airport",
+        "code": "BDJ"
+    },
+    {
+        "name": "Padang, Indonesia - Minangkabau International Airport",
+        "code": "PDG"
+    },
+    {
+        "name": "Pekanbaru, Indonesia - Simpang Tiga",
+        "code": "PKU"
+    },
+    {
+        "name": "Manado, Indonesia - Samratulangi",
+        "code": "MDC"
+    },
+    {
+        "name": "Bandung, Indonesia - Husein Sastranegara",
+        "code": "BDO"
+    },
+    {
+        "name": "Kupang, Indonesia - Eltari Airport",
+        "code": "KOE"
+    },
+    {
+        "name": "Solo, Indonesia - Adi Sumarmo",
+        "code": "SOC"
+    },
+    {
+        "name": "Bandar Lampung, Indonesia - Branti",
+        "code": "TKG"
+    },
+    {
+        "name": "Jayapura, Indonesia - Sentani Airport",
+        "code": "DJJ"
+    },
+    {
+        "name": "Ambon, Indonesia - Pattimura Airport",
+        "code": "AMQ"
+    },
+    {
+        "name": "Pangkalpinang, Indonesia - Pangkalpinang Airport",
+        "code": "PGK"
+    },
+    {
+        "name": "Sorong, Indonesia - Jefman",
+        "code": "SOQ"
+    },
+    {
+        "name": "Jambi, Indonesia - Slt Taha Syarifudin",
+        "code": "DJB"
+    },
+    {
+        "name": "Tarakan, Indonesia - Tarakan Airport",
+        "code": "TRK"
+    },
+    {
+        "name": "Ternate, Indonesia - Babullah Airport",
+        "code": "TTE"
+    },
+    {
+        "name": "Kendari, Indonesia - Wolter Monginsidi Airport",
+        "code": "KDI"
+    },
+    {
+        "name": "Palu, Indonesia - Mutiara Airport",
+        "code": "PLW"
+    },
+    {
+        "name": "Tanjung Pandan, Indonesia - Bulutumbang Airport",
+        "code": "TJQ"
+    },
+    {
+        "name": "Labuan Bajo, Indonesia - Mutiara Airport",
+        "code": "LBJ"
+    },
+    {
+        "name": "Bengkulu, Indonesia - Padangkemiling Airport",
+        "code": "BKS"
+    },
+    {
+        "name": "Ketapang, Indonesia - Ketapang Airport",
+        "code": "KTG"
+    },
+    {
+        "name": "Berau, Indonesia - Berau Airport",
+        "code": "BEJ"
+    },
+    {
+        "name": "Banda Aceh, Indonesia - Blang Bintang Airport",
+        "code": "BTJ"
+    },
+    {
+        "name": "Malang, Indonesia - Malang Airport",
+        "code": "MLG"
+    },
+    {
+        "name": "Palangkaraya, Indonesia - Palangkaraya Airport",
+        "code": "PKY"
+    },
+    {
+        "name": "Pangkalanbuun, Indonesia - Pangkalanbuun Airport",
+        "code": "PKN"
+    },
+    {
+        "name": "Gorontalo, Indonesia - Tolotio Airport",
+        "code": "GTO"
+    },
+    {
+        "name": "Manokwari, Indonesia - Rendani Airport",
+        "code": "MKW"
+    },
+    {
+        "name": "Luwuk, Indonesia",
+        "code": "LUW"
+    },
+    {
+        "name": "Ende, Indonesia - Ende Airport",
+        "code": "ENE"
+    },
+    {
+        "name": "Tembagapura, Indonesia - Timika",
+        "code": "TIM"
+    },
+    {
+        "name": "Gunungsitoli, Indonesia",
+        "code": "GNS"
+    },
+    {
+        "name": "Bima, Indonesia - Bima Airport",
+        "code": "BMU"
+    },
+    {
+        "name": "Nabire, Indonesia",
+        "code": "NBX"
+    },
+    {
+        "name": "Sampit, Indonesia - Sampit Airport",
+        "code": "SMQ"
+    },
+    {
+        "name": "Maumere, Indonesia - Waioti Airport",
+        "code": "MOF"
+    },
+    {
+        "name": "Tambolaka, Indonesia - Tambolaka Airport",
+        "code": "TMC"
+    },
+    {
+        "name": "Wamena, Indonesia",
+        "code": "WMX"
+    },
+    {
+        "name": "Baubau, Indonesia",
+        "code": "BUW"
+    },
+    {
+        "name": "Biak, Indonesia - Mokmer Airport",
+        "code": "BIK"
+    },
+    {
+        "name": "Merauke, Indonesia - Mopah Airport",
+        "code": "MKQ"
+    },
+    {
+        "name": "Kaimana, Indonesia",
+        "code": "KNG"
+    },
+    {
+        "name": "Langgur, Indonesia",
+        "code": "LUV"
+    },
+    {
+        "name": "Sibolga, Indonesia - Ferdinand Lumban Tobing Airport",
+        "code": "FLZ"
+    },
+    {
+        "name": "Kotabaru, Indonesia - Kotabaru Airport",
+        "code": "KBU"
+    },
+    {
+        "name": "Samarinda, Indonesia - Samarinda Airport",
+        "code": "SRI"
+    },
+    {
+        "name": "Alor Island, Indonesia",
+        "code": "ARD"
+    },
+    {
+        "name": "Waingapu, Indonesia - Waingapu Airport",
+        "code": "WGP"
+    },
+    {
+        "name": "Banyuwangi, Indonesia - Blimbingsari Airport",
+        "code": "BWX"
+    },
+    {
+        "name": "Mamuju, Indonesia",
+        "code": "MJU"
+    },
+    {
+        "name": "Sintang, Indonesia - Sintang Airport",
+        "code": "SQG"
+    },
+    {
+        "name": "Sumbawa Besar, Indonesia",
+        "code": "SWQ"
+    },
+    {
+        "name": "Bajawa, Indonesia",
+        "code": "BJW"
+    },
+    {
+        "name": "Fak Fak, Indonesia",
+        "code": "FKQ"
+    },
+    {
+        "name": "Saumlaki, Indonesia",
+        "code": "SXK"
+    },
+    {
+        "name": "Tanjung Pinang, Indonesia",
+        "code": "TNJ"
+    },
+    {
+        "name": "Putussibau, Indonesia - Putussibau Airport",
+        "code": "PSU"
+    },
+    {
+        "name": "Larantuka, Indonesia",
+        "code": "LKA"
+    },
+    {
+        "name": "Nunukan, Indonesia - Nunukan Airport",
+        "code": "NNX"
+    },
+    {
+        "name": "Tanjung Selor, Indonesia - Tanjung Selor Airport",
+        "code": "TJS"
+    },
+    {
+        "name": "Dobo, Indonesia",
+        "code": "DOB"
+    },
+    {
+        "name": "Lhoksumawe, Indonesia",
+        "code": "LSW"
+    },
+    {
+        "name": "Melangguane, Indonesia",
+        "code": "MNA"
+    },
+    {
+        "name": "Natuna Ranai, Indonesia",
+        "code": "NTX"
+    },
+    {
+        "name": "Kau, Indonesia",
+        "code": "KAZ"
+    },
+    {
+        "name": "Lewoleba, Indonesia",
+        "code": "LWE"
+    },
+    {
+        "name": "Meulaboh, Indonesia",
+        "code": "MEQ"
+    },
+    {
+        "name": "Naha, Indonesia",
+        "code": "NAH"
+    },
+    {
+        "name": "Poso, Indonesia",
+        "code": "PSJ"
+    },
+    {
+        "name": "Ruteng, Indonesia",
+        "code": "RTG"
+    },
+    {
+        "name": "Babo, Indonesia",
+        "code": "BXB"
+    },
+    {
+        "name": "Central Sulawesi, Indonesia - Sultan Bantilan Airport",
+        "code": "TLJ"
+    },
+    {
+        "name": "Datadawai, Indonesia - Datadawai Airport",
+        "code": "DTD"
+    },
+    {
+        "name": "Long Apung, Indonesia - Long Apung Airport",
+        "code": "LPU"
+    },
+    {
+        "name": "Mataram, Indonesia - Selaparang",
+        "code": "AMI"
+    },
+    {
+        "name": "Tana Toraja, Indonesia",
+        "code": "TTR"
+    },
+    {
+        "name": "Tumbang Samba, Indonesia",
+        "code": "TBM"
+    },
+    {
+        "name": "Moanamani-Papua Island, Indonesia - Moanamani Airport",
+        "code": "ONI"
+    },
+    {
+        "name": "Kornasoren-Numfoor Island, Indonesia - Kornasoren Airfield",
+        "code": "FOO"
+    },
+    {
+        "name": "Wagethe-Papua Island, Indonesia - Wagethe Airport",
+        "code": "WET"
+    },
+    {
+        "name": "Illaga-Papua Island, Indonesia - Illaga Airport",
+        "code": "ILA"
+    },
+    {
+        "name": "Kokonau-Papua Island, Indonesia - Kokonau Airport",
+        "code": "KOX"
+    },
+    {
+        "name": "Serui-Japen Island, Indonesia - Serui Airport",
+        "code": "ZRI"
+    },
+    {
+        "name": "Enarotali-Papua Island, Indonesia - Enarotali Airport",
+        "code": "EWI"
+    },
+    {
+        "name": "Yogyakarta, Indonesia - Yogyakarta International Airport",
+        "code": "YIA"
+    },
+    {
+        "name": "Arso-Papua Island, Indonesia - Arso Airport",
+        "code": "ARJ"
+    },
+    {
+        "name": "Bokondini-Papua Island, Indonesia - Bokondini Airport",
+        "code": "BUI"
+    },
+    {
+        "name": "Sarmi-Papua Island, Indonesia - Sarmi Airport",
+        "code": "ZRM"
+    },
+    {
+        "name": "Lereh-Papua Island, Indonesia - Lereh Airport",
+        "code": "LHI"
+    },
+    {
+        "name": "Mulia-Papua Island, Indonesia - Mulia Airport",
+        "code": "LII"
+    },
+    {
+        "name": "Oksibil-Papua Island, Indonesia - Oksibil Airport",
+        "code": "OKL"
+    },
+    {
+        "name": "Waris-Papua Island, Indonesia - Waris Airport",
+        "code": "WAR"
+    },
+    {
+        "name": "Senggeh-Papua Island, Indonesia - Senggeh Airport",
+        "code": "SEH"
+    },
+    {
+        "name": "Ubrub-Papua Island, Indonesia - Ubrub Airport",
+        "code": "UBR"
+    },
+    {
+        "name": "Mindiptana-Papua Island, Indonesia - Mindiptana Airport",
+        "code": "MDP"
+    },
+    {
+        "name": "Bade-Papua Island, Indonesia - Bade Airport",
+        "code": "BXD"
+    },
+    {
+        "name": "Okaba-Papua Island, Indonesia - Okaba Airport",
+        "code": "OKQ"
+    },
+    {
+        "name": "Kepi-Papua Island, Indonesia - Kepi Airport",
+        "code": "KEI"
+    },
+    {
+        "name": "Tanah Merah-Papua Island, Indonesia - Tanah Merah Airport",
+        "code": "TMH"
+    },
+    {
+        "name": "Samarinda, Indonesia - Aji Pangeran Tumenggung Pranoto International Airport",
+        "code": "AAP"
+    },
+    {
+        "name": "Santan-Borneo Island, Indonesia - Tanjung Santan Airport",
+        "code": "TSX"
+    },
+    {
+        "name": "Bunju Island, Indonesia - Bunyu Airport",
+        "code": "BYQ"
+    },
+    {
+        "name": "Galela-Celebes Island, Indonesia - Gamarmalamo Airport",
+        "code": "GLX"
+    },
+    {
+        "name": "Toli Toli-Celebes Island, Indonesia - Toli Toli Airport",
+        "code": "TLI"
+    },
+    {
+        "name": "Gebe Island, Indonesia - Gebe Airport",
+        "code": "GEB"
+    },
+    {
+        "name": "Gotalalamo-Morotai Island, Indonesia - Pitu Airport",
+        "code": "OTI"
+    },
+    {
+        "name": "Buol-Celebes Island, Indonesia - Buol Airport",
+        "code": "UOL"
+    },
+    {
+        "name": "Batu Licin-Borneo Island, Indonesia - Batu Licin Airport",
+        "code": "BTW"
+    },
+    {
+        "name": "Murateweh-Borneo Island, Indonesia - Beringin Airport",
+        "code": "MTW"
+    },
+    {
+        "name": "Tanta-Tabalong-Borneo Island, Indonesia - Warukin Airport",
+        "code": "TJG"
+    },
+    {
+        "name": "Amahai-Seram Island, Indonesia - Amahai Airport",
+        "code": "AHI"
+    },
+    {
+        "name": "Mangole Island, Indonesia - Mangole Airport Falabisahaya",
+        "code": "MAL"
+    },
+    {
+        "name": "Namrole-Buru Island, Indonesia - Namrole Airport",
+        "code": "NRE"
+    },
+    {
+        "name": "Labuha-Halmahera Island, Indonesia - Oesman Sadik Airport Labuha",
+        "code": "LAH"
+    },
+    {
+        "name": "Maikoor Island, Indonesia - Nangasuri Airport",
+        "code": "BJK"
+    },
+    {
+        "name": "Sanana-Seram Island, Indonesia - Emalamo Sanana Airport",
+        "code": "SQN"
+    },
+    {
+        "name": "Namlea-Buru Island, Indonesia - Namlea Airport",
+        "code": "NAM"
+    },
+    {
+        "name": "Tikong-Taliabu Island, Indonesia - Taliabu Island Airport",
+        "code": "TAX"
+    },
+    {
+        "name": "Tjepu-Java Island, Indonesia - Cepu Airport",
+        "code": "CPF"
+    },
+    {
+        "name": "Sumenep-Madura Island, Indonesia - Trunojoyo Airport",
+        "code": "SUP"
+    },
+    {
+        "name": "Bintuni-Papua Island, Indonesia - Stenkol Airport",
+        "code": "NTI"
+    },
+    {
+        "name": "Ransiki-Papua Island, Indonesia - Abresso Airport",
+        "code": "RSK"
+    },
+    {
+        "name": "Kebar-Papua Island, Indonesia - Kebar Airport",
+        "code": "KEQ"
+    },
+    {
+        "name": "Inanwatan Airport-Papua Island, Indonesia - Inanwatan Airport",
+        "code": "INX"
+    },
+    {
+        "name": "Merdei-Papua Island, Indonesia - Merdei Airport",
+        "code": "RDE"
+    },
+    {
+        "name": "Atinjoe-Papua Island, Indonesia - Teminabuan Airport",
+        "code": "TXM"
+    },
+    {
+        "name": "Wasior-Papua Island, Indonesia - Wasior Airport",
+        "code": "WSR"
+    },
+    {
+        "name": "Masamba-Celebes Island, Indonesia - Andi Jemma Airport",
+        "code": "MXB"
+    },
+    {
+        "name": "Soroako-Celebes Island, Indonesia - Soroako Airport",
+        "code": "SQR"
+    },
+    {
+        "name": "Dumai-Sumatra Island, Indonesia - Pinang Kampai Airport",
+        "code": "DUM"
+    },
+    {
+        "name": "Sipora Island, Indonesia - Rokot Airport",
+        "code": "RKO"
+    },
+    {
+        "name": "Bengkalis-Sumatra Island, Indonesia - Sungai Pakning Bengkalis Airport",
+        "code": "SEQ"
+    },
+    {
+        "name": "Karinmunbesar Island, Indonesia - Tanjung Balai Airport",
+        "code": "TJB"
+    },
+    {
+        "name": "Cirebon-Java Island, Indonesia - Penggung Airport",
+        "code": "CBN"
+    },
+    {
+        "name": "Tasikmalaya-Java Island, Indonesia - Cibeureum Airport",
+        "code": "TSY"
+    },
+    {
+        "name": "Pasir Pengarayan-Sumatra Island, Indonesia - Pasir Pangaraan Airport",
+        "code": "PPR"
+    },
+    {
+        "name": "Pasirkuning-Singkep Island, Indonesia - Dabo Airport",
+        "code": "SIQ"
+    },
+    {
+        "name": "Cilacap-Java Island, Indonesia - Tunggul Wulung Airport",
+        "code": "CXP"
+    },
+    {
+        "name": "Jakarta, Indonesia - Pondok Cabe Air Base",
+        "code": "PCB"
+    },
+    {
+        "name": "Tjipara-Java Island, Indonesia - Pulau Panjang Airport",
+        "code": "PPJ"
+    },
+    {
+        "name": "Padang Sidempuan-Sumatra Island, Indonesia - Aek Godang Airport",
+        "code": "AEG"
+    },
+    {
+        "name": "Medan, Indonesia - Soewondo Air Force Base",
+        "code": "MES"
+    },
+    {
+        "name": "Siborong-Borong, Indonesia - Sisingamangaraja XII International Airport",
+        "code": "DTB"
+    },
+    {
+        "name": "Nanga Pinoh-Borneo Island, Indonesia - Nanga Pinoh I Airport",
+        "code": "NPO"
+    },
+    {
+        "name": "Matak Island, Indonesia - Tarempa Airport",
+        "code": "MWK"
+    },
+    {
+        "name": "Talang Gudang-Sumatra Island, Indonesia - Pendopo Airport",
+        "code": "PDO"
+    },
+    {
+        "name": "Rengat-Sumatra Island, Indonesia - Japura Airport",
+        "code": "RGT"
+    },
+    {
+        "name": "Muko Muko-Sumatra Island, Indonesia - Muko Muko Airport",
+        "code": "MPC"
+    },
+    {
+        "name": "Keluang-Sumatra Island, Indonesia - Keluang Airport",
+        "code": "KLQ"
+    },
+    {
+        "name": "Tapak Tuan-Sumatra Island, Indonesia - Teuku Cut Ali Airport",
+        "code": "TPK"
+    },
+    {
+        "name": "Lhok Sukon-Sumatra Island, Indonesia - Lhok Sukon Airport",
+        "code": "LSX"
+    },
+    {
+        "name": "Sabang-We Island, Indonesia - Maimun Saleh Airport",
+        "code": "SBG"
+    },
+    {
+        "name": "Atambua-Timor Island, Indonesia - Haliwen Airport",
+        "code": "ABU"
+    },
+    {
+        "name": "Sawu-Sawu Island, Indonesia - Sawu Airport",
+        "code": "SAU"
+    },
+    {
+        "name": "Sanggata-Timor Island, Indonesia - Sanggata Airport",
+        "code": "SGQ"
+    },
+    {
+        "name": "Long Bawan-Borneo Island, Indonesia - Long Bawan Airport",
+        "code": "LBW"
+    },
+    {
+        "name": "Bontang-Borneo Island, Indonesia - Bontang Airport",
+        "code": "BXT"
+    },
+    {
+        "name": "Tanah Grogot-Borneo Island, Indonesia - Tanah Grogot Airport",
+        "code": "TNB"
+    }
+]

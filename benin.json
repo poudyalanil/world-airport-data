@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Cotonou, Benin - Cotonou",
+        "code": "COO"
+    },
+    {
+        "name": "Benin City, Nigeria - Benin City Airport",
+        "code": "BNI"
+    },
+    {
+        "name": "Benghazi, Libya - Benina",
+        "code": "BEN"
+    },
+    {
+        "name": "Djougou, Benin - Djougou Airport",
+        "code": "DJA"
+    },
+    {
+        "name": "Kandi, Benin - Kandi Airport",
+        "code": "KDC"
+    },
+    {
+        "name": "Natitingou, Benin - Natitingou Airport",
+        "code": "NAE"
+    },
+    {
+        "name": "Parakou, Benin - Parakou Airport",
+        "code": "PKO"
+    },
+    {
+        "name": "Save, Benin - Save Airport",
+        "code": "SVF"
+    }
+]

@@ -1,0 +1,1226 @@
+[
+    {
+        "name": "Sao Paulo, Brazil - All Airports",
+        "code": "SAO"
+    },
+    {
+        "name": "Sao Paulo, Brazil - Guarulhos International Airport",
+        "code": "GRU"
+    },
+    {
+        "name": "Rio de Janeiro, Brazil - All Airports",
+        "code": "RIO"
+    },
+    {
+        "name": "Sao Paulo, Brazil - Congonhas",
+        "code": "CGH"
+    },
+    {
+        "name": "Brasilia, Brazil - Brasilia Intl",
+        "code": "BSB"
+    },
+    {
+        "name": "Rio de Janeiro, Brazil - Internacional Airport",
+        "code": "GIG"
+    },
+    {
+        "name": "Sao Paulo, Brazil - Viracopos-Campinas",
+        "code": "VCP"
+    },
+    {
+        "name": "Belo Horizonte, Brazil - All Airports",
+        "code": "BHZ"
+    },
+    {
+        "name": "Belo Horizonte, Brazil - Tancredo Neves",
+        "code": "CNF"
+    },
+    {
+        "name": "Rio de Janeiro, Brazil - Santos Dumont",
+        "code": "SDU"
+    },
+    {
+        "name": "Porto Alegre, Brazil - Salgado Filho",
+        "code": "POA"
+    },
+    {
+        "name": "Curitiba, Brazil - Afonso Pena",
+        "code": "CWB"
+    },
+    {
+        "name": "Recife, Brazil - Guararapes Intl",
+        "code": "REC"
+    },
+    {
+        "name": "Salvador, Brazil - Luis E Magalhaes",
+        "code": "SSA"
+    },
+    {
+        "name": "Fortaleza, Brazil - Pinto Martins",
+        "code": "FOR"
+    },
+    {
+        "name": "Florianopolis, Brazil - Hercilio Luz",
+        "code": "FLN"
+    },
+    {
+        "name": "Cuiaba, Brazil - Marechal Rondon",
+        "code": "CGB"
+    },
+    {
+        "name": "Goiania, Brazil - Santa Genoveva",
+        "code": "GYN"
+    },
+    {
+        "name": "Vitoria, Brazil - Eurico Sales",
+        "code": "VIX"
+    },
+    {
+        "name": "Belem, Brazil - Val de Cans",
+        "code": "BEL"
+    },
+    {
+        "name": "Manaus, Brazil - Eduardo Gomes Intl",
+        "code": "MAO"
+    },
+    {
+        "name": "Ribeirao Preto, Brazil - Leite Lopes",
+        "code": "RAO"
+    },
+    {
+        "name": "Natal, Brazil - Augusto Severo",
+        "code": "NAT"
+    },
+    {
+        "name": "Sao Luiz, Brazil - Mal Cunha Machado",
+        "code": "SLZ"
+    },
+    {
+        "name": "Iguassu Falls, Brazil - Cataratas",
+        "code": "IGU"
+    },
+    {
+        "name": "Campo Grande, Brazil - Campo Grande",
+        "code": "CGR"
+    },
+    {
+        "name": "Navegantes, Brazil - Navegantes Airport",
+        "code": "NVT"
+    },
+    {
+        "name": "Maceio, Brazil - Palmares",
+        "code": "MCZ"
+    },
+    {
+        "name": "Joao Pessoa, Brazil - Castro Pinto",
+        "code": "JPA"
+    },
+    {
+        "name": "Uberlandia, Brazil - Eduardo Gomes",
+        "code": "UDI"
+    },
+    {
+        "name": "Aracaju, Brazil - Santa Maria",
+        "code": "AJU"
+    },
+    {
+        "name": "Teresina, Brazil - Teresina",
+        "code": "THE"
+    },
+    {
+        "name": "Londrina, Brazil - Londrina",
+        "code": "LDB"
+    },
+    {
+        "name": "Sao Jose do Rio Preto, Brazil - Sao Pedro Rio Preto",
+        "code": "SJP"
+    },
+    {
+        "name": "Porto Seguro, Brazil - Porto Seguro Mncpl",
+        "code": "BPS"
+    },
+    {
+        "name": "Porto Velho, Brazil - Belmonte",
+        "code": "PVH"
+    },
+    {
+        "name": "Maringa, Brazil - Maringa Regional",
+        "code": "MGF"
+    },
+    {
+        "name": "Palmas, Brazil - Palmas Airport",
+        "code": "PMW"
+    },
+    {
+        "name": "Juazeiro Do Norte, Brazil - Regional Do Cariri Airport",
+        "code": "JDO"
+    },
+    {
+        "name": "Joinville, Brazil - Cubatao",
+        "code": "JOI"
+    },
+    {
+        "name": "Macapa, Brazil - Macapa Internacional Airport",
+        "code": "MCP"
+    },
+    {
+        "name": "Vitoria da Conquista, Brazil - Vitoria Da Conquista Airport",
+        "code": "VDC"
+    },
+    {
+        "name": "Ilheus, Brazil - Ilheus Eduardo Gomes",
+        "code": "IOS"
+    },
+    {
+        "name": "Santarem, Brazil - Eduardo Gomes Airport",
+        "code": "STM"
+    },
+    {
+        "name": "Chapeco, Brazil - Chapeco Airport",
+        "code": "XAP"
+    },
+    {
+        "name": "Montes Claros, Brazil - Montes Claros Airport",
+        "code": "MOC"
+    },
+    {
+        "name": "Cascavel, Brazil - Cascavel Mncpl",
+        "code": "CAC"
+    },
+    {
+        "name": "Petrolina, Brazil - Petrolina Internacional Airport",
+        "code": "PNZ"
+    },
+    {
+        "name": "Imperatriz, Brazil - Imperatriz Airport",
+        "code": "IMP"
+    },
+    {
+        "name": "Arealva, Brazil - Moussa Nakhi Tobias State Airport",
+        "code": "JTC"
+    },
+    {
+        "name": "Presidente Prudente, Brazil - A. De Barros Airport",
+        "code": "PPB"
+    },
+    {
+        "name": "Fernando De Noronha, Brazil - Fernando De Noronha Airport",
+        "code": "FEN"
+    },
+    {
+        "name": "Maraba, Brazil - Maraba Airport",
+        "code": "MAB"
+    },
+    {
+        "name": "Rio Branco, Brazil - Pres. Medici Airport",
+        "code": "RBR"
+    },
+    {
+        "name": "Ipatinga, Brazil - Usiminas Airport",
+        "code": "IPN"
+    },
+    {
+        "name": "Campina Grande, Brazil - Joao Suassuna Airport",
+        "code": "CPV"
+    },
+    {
+        "name": "Barreiras, Brazil",
+        "code": "BRA"
+    },
+    {
+        "name": "Aracatuba, Brazil - Aracatuba",
+        "code": "ARU"
+    },
+    {
+        "name": "Boa Vista, Brazil - Boa Vista Airport",
+        "code": "BVB"
+    },
+    {
+        "name": "Marilia, Brazil - Marilia",
+        "code": "MII"
+    },
+    {
+        "name": "Sinop, Brazil - Sinop Airport",
+        "code": "OPS"
+    },
+    {
+        "name": "Carajas, Brazil - Carajas Airport",
+        "code": "CKS"
+    },
+    {
+        "name": "Caxias do Sul, Brazil - Campo dos Bugres",
+        "code": "CXJ"
+    },
+    {
+        "name": "Goiana, Brazil - Zona da Mata Regoinal Airport",
+        "code": "IZA"
+    },
+    {
+        "name": "Governador Valadares, Brazil - Governador Valadares Airport",
+        "code": "GVR"
+    },
+    {
+        "name": "Altamira, Brazil - Altamira Airport",
+        "code": "ATM"
+    },
+    {
+        "name": "Passo Fundo, Brazil - Passo Fundo Airport",
+        "code": "PFB"
+    },
+    {
+        "name": "Uberaba, Brazil - Uberaba",
+        "code": "UBA"
+    },
+    {
+        "name": "Tres Lagoas, Brazil - Tres Lagaos Airport",
+        "code": "TJL"
+    },
+    {
+        "name": "Belo Horizonte, Brazil - Pampulha",
+        "code": "PLU"
+    },
+    {
+        "name": "Rondonopolis, Brazil - Rondonopolis",
+        "code": "ROO"
+    },
+    {
+        "name": "Dourados, Brazil - Dourados Airport",
+        "code": "DOU"
+    },
+    {
+        "name": "Campos, Brazil - Bartolomeu Lisandro Airport",
+        "code": "CAW"
+    },
+    {
+        "name": "Cruzeiro Do Sul, Brazil - Campo Internacional Airport",
+        "code": "CZS"
+    },
+    {
+        "name": "Araguaina, Brazil - Araguaina Airport",
+        "code": "AUX"
+    },
+    {
+        "name": "Tabatinga, Brazil - Tabatinga Internacional Airport",
+        "code": "TBT"
+    },
+    {
+        "name": "Alta Floresta, Brazil - Alta Floresta Airport",
+        "code": "AFL"
+    },
+    {
+        "name": "Santa Maria, Brazil",
+        "code": "RIA"
+    },
+    {
+        "name": "Cacoal, Brazil",
+        "code": "OAL"
+    },
+    {
+        "name": "Pelotas, Brazil",
+        "code": "PET"
+    },
+    {
+        "name": "Rio Verde, Brazil",
+        "code": "RVD"
+    },
+    {
+        "name": "Vilhena, Brazil - Vilhena Airport",
+        "code": "BVH"
+    },
+    {
+        "name": "Ji-Parana, Brazil - Ji-Parana Airport",
+        "code": "JPR"
+    },
+    {
+        "name": "Cabo Frio, Brazil",
+        "code": "CFB"
+    },
+    {
+        "name": "Corumba, Brazil - Corumba Internacional Airport",
+        "code": "CMG"
+    },
+    {
+        "name": "Bonito, Brazil",
+        "code": "BYO"
+    },
+    {
+        "name": "Araxa, Brazil - Araxa",
+        "code": "AAX"
+    },
+    {
+        "name": "Paulo Afonso, Brazil",
+        "code": "PAV"
+    },
+    {
+        "name": "Lencois, Brazil",
+        "code": "LEC"
+    },
+    {
+        "name": "Caldas Novas, Brazil",
+        "code": "CLV"
+    },
+    {
+        "name": "Tefe, Brazil - Tefe Airport",
+        "code": "TFF"
+    },
+    {
+        "name": "Parnaiba, Brazil",
+        "code": "PHB"
+    },
+    {
+        "name": "Feira De Santana, Brazil",
+        "code": "FEC"
+    },
+    {
+        "name": "Araraquara, Brazil - Araraquara Airport",
+        "code": "AQA"
+    },
+    {
+        "name": "Barbelos, Brazil - Barbelos Airport",
+        "code": "BAZ"
+    },
+    {
+        "name": "Bauru, Brazil - Bauru",
+        "code": "BAU"
+    },
+    {
+        "name": "Campinas, Brazil - Campinas Intl",
+        "code": "CPQ"
+    },
+    {
+        "name": "Coari, Brazil - Coari Airport",
+        "code": "CIZ"
+    },
+    {
+        "name": "Criciuma, Brazil",
+        "code": "CCM"
+    },
+    {
+        "name": "Eirunepe, Brazil - Eirunepe Airport",
+        "code": "ERN"
+    },
+    {
+        "name": "Itaituba, Brazil - Itaituba Airport",
+        "code": "ITB"
+    },
+    {
+        "name": "Juiz de Fora, Brazil - Francisco De Assis Airport",
+        "code": "JDF"
+    },
+    {
+        "name": "Labrea, Brazil - Labrea Airport",
+        "code": "LBR"
+    },
+    {
+        "name": "Macae, Brazil - Macae",
+        "code": "MEA"
+    },
+    {
+        "name": "Parintins, Brazil - Parintins Airport",
+        "code": "PIN"
+    },
+    {
+        "name": "Patos De Minas, Brazil - Patos De Minas Airport",
+        "code": "POJ"
+    },
+    {
+        "name": "Rio Grande, Brazil",
+        "code": "RIG"
+    },
+    {
+        "name": "Sao Gabriel, Brazil - Da Cachoeira Airport",
+        "code": "SJL"
+    },
+    {
+        "name": "Sao Jose dos Campos, Brazil - Sao Jose Dos Campos",
+        "code": "SJK"
+    },
+    {
+        "name": "Trombetas, Brazil - Trombetas Airport",
+        "code": "TMT"
+    },
+    {
+        "name": "Tucurui, Brazil - Tucurui Airport",
+        "code": "TUR"
+    },
+    {
+        "name": "Una, Brazil - Una Airport",
+        "code": "UNA"
+    },
+    {
+        "name": "Conceicao Do Araguaia, Brazil - Conceicao do Araguaia Airport",
+        "code": "CDJ"
+    },
+    {
+        "name": "Assis, Brazil - Marcelo Pires Halzhausen Airport",
+        "code": "AIF"
+    },
+    {
+        "name": "Bage, Brazil - Comandante Gustavo Kraemer Airport",
+        "code": "BGX"
+    },
+    {
+        "name": "Curitiba, Brazil - Bacacheri Airport",
+        "code": "BFH"
+    },
+    {
+        "name": "Braganca Paulista, Brazil - Aeroporto Estadual Arthur Siqueira Airport",
+        "code": "BJP"
+    },
+    {
+        "name": "Barbacena, Brazil - Major Brigadeiro Doorgal Borges Airport",
+        "code": "QAK"
+    },
+    {
+        "name": "Barretos, Brazil - Chafei Amsei Airport",
+        "code": "BAT"
+    },
+    {
+        "name": "Barra Do Garcas, Brazil - Barra do Garcas Airport",
+        "code": "BPG"
+    },
+    {
+        "name": "Cabo Frio, Brazil - Umberto Modiano Airport",
+        "code": "BZC"
+    },
+    {
+        "name": "Carolina, Brazil - Brig. Lysias Augusto Rodrigues Airport",
+        "code": "CLN"
+    },
+    {
+        "name": "Porto Alegre, Brazil - Canoas Airport",
+        "code": "QNS"
+    },
+    {
+        "name": "Caravelas, Brazil - Caravelas Airport",
+        "code": "CRQ"
+    },
+    {
+        "name": "Jacareacanga, Brazil - Jacareacanga Airport",
+        "code": "JCR"
+    },
+    {
+        "name": "Espinosa, Brazil - Espinosa Airport",
+        "code": "ESI"
+    },
+    {
+        "name": "Guajara-Mirim, Brazil - Guajara-Mirim Airport",
+        "code": "GJM"
+    },
+    {
+        "name": "Guarapuava, Brazil - Tancredo Thomas de Faria Airport",
+        "code": "GPB"
+    },
+    {
+        "name": "Guaratingueta, Brazil - Guaratingueta Airport",
+        "code": "GUJ"
+    },
+    {
+        "name": "Itacoatiara, Brazil - Itacoatiara Airport",
+        "code": "ITA"
+    },
+    {
+        "name": "Jijoca de Jericoacoara, Brazil - Comte. Ariston Pessoa Regional Airport",
+        "code": "JJD"
+    },
+    {
+        "name": "Lages, Brazil - Lages Airport",
+        "code": "LAJ"
+    },
+    {
+        "name": "Lins, Brazil - Lins Airport",
+        "code": "LIP"
+    },
+    {
+        "name": "Bom Jesus Da Lapa, Brazil - Bom Jesus da Lapa Airport",
+        "code": "LAZ"
+    },
+    {
+        "name": "Minacu, Brazil - Minacu Airport",
+        "code": "MQH"
+    },
+    {
+        "name": "Almeirim, Brazil - Monte Dourado Airport",
+        "code": "MEU"
+    },
+    {
+        "name": "Manaus, Brazil - Ponta Pelada Airport",
+        "code": "PLL"
+    },
+    {
+        "name": "Mossoro, Brazil - Dix-Sept Rosado Airport",
+        "code": "MVF"
+    },
+    {
+        "name": "Manicore, Brazil - Manicore Airport",
+        "code": "MNX"
+    },
+    {
+        "name": "Santo Angelo, Brazil - Santo Angelo Airport",
+        "code": "GEL"
+    },
+    {
+        "name": "Oiapoque, Brazil - Oiapoque Airport",
+        "code": "OYK"
+    },
+    {
+        "name": "Pocos De Caldas, Brazil - Pocos de Caldas Airport",
+        "code": "POO"
+    },
+    {
+        "name": "Porto Nacional, Brazil - Porto Nacional Airport",
+        "code": "PNB"
+    },
+    {
+        "name": "Ponta Pora, Brazil - Ponta Pora Airport",
+        "code": "PMG"
+    },
+    {
+        "name": "Maranhao, Brazil - Barreirinhas Airport",
+        "code": "BRB"
+    },
+    {
+        "name": "Rio De Janeiro, Brazil - Santa Cruz Airport",
+        "code": "SNZ"
+    },
+    {
+        "name": "Guaruja, Brazil - Base Aerea de Santos Airport",
+        "code": "SSZ"
+    },
+    {
+        "name": "Taubate, Brazil - Base de Aviacao de Taubate Airport",
+        "code": "QHP"
+    },
+    {
+        "name": "Toledo, Brazil - Toledo Airport",
+        "code": "TOW"
+    },
+    {
+        "name": "Tarauaca, Brazil - Tarauaca Airport",
+        "code": "TRQ"
+    },
+    {
+        "name": "Telemaco Borba, Brazil - Telemaco Borba Airport",
+        "code": "TEC"
+    },
+    {
+        "name": "Uruguaiana, Brazil - Rubem Berta Airport",
+        "code": "URG"
+    },
+    {
+        "name": "Varginha, Brazil - Major Brigadeiro Trompowsky Airport",
+        "code": "VAG"
+    },
+    {
+        "name": "Pirassununga, Brazil - Campo Fontenelle Airport",
+        "code": "QPS"
+    },
+    {
+        "name": "Botucatu, Brazil - Botucatu Airport",
+        "code": "QCJ"
+    },
+    {
+        "name": "Sao Paulo De Olivenca, Brazil - Senadora Eunice Micheles Airport",
+        "code": "OLC"
+    },
+    {
+        "name": "Sorocaba, Brazil - Sorocaba Airport",
+        "code": "SOD"
+    },
+    {
+        "name": "Dracena, Brazil - Dracena Airport",
+        "code": "QDC"
+    },
+    {
+        "name": "Jales, Brazil - Jales Airport",
+        "code": "JLS"
+    },
+    {
+        "name": "Mococa, Brazil - Mococa Airport",
+        "code": "QOA"
+    },
+    {
+        "name": "Lencois Paulista, Brazil - Lencois Paulista Airport",
+        "code": "QGC"
+    },
+    {
+        "name": "Nova Iguacu, Brazil - Aeroclube Airport",
+        "code": "QNV"
+    },
+    {
+        "name": "Ourinhos, Brazil - Ourinhos Airport",
+        "code": "OUS"
+    },
+    {
+        "name": "Piracicaba, Brazil - Piracicaba Airport",
+        "code": "QHB"
+    },
+    {
+        "name": "Rio Claro, Brazil - Rio Claro Airport",
+        "code": "QIQ"
+    },
+    {
+        "name": "Avare, Brazil - Avare-Arandu Airport",
+        "code": "QVP"
+    },
+    {
+        "name": "Resende, Brazil - Resende Airport",
+        "code": "QRZ"
+    },
+    {
+        "name": "Sao Carlos, Brazil - Sao Carlos Airport",
+        "code": "QSC"
+    },
+    {
+        "name": "Ubatuba, Brazil - Ubatuba Airport",
+        "code": "UBT"
+    },
+    {
+        "name": "Alagoinhas, Brazil - Alagoinhas Airport",
+        "code": "QGS"
+    },
+    {
+        "name": "Votuporanga, Brazil - Votuporanga Airport",
+        "code": "VOT"
+    },
+    {
+        "name": "Limeira, Brazil - Limeira Airport",
+        "code": "QGB"
+    },
+    {
+        "name": "Lucas do Rio Verde, Brazil - Municipal Bom Futuro Airport",
+        "code": "LVR"
+    },
+    {
+        "name": "Franca, Brazil - Franca Airport",
+        "code": "FRC"
+    },
+    {
+        "name": "Confresa, Brazil - Confresa Airport",
+        "code": "CFO"
+    },
+    {
+        "name": "Alto Parnaiba, Brazil - Alto Parnaiba Airport",
+        "code": "APY"
+    },
+    {
+        "name": "Arapiraca, Brazil - Arapiraca Airport",
+        "code": "APQ"
+    },
+    {
+        "name": "Almenara, Brazil - Cirilo Queiroz Airport",
+        "code": "AMJ"
+    },
+    {
+        "name": "Barra Do Corda, Brazil - Barra do Corda Airport",
+        "code": "BDC"
+    },
+    {
+        "name": "Belmonte, Brazil - Belmonte Airport",
+        "code": "BVM"
+    },
+    {
+        "name": "Balsas, Brazil - Balsas Airport",
+        "code": "BSS"
+    },
+    {
+        "name": "Brumado, Brazil - Socrates Mariani Bittencourt Airport",
+        "code": "BMS"
+    },
+    {
+        "name": "Barra, Brazil - Barra Airport",
+        "code": "BQQ"
+    },
+    {
+        "name": "Carutapera, Brazil - Carutapera Airport",
+        "code": "CTP"
+    },
+    {
+        "name": "Cururupu, Brazil - Cururupu Airport",
+        "code": "CPU"
+    },
+    {
+        "name": "Colatina, Brazil - Colatina Airport",
+        "code": "QCH"
+    },
+    {
+        "name": "Redencao, Brazil - Redencao Airport",
+        "code": "RDC"
+    },
+    {
+        "name": "Leopoldina, Brazil - Leopoldina Airport",
+        "code": "LEP"
+    },
+    {
+        "name": "Diamantina, Brazil - Diamantina Airport",
+        "code": "DTI"
+    },
+    {
+        "name": "Divinopolis, Brazil - Divinopolis Airport",
+        "code": "DIQ"
+    },
+    {
+        "name": "Canavieiras, Brazil - Canavieiras Airport",
+        "code": "CNV"
+    },
+    {
+        "name": "Sao Felix Do Xingu, Brazil - Sao Felix do Xingu Airport",
+        "code": "SXX"
+    },
+    {
+        "name": "Guarapari, Brazil - Guarapari Airport",
+        "code": "GUZ"
+    },
+    {
+        "name": "Guadalupe, Brazil - Guadalupe Airport",
+        "code": "GDP"
+    },
+    {
+        "name": "Guanambi, Brazil - Guanambi Airport",
+        "code": "GNM"
+    },
+    {
+        "name": "Uberlandia, Brazil - Fazenda Canada Airport",
+        "code": "GMS"
+    },
+    {
+        "name": "Garanhuns, Brazil - Garanhuns Airport",
+        "code": "QGP"
+    },
+    {
+        "name": "Irece, Brazil - Irece Airport",
+        "code": "IRE"
+    },
+    {
+        "name": "Iguatu, Brazil - Iguatu Airport",
+        "code": "QIG"
+    },
+    {
+        "name": "Itapetinga, Brazil - Itapetinga Airport",
+        "code": "QIT"
+    },
+    {
+        "name": "Ipiau, Brazil - Ipiau Airport",
+        "code": "IPU"
+    },
+    {
+        "name": "Jacobina, Brazil - Jacobina Airport",
+        "code": "JCM"
+    },
+    {
+        "name": "Jequie, Brazil - Jequie Airport",
+        "code": "JEQ"
+    },
+    {
+        "name": "Januaria, Brazil - Januaria Airport",
+        "code": "JNA"
+    },
+    {
+        "name": "Sao Joao Del Rei, Brazil - Prefeito Octavio de Almeida Neves Airport",
+        "code": "JDR"
+    },
+    {
+        "name": "Santana Do Araguaia, Brazil - Santana do Araguaia Airport",
+        "code": "CMP"
+    },
+    {
+        "name": "Conselheiro Lafaiete, Brazil - Conselheiro Lafaiete Airport",
+        "code": "QDF"
+    },
+    {
+        "name": "Cachoeiro Do Itapemirim, Brazil - Cachoeiro do Itapemirim Airport",
+        "code": "CDI"
+    },
+    {
+        "name": "Currais Novos, Brazil - Currais Novos Airport",
+        "code": "QCP"
+    },
+    {
+        "name": "Livramento Do Brumado, Brazil - Livramento do Brumado Airport",
+        "code": "LVB"
+    },
+    {
+        "name": "Sao Lourenco, Brazil - Sao Lourenco Airport",
+        "code": "SSO"
+    },
+    {
+        "name": "Monte Alegre, Brazil - Monte Alegre Airport",
+        "code": "MTE"
+    },
+    {
+        "name": "Mucuri, Brazil - Mucuri Airport",
+        "code": "MVS"
+    },
+    {
+        "name": "Sao Mateus, Brazil - Sao Mateus Airport",
+        "code": "SBJ"
+    },
+    {
+        "name": "Porto De Moz, Brazil - Porto de Moz Airport",
+        "code": "PTQ"
+    },
+    {
+        "name": "Nanuque, Brazil - Nanuque Airport",
+        "code": "NNU"
+    },
+    {
+        "name": "Sobral, Brazil - Sobral Airport",
+        "code": "QBX"
+    },
+    {
+        "name": "Passos, Brazil - Municipal Jose Figueiredo Airport",
+        "code": "PSW"
+    },
+    {
+        "name": "Oriximina, Brazil - Oriximina Airport",
+        "code": "ORX"
+    },
+    {
+        "name": "Picos, Brazil - Picos Airport",
+        "code": "PCS"
+    },
+    {
+        "name": "Pirapora, Brazil - Pirapora Airport",
+        "code": "PIV"
+    },
+    {
+        "name": "Floriano, Brazil - Cangapara Airport",
+        "code": "FLB"
+    },
+    {
+        "name": "Prado, Brazil - Prado Airport",
+        "code": "PDF"
+    },
+    {
+        "name": "Caruaru, Brazil - Caruaru Airport",
+        "code": "CAU"
+    },
+    {
+        "name": "Soure, Brazil - Soure Airport",
+        "code": "SFK"
+    },
+    {
+        "name": "Obidos, Brazil - Obidos Airport",
+        "code": "OBI"
+    },
+    {
+        "name": "Teofilo Otoni, Brazil - Juscelino Kubitscheck Airport",
+        "code": "TFL"
+    },
+    {
+        "name": "Valenca, Brazil - Valenca Airport",
+        "code": "VAL"
+    },
+    {
+        "name": "Tres Coracoes, Brazil - Melio Viana Airport",
+        "code": "QID"
+    },
+    {
+        "name": "Breves, Brazil - Breves Airport",
+        "code": "BVS"
+    },
+    {
+        "name": "Camocim, Brazil - Camocim Airport",
+        "code": "CMC"
+    },
+    {
+        "name": "Barra De Santo Antonio, Brazil - Fazenda Sao Braz Airport",
+        "code": "QXC"
+    },
+    {
+        "name": "Pinheiro, Brazil - Pinheiro Airport",
+        "code": "PHI"
+    },
+    {
+        "name": "Cumaru Do Norte, Brazil - Agropecuaria Castanhais Airport",
+        "code": "ITI"
+    },
+    {
+        "name": "Pouso Alegre, Brazil - Pouso Alegre Airport",
+        "code": "PPY"
+    },
+    {
+        "name": "Apucarana, Brazil - Apucarana Airport",
+        "code": "APU"
+    },
+    {
+        "name": "Bento Goncalves, Brazil - Aeroclube de Bento Goncalves Airport",
+        "code": "BGV"
+    },
+    {
+        "name": "Blumenau, Brazil - Blumenau Airport",
+        "code": "BNU"
+    },
+    {
+        "name": "Concordia, Brazil - Concordia Airport",
+        "code": "CCI"
+    },
+    {
+        "name": "Canela, Brazil - Canela Airport",
+        "code": "QCN"
+    },
+    {
+        "name": "Cornelio Procopio, Brazil - Cornelio Procopio Airport",
+        "code": "CKO"
+    },
+    {
+        "name": "Erechim, Brazil - Erechim Airport",
+        "code": "ERM"
+    },
+    {
+        "name": "Francisco Beltrao, Brazil - Francisco Beltrao Airport",
+        "code": "FBE"
+    },
+    {
+        "name": "Guaira, Brazil - Guaira Airport",
+        "code": "QGA"
+    },
+    {
+        "name": "Ijui, Brazil - Ijui Airport",
+        "code": "IJU"
+    },
+    {
+        "name": "Itaqui, Brazil - Itaqui Airport",
+        "code": "ITQ"
+    },
+    {
+        "name": "Joacaba, Brazil - Santa Terezinha Airport",
+        "code": "JCB"
+    },
+    {
+        "name": "Campo Mourao, Brazil - Campo Mourao Airport",
+        "code": "CBW"
+    },
+    {
+        "name": "Cachoeira Do Sul, Brazil - Cachoeira do Sul Airport",
+        "code": "QDB"
+    },
+    {
+        "name": "Curitibanos, Brazil - Curitibanos Airport",
+        "code": "QCR"
+    },
+    {
+        "name": "Alegrete, Brazil - Alegrete Novo Airport",
+        "code": "ALQ"
+    },
+    {
+        "name": "Mafra, Brazil - Mafra Airport",
+        "code": "QMF"
+    },
+    {
+        "name": "Montenegro, Brazil - Montenegro Airport",
+        "code": "QGF"
+    },
+    {
+        "name": "Novo Hamburgo, Brazil - Novo Hamburgo Airport",
+        "code": "QHV"
+    },
+    {
+        "name": "Sao Miguel Do Oeste, Brazil - Sao Miguel do Oeste Airport",
+        "code": "SQX"
+    },
+    {
+        "name": "Arapongas, Brazil - Arapongas Airport",
+        "code": "APX"
+    },
+    {
+        "name": "Pato Branco, Brazil - Pato Branco Airport",
+        "code": "PTO"
+    },
+    {
+        "name": "Paranagua, Brazil - Paranagua Airport",
+        "code": "PNG"
+    },
+    {
+        "name": "Paranavai, Brazil - Paranavai Airport",
+        "code": "PVI"
+    },
+    {
+        "name": "Paranaiba, Brazil - Paranaiba Airport",
+        "code": "PBB"
+    },
+    {
+        "name": "Castro, Brazil - Castro Airport",
+        "code": "QAC"
+    },
+    {
+        "name": "Sao Lourenco Do Sul, Brazil - Sao Lourenco do Sul Airport",
+        "code": "SQY"
+    },
+    {
+        "name": "Sao Borja, Brazil - Sao Borja Airport",
+        "code": "QOJ"
+    },
+    {
+        "name": "Santa Cruz Do Sul, Brazil - Santa Cruz do Sul Airport",
+        "code": "CSU"
+    },
+    {
+        "name": "Umuarama, Brazil - Umuarama Airport",
+        "code": "UMU"
+    },
+    {
+        "name": "Uniao Da Vitoria, Brazil - Uniao da Vitoria Airport",
+        "code": "QVB"
+    },
+    {
+        "name": "Videira, Brazil - Videira Airport",
+        "code": "VIA"
+    },
+    {
+        "name": "Santa Vitoria Do Palmar, Brazil - Santa Vitoria do Palmar Airport",
+        "code": "CTQ"
+    },
+    {
+        "name": "Xanxere, Brazil - Xanxere Airport",
+        "code": "AXE"
+    },
+    {
+        "name": "Arapoti, Brazil - Arapoti Airport",
+        "code": "AAG"
+    },
+    {
+        "name": "Santa Rosa, Brazil - Santa Rosa Airport",
+        "code": "SRA"
+    },
+    {
+        "name": "Ponta Grossa, Brazil - Ponta Grossa Airport",
+        "code": "PGZ"
+    },
+    {
+        "name": "Borba, Brazil - Borba Airport",
+        "code": "RBB"
+    },
+    {
+        "name": "Carauari, Brazil - Carauari Airport",
+        "code": "CAF"
+    },
+    {
+        "name": "Costa Marques, Brazil - Costa Marques Airport",
+        "code": "CQS"
+    },
+    {
+        "name": "Diamantino, Brazil - Diamantino Airport",
+        "code": "DMT"
+    },
+    {
+        "name": "Dianopolis, Brazil - Dianopolis Airport",
+        "code": "DNO"
+    },
+    {
+        "name": "Canarana, Brazil - Canarana Airport",
+        "code": "CQA"
+    },
+    {
+        "name": "Feijo, Brazil - Feijo Airport",
+        "code": "FEJ"
+    },
+    {
+        "name": "Sao Felix Do Araguaia, Brazil - Sao Felix do Araguaia Airport",
+        "code": "SXO"
+    },
+    {
+        "name": "Gurupi, Brazil - Gurupi Airport",
+        "code": "GRP"
+    },
+    {
+        "name": "Santo Antonio Do Ica, Brazil - Ipiranga Airport",
+        "code": "IPG"
+    },
+    {
+        "name": "Cristalandia, Brazil - Santa Izabel do Morro Airport",
+        "code": "IDO"
+    },
+    {
+        "name": "Juina, Brazil - Juina Airport",
+        "code": "JIA"
+    },
+    {
+        "name": "Juruena, Brazil - Juruena Airport",
+        "code": "JRN"
+    },
+    {
+        "name": "Caceres, Brazil - Caceres Airport",
+        "code": "CCX"
+    },
+    {
+        "name": "Catalao, Brazil - Catalao Airport",
+        "code": "TLZ"
+    },
+    {
+        "name": "Maues, Brazil - Maues Airport",
+        "code": "MBZ"
+    },
+    {
+        "name": "Novo Aripuana, Brazil - Novo Aripuana Airport",
+        "code": "NVP"
+    },
+    {
+        "name": "Ariquemes, Brazil - Nova Vida Airport",
+        "code": "AQM"
+    },
+    {
+        "name": "Boca Do Acre, Brazil - Novo Campo Airport",
+        "code": "BCR"
+    },
+    {
+        "name": "Niquelandia, Brazil - Niquelandia Airport",
+        "code": "NQL"
+    },
+    {
+        "name": "Anapolis, Brazil - Anapolis Airport",
+        "code": "APS"
+    },
+    {
+        "name": "Fonte Boa, Brazil - Fonte Boa Airport",
+        "code": "FBA"
+    },
+    {
+        "name": "Pimenta Bueno, Brazil - Pimenta Bueno Airport",
+        "code": "PBQ"
+    },
+    {
+        "name": "Arraias, Brazil - Arraias Airport",
+        "code": "AAI"
+    },
+    {
+        "name": "Aripuana, Brazil - Aripuana Airport",
+        "code": "AIR"
+    },
+    {
+        "name": "Santa Terezinha, Brazil - Santa Terezinha Airport",
+        "code": "STZ"
+    },
+    {
+        "name": "Santa Isabel Do Rio Negro, Brazil - Tapuruquara Airport",
+        "code": "IRZ"
+    },
+    {
+        "name": "Tangara Da Serra, Brazil - Tangara da Serra Airport",
+        "code": "TGQ"
+    },
+    {
+        "name": "Sapezal, Brazil - Fazenda Tucunare Airport",
+        "code": "AZL"
+    },
+    {
+        "name": "Taguatinga, Brazil - Taguatinga Airport",
+        "code": "QHN"
+    },
+    {
+        "name": "Sao Miguel Do Araguaia, Brazil - Sao Miguel do Araguaia Airport",
+        "code": "SQM"
+    },
+    {
+        "name": "Vila Rica, Brazil - Vila Rica Airport",
+        "code": "VLP"
+    },
+    {
+        "name": "Matupa, Brazil - Regional Orlando Villas Boas Airport",
+        "code": "MBK"
+    },
+    {
+        "name": "Nova Xavantina, Brazil - Xavantina Airport",
+        "code": "NOK"
+    }
+]

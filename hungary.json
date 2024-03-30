@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Budapest, Hungary - Ferihegy",
+        "code": "BUD"
+    },
+    {
+        "name": "Debrecen, Hungary",
+        "code": "DEB"
+    },
+    {
+        "name": "Balaton, Hungary - FlyBalaton Airport",
+        "code": "SOB"
+    },
+    {
+        "name": "Miskolc, Hungary - Miskolc Airport",
+        "code": "MCQ"
+    },
+    {
+        "name": "Pecs-Pogany, Hungary - Pecs-Pogany Airport",
+        "code": "PEV"
+    },
+    {
+        "name": "Gyor, Hungary - Gyor-Per International Airport",
+        "code": "QGY"
+    },
+    {
+        "name": "Taszar, Hungary - Taszar Air Base",
+        "code": "TZR"
+    },
+    {
+        "name": "Szeged, Hungary - Szeged Glider Airport",
+        "code": "QZD"
+    }
+]

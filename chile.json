@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Pucon, Chile - Pucon Airport",
+        "code": "ZPC"
+    },
+    {
+        "name": "Coquimbo, Chile - Tambillos Airport",
+        "code": "COW"
+    },
+    {
+        "name": "Coyhaique, Chile - Teniente Vidal Airport",
+        "code": "GXQ"
+    },
+    {
+        "name": "Frutillar, Chile - El Avellano Airport",
+        "code": "FRT"
+    },
+    {
+        "name": "Porvenir, Chile - Capitan Fuentes Martinez Airport Airport",
+        "code": "WPR"
+    },
+    {
+        "name": "Futaleufu, Chile - Futaleufu Airport",
+        "code": "FFU"
+    },
+    {
+        "name": "Los Angeles, Chile - Maria Dolores Airport",
+        "code": "LSQ"
+    },
+    {
+        "name": "Puerto Williams, Chile - Guardiamarina Zanartu Airport",
+        "code": "WPU"
+    },
+    {
+        "name": "Cochrane, Chile - Cochrane Airport",
+        "code": "LGR"
+    },
+    {
+        "name": "Vallenar, Chile - Vallenar Airport",
+        "code": "VLR"
+    },
+    {
+        "name": "Linares, Chile - Municipal de Linares Airport",
+        "code": "ZLR"
+    },
+    {
+        "name": "Puerto Natales, Chile - Tte. Julio Gallardo Airport",
+        "code": "PNT"
+    },
+    {
+        "name": "Ovalle, Chile - El Tuqui Airport",
+        "code": "OVL"
+    },
+    {
+        "name": "Chillan, Chile - Gral. Bernardo O\u00ac\u00a5Higgins Airport",
+        "code": "YAI"
+    },
+    {
+        "name": "Puerto Varas, Chile - El Mirador Airport",
+        "code": "PUX"
+    },
+    {
+        "name": "Chanaral, Chile - Chanaral Airport",
+        "code": "CNR"
+    },
+    {
+        "name": "Vina Del Mar, Chile - Rodelillo Airport",
+        "code": "VAP"
+    },
+    {
+        "name": "Rancagua, Chile - De La Independencia Airport",
+        "code": "QRC"
+    },
+    {
+        "name": "Cerro Sombrero, Chile - Franco Bianco Airport",
+        "code": "SMB"
+    },
+    {
+        "name": "San Felipe, Chile - Victor Lafon Airport",
+        "code": "SSD"
+    },
+    {
+        "name": "Castro, Chile - Gamboa Airport",
+        "code": "WCA"
+    },
+    {
+        "name": "Talca, Chile - Panguilemo Airport",
+        "code": "TLX"
+    },
+    {
+        "name": "Chaiten, Chile - Chaiten Airport",
+        "code": "WCH"
+    },
+    {
+        "name": "Victoria, Chile - Victoria Airport",
+        "code": "ZIC"
+    },
+    {
+        "name": "Taltal, Chile - Las Breas Airport",
+        "code": "TTC"
+    },
+    {
+        "name": "Vina Del Mar, Chile - Vina del mar Airport",
+        "code": "KNA"
+    },
+    {
+        "name": "Balmaceda, Chile and Easter Island - Teniente Vidal Airport",
+        "code": "BBA"
+    },
+    {
+        "name": "Antofagasta, Chile and Easter Island - Cerro Moreno",
+        "code": "ANF"
+    },
+    {
+        "name": "Iquique, Chile and Easter Island - Cavancha",
+        "code": "IQQ"
+    },
+    {
+        "name": "Puerto Montt, Chile and Easter Island - Tepual",
+        "code": "PMC"
+    },
+    {
+        "name": "Punta Arenas, Chile and Easter Island - Presidente Ibanez",
+        "code": "PUQ"
+    },
+    {
+        "name": "Burma) - Tachilek Airport",
+        "code": "THL"
+    },
+    {
+        "name": "Copiapo, Chile and Easter Island - Desierto De Atacama Airport",
+        "code": "CPO"
+    },
+    {
+        "name": "Calama, Chile and Easter Island - El Loa",
+        "code": "CJC"
+    },
+    {
+        "name": "La Serena, Chile and Easter Island - La Florida",
+        "code": "LSC"
+    },
+    {
+        "name": "Blantyre, Malawi - Chileka",
+        "code": "BLZ"
+    },
+    {
+        "name": "Arica, Chile and Easter Island - Chacalluta",
+        "code": "ARI"
+    },
+    {
+        "name": "Concepcion, Chile and Easter Island - Carriel Sur",
+        "code": "CCP"
+    },
+    {
+        "name": "Temuco, Chile and Easter Island - Temuco",
+        "code": "ZCO"
+    },
+    {
+        "name": "Santiago, Chile and Easter Island - Arturo Merino Benitez Airport",
+        "code": "SCL"
+    },
+    {
+        "name": "Easter Island, Chile and Easter Island - Mataveri International Airport",
+        "code": "IPC"
+    },
+    {
+        "name": "Valdivia, Chile and Easter Island - Pichoy",
+        "code": "ZAL"
+    },
+    {
+        "name": "Osorno, Chile and Easter Island - Osorno",
+        "code": "ZOS"
+    },
+    {
+        "name": "Castro, Chile - Mocopulli Airport",
+        "code": "MHC"
+    },
+    {
+        "name": "El Salvador, Chile and Easter Island - El Salvador Airport",
+        "code": "ESR"
+    },
+    {
+        "name": "Los Chiles, Costa Rica - Los Chiles Airport",
+        "code": "LSL"
+    },
+    {
+        "name": "Ancud, Chile - Pupelde Airport",
+        "code": "ZUD"
+    },
+    {
+        "name": "Los Andes, Chile - San Rafael Airport",
+        "code": "LOB"
+    },
+    {
+        "name": "Alto Palena, Chile - Alto Palena Airport",
+        "code": "WAP"
+    },
+    {
+        "name": "Puerto Aysen, Chile - Cabo 1\u00ac\u221e Juan Roman Airport",
+        "code": "WPA"
+    },
+    {
+        "name": "Tocopilla, Chile - Barriles Airport",
+        "code": "TOQ"
+    },
+    {
+        "name": "Chile Chico, Chile - Chile Chico Airport",
+        "code": "CCH"
+    }
+]

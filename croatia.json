@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Zagreb, Croatia - Pleso",
+        "code": "ZAG"
+    },
+    {
+        "name": "Split, Croatia - Split",
+        "code": "SPU"
+    },
+    {
+        "name": "Dubrovnik, Croatia - Dubrovnik",
+        "code": "DBV"
+    },
+    {
+        "name": "Pula, Croatia - Pula",
+        "code": "PUY"
+    },
+    {
+        "name": "Zadar, Croatia - Zadar",
+        "code": "ZAD"
+    },
+    {
+        "name": "Osijek, Croatia",
+        "code": "OSI"
+    },
+    {
+        "name": "Rijeka, Croatia - Rijeka",
+        "code": "RJK"
+    },
+    {
+        "name": "Bol, Croatia",
+        "code": "BWK"
+    },
+    {
+        "name": "Losinj, Croatia - Losinj Island Airport",
+        "code": "LSZ"
+    }
+]

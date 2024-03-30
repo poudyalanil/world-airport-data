@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Punta Cana, Dominican Republic - Punta Cana Airport",
+        "code": "PUJ"
+    },
+    {
+        "name": "Santo Domingo, Dominican Republic - Las Americas Airport",
+        "code": "SDQ"
+    },
+    {
+        "name": "Santiago, Dominican Republic - Santiago Municipal Airport",
+        "code": "STI"
+    },
+    {
+        "name": "Puerto Plata, Dominican Republic - La Union Airport",
+        "code": "POP"
+    },
+    {
+        "name": "La Romana, Dominican Republic - La Romana Airport",
+        "code": "LRM"
+    },
+    {
+        "name": "Santo Domingo, Dominican Republic - La Isabela International Airport",
+        "code": "JBQ"
+    },
+    {
+        "name": "Barahona, Dominican Republic - Maria Montez International Airport",
+        "code": "BRX"
+    },
+    {
+        "name": "Cabo Rojo, Dominican Republic - Cabo Rojo Airport",
+        "code": "CBJ"
+    },
+    {
+        "name": "Costanza, Dominican Republic - Constanza Dom Re Airport",
+        "code": "COZ"
+    },
+    {
+        "name": "Samana, Dominican Republic - Samana El Portillo Airport",
+        "code": "EPS"
+    },
+    {
+        "name": "Sabana de Mar, Dominican Republic - Sabana de Mar Airport",
+        "code": "SNX"
+    }
+]

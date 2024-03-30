@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Port au Prince, Haiti - Mais Gate Airport",
+        "code": "PAP"
+    },
+    {
+        "name": "Cap Haitien, Haiti - Cap Haitien Airport",
+        "code": "CAP"
+    },
+    {
+        "name": "Les Cayes, Haiti - Les Cayes Airport",
+        "code": "CYA"
+    },
+    {
+        "name": "Jacmel, Haiti - Jacmel Airport",
+        "code": "JAK"
+    },
+    {
+        "name": "Jeremie, Haiti - Jeremie Airport",
+        "code": "JEE"
+    },
+    {
+        "name": "Port-de-Paix, Haiti - Port-de-Paix Airport",
+        "code": "PAX"
+    }
+]

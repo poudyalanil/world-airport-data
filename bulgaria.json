@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sofia, Bulgaria - Sofia Airport",
+        "code": "SOF"
+    },
+    {
+        "name": "Bourgas, Bulgaria - Bourgas",
+        "code": "BOJ"
+    },
+    {
+        "name": "Varna, Bulgaria - Varna",
+        "code": "VAR"
+    },
+    {
+        "name": "Plovdiv, Bulgaria",
+        "code": "PDV"
+    },
+    {
+        "name": "Gorna Oryahovitsa, Bulgaria - Gorna Oryahovitsa Airport",
+        "code": "GOZ"
+    },
+    {
+        "name": "Yambol, Bulgaria - Bezmer Air Base",
+        "code": "JAM"
+    },
+    {
+        "name": "Dolna Mitropoliya, Bulgaria - Dolna Mitropoliya Air Base",
+        "code": "PVN"
+    },
+    {
+        "name": "Silistra, Bulgaria - Silistra Polkovnik Lambrinovo Airfield",
+        "code": "SLS"
+    },
+    {
+        "name": "Stara Zagora, Bulgaria - Stara Zagora Airport",
+        "code": "SZR"
+    },
+    {
+        "name": "Vidin, Bulgaria - Vidin Smurdan Airfield",
+        "code": "VID"
+    }
+]

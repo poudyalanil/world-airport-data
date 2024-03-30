@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Tokunoshima, Japan - Tokunoshima Airport",
+        "code": "TKN"
+    },
+    {
+        "name": "Okushiri, Japan",
+        "code": "OIR"
+    },
+    {
+        "name": "Monbetsu, Japan - Monbetsu Airport",
+        "code": "MBE"
+    },
+    {
+        "name": "Tanegashima, Japan - Tanegashima Airport",
+        "code": "TNE"
+    },
+    {
+        "name": "Matsumoto, Japan - Matsumoto",
+        "code": "MMJ"
+    },
+    {
+        "name": "Rishiri, Japan - Rishiri Airport",
+        "code": "RIS"
+    },
+    {
+        "name": "Yoronjima, Japan - Yoronjima Airport",
+        "code": "RNJ"
+    },
+    {
+        "name": "Yonaguni, Japan - Yonaguni Airport",
+        "code": "OGN"
+    },
+    {
+        "name": "Okino Erabu, Japan - Okino Erabu Airport",
+        "code": "OKE"
+    },
+    {
+        "name": "Wajima, Japan - Noto Airport",
+        "code": "NTQ"
+    },
+    {
+        "name": "Odate Noshiro, Japan - Odate Noshiro Airport",
+        "code": "ONJ"
+    },
+    {
+        "name": "Kikaiga Shima, Japan - Kikaiga Shima Airport",
+        "code": "KKX"
+    },
+    {
+        "name": "Iwami, Japan - Iwami Airport",
+        "code": "IWJ"
+    },
+    {
+        "name": "Minami Daito, Japan",
+        "code": "MMD"
+    },
+    {
+        "name": "Omitama, Japan - Ibaraki Airport",
+        "code": "IBR"
+    },
+    {
+        "name": "Hachijo Jima, Japan - Hachijo Jima Airport",
+        "code": "HAC"
+    },
+    {
+        "name": "Yakushima, Japan - Yakushima Airport",
+        "code": "KUM"
+    },
+    {
+        "name": "Wakkanai, Japan - Wakkanai",
+        "code": "WKJ"
+    },
+    {
+        "name": "Kume Island, Japan - Kume Jima",
+        "code": "UEO"
+    },
+    {
+        "name": "Shirahama, Japan - Shirahama Airport",
+        "code": "SHM"
+    },
+    {
+        "name": "Fukue, Japan - Fukue Airport",
+        "code": "FUJ"
+    },
+    {
+        "name": "Shonai, Japan - Shonai Airport",
+        "code": "SYO"
+    },
+    {
+        "name": "Nakashibetsu, Japan - Nakashibetsu Airport",
+        "code": "SHB"
+    },
+    {
+        "name": "Tottori, Japan - Tottori",
+        "code": "TTJ"
+    },
+    {
+        "name": "Fukushima, Japan - Fukushima",
+        "code": "FKS"
+    },
+    {
+        "name": "Sado Shima, Japan",
+        "code": "SDS"
+    },
+    {
+        "name": "Okinawa, Japan - Ie Jima Airport",
+        "code": "IEJ"
+    },
+    {
+        "name": "Kerama, Japan - Kerama Airport",
+        "code": "KJP"
+    },
+    {
+        "name": "Okinawa, Japan - Kadena Air Base",
+        "code": "DNA"
+    },
+    {
+        "name": "Fussa, Japan - Yokota Air Base",
+        "code": "OKO"
+    },
+    {
+        "name": "Tochigi, Japan - Utsunomiya Airport",
+        "code": "QUT"
+    },
+    {
+        "name": "Kanagawa, Japan - Atsugi Naval Air Facility",
+        "code": "NJA"
+    },
+    {
+        "name": "Aomori, Japan - Hachinohe Airport",
+        "code": "HHE"
+    },
+    {
+        "name": "Gifu, Japan - Gifu Airport",
+        "code": "QGU"
+    },
+    {
+        "name": "Hokkaido, Japan - Rebun Airport Airport",
+        "code": "RBJ"
+    },
+    {
+        "name": "Tokyo, Japan - Iwo Jima Airport",
+        "code": "IWO"
+    },
+    {
+        "name": "Shimojishima, Japan",
+        "code": "SHI"
+    },
+    {
+        "name": "Misawa, Japan - Misawa Airport",
+        "code": "MSJ"
+    },
+    {
+        "name": "Oshima Island, Japan - Oshima",
+        "code": "OIM"
+    },
+    {
+        "name": "Miyake Jima, Japan - Miyake Jima Airport",
+        "code": "MYE"
+    },
+    {
+        "name": "Hiroshima, Japan - Hiroshima West",
+        "code": "HIW"
+    },
+    {
+        "name": "Hateruma, Japan",
+        "code": "HTR"
+    },
+    {
+        "name": "Fukui, Japan",
+        "code": "FKJ"
+    },
+    {
+        "name": "Aguni, Japan",
+        "code": "AGJ"
+    },
+    {
+        "name": "Kitadaito, Japan",
+        "code": "KTD"
+    },
+    {
+        "name": "Iki, Japan",
+        "code": "IKI"
+    },
+    {
+        "name": "Toyooka, Japan - Tajima Airport",
+        "code": "TJH"
+    },
+    {
+        "name": "Taramajima, Japan",
+        "code": "TRA"
+    },
+    {
+        "name": "Oki Island, Japan - Oki Island Airport",
+        "code": "OKI"
+    },
+    {
+        "name": "Sendai, Japan - Sendai",
+        "code": "SDJ"
+    },
+    {
+        "name": "Miyako, Japan - Hirara Airport",
+        "code": "MMY"
+    },
+    {
+        "name": "Hakodate, Japan - Hakodate",
+        "code": "HKD"
+    },
+    {
+        "name": "Komatsu, Japan - Komatsu",
+        "code": "KMQ"
+    },
+    {
+        "name": "Akita, Japan - Akita",
+        "code": "AXT"
+    },
+    {
+        "name": "Niigata, Japan - Niigata",
+        "code": "KIJ"
+    },
+    {
+        "name": "Oita, Japan - Oita",
+        "code": "OIT"
+    },
+    {
+        "name": "Hiroshima, Japan - Hiroshima",
+        "code": "HIJ"
+    },
+    {
+        "name": "Ishigaki, Japan - Ishigaki",
+        "code": "ISG"
+    },
+    {
+        "name": "Nagasaki, Japan - Nagasaki",
+        "code": "NGS"
+    },
+    {
+        "name": "Matsuyama, Japan - Matsuyama",
+        "code": "MYJ"
+    },
+    {
+        "name": "Kumamoto, Japan - Kumamoto",
+        "code": "KMJ"
+    },
+    {
+        "name": "Miyazaki, Japan - Miyazaki",
+        "code": "KMI"
+    },
+    {
+        "name": "Kochi, Japan - Kochi",
+        "code": "KCZ"
+    },
+    {
+        "name": "Kagoshima, Japan - Kagoshima",
+        "code": "KOJ"
+    },
+    {
+        "name": "Nagoya, Japan - Nagoya",
+        "code": "NGO"
+    },
+    {
+        "name": "Naha, Japan - Naha Fld",
+        "code": "OKA"
+    },
+    {
+        "name": "Osaka, Japan - Kansai International Airport",
+        "code": "KIX"
+    },
+    {
+        "name": "Sapporo, Japan - Chitose",
+        "code": "CTS"
+    },
+    {
+        "name": "Osaka, Japan - Itami",
+        "code": "ITM"
+    },
+    {
+        "name": "Sapporo, Japan - All Airports",
+        "code": "SPK"
+    },
+    {
+        "name": "Fukuoka, Japan - Fukuoka",
+        "code": "FUK"
+    },
+    {
+        "name": "Tokyo, Japan - Narita Airport",
+        "code": "NRT"
+    },
+    {
+        "name": "Osaka, Japan - All Airports",
+        "code": "OSA"
+    },
+    {
+        "name": "Tokyo, Japan - Haneda Airport",
+        "code": "HND"
+    },
+    {
+        "name": "Izumo, Japan - Izumo Airport",
+        "code": "IZO"
+    },
+    {
+        "name": "Tsushima, Japan - Tsushima Airport",
+        "code": "TSJ"
+    },
+    {
+        "name": "Iwakuni, Japan - Marine Corps Air Station",
+        "code": "IWK"
+    },
+    {
+        "name": "Yamagata, Japan - Junmachi",
+        "code": "GAJ"
+    },
+    {
+        "name": "Yonago, Japan - Yonago",
+        "code": "YGJ"
+    },
+    {
+        "name": "Saga, Japan - Saga Airport",
+        "code": "HSG"
+    },
+    {
+        "name": "Toyama, Japan - Toyama",
+        "code": "TOY"
+    },
+    {
+        "name": "Shizuoka, Japan - Mt. Fuji Shizuoka Airport",
+        "code": "FSZ"
+    },
+    {
+        "name": "Obihiro, Japan - Obihiro",
+        "code": "OBO"
+    },
+    {
+        "name": "Asahikawa, Japan - Asahikawa",
+        "code": "AKJ"
+    },
+    {
+        "name": "Hanamaki, Japan - Hanamaki",
+        "code": "HNA"
+    },
+    {
+        "name": "Komaki, Japan - Nagoya Airfield",
+        "code": "NKM"
+    },
+    {
+        "name": "Tokyo, Japan - All Airports",
+        "code": "TYO"
+    },
+    {
+        "name": "Ube, Japan - Ube",
+        "code": "UBJ"
+    },
+    {
+        "name": "Amami O Shima, Japan - Amami O Shima Airport",
+        "code": "ASJ"
+    },
+    {
+        "name": "Sapporo, Japan - Okadama",
+        "code": "OKD"
+    },
+    {
+        "name": "Tokushima, Japan - Tokushima",
+        "code": "TKS"
+    },
+    {
+        "name": "Kushiro, Japan - Kushiro",
+        "code": "KUH"
+    },
+    {
+        "name": "Memanbetsu, Japan - Memanbetsu Airport",
+        "code": "MMB"
+    },
+    {
+        "name": "Okayama, Japan - Okayama",
+        "code": "OKJ"
+    },
+    {
+        "name": "Takamatsu, Japan - Takamatsu",
+        "code": "TAK"
+    },
+    {
+        "name": "Kobe, Japan - Kobe Airport",
+        "code": "UKB"
+    },
+    {
+        "name": "Kitakyushu, Japan - Kita Kyushu",
+        "code": "KKJ"
+    },
+    {
+        "name": "Aomori, Japan - Aomori",
+        "code": "AOJ"
+    }
+]

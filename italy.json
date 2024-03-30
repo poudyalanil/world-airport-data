@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Milan, Italy",
+        "code": "SWK"
+    },
+    {
+        "name": "Trento, Italy - Trento / Mattarello Airport",
+        "code": "ZIA"
+    },
+    {
+        "name": "Ravenna, Italy - Ravenna Airport",
+        "code": "RAN"
+    },
+    {
+        "name": "Cortina D'Ampezzo, Italy - Cortina Airport",
+        "code": "CDF"
+    },
+    {
+        "name": "Belluno, Italy - Belluno Airport",
+        "code": "BLX"
+    },
+    {
+        "name": "Sicily, Italy - Sigonella Airport",
+        "code": "NSY"
+    },
+    {
+        "name": "Apulia, Italy - Lecce Airport",
+        "code": "LCC"
+    },
+    {
+        "name": "Vieste, Italy",
+        "code": "VIF"
+    },
+    {
+        "name": "Taranto, Italy",
+        "code": "TAR"
+    },
+    {
+        "name": "San Domino Island, Italy",
+        "code": "TQR"
+    },
+    {
+        "name": "Decimomannu, Italy - Decimomannu Airport",
+        "code": "DCI"
+    },
+    {
+        "name": "Forli, Italy - Luigi Ridolfi",
+        "code": "FRL"
+    },
+    {
+        "name": "Foggia, Italy",
+        "code": "FOG"
+    },
+    {
+        "name": "Florence, Italy - Santa Maria Novella Railway Station",
+        "code": "ZMS"
+    },
+    {
+        "name": "Crotone, Italy - Crotone",
+        "code": "CRV"
+    },
+    {
+        "name": "Bolzano, Italy - Bolzano/Bozen",
+        "code": "BZO"
+    },
+    {
+        "name": "Aosta, Italy - Aosta",
+        "code": "AOT"
+    },
+    {
+        "name": "Albenga, Italy - Albenga Airport",
+        "code": "ALL"
+    },
+    {
+        "name": "Verona, Italy - Montichiari",
+        "code": "VBS"
+    },
+    {
+        "name": "Padova, Italy - Padova Airport",
+        "code": "QPA"
+    },
+    {
+        "name": "Grosetto, Italy - Grosseto Airport",
+        "code": "GRS"
+    },
+    {
+        "name": "Latina, Italy - Latina Airport",
+        "code": "QLT"
+    },
+    {
+        "name": "Salerno, Italy - Salerno / Pontecagnano Airport",
+        "code": "QSR"
+    },
+    {
+        "name": "Frosinone, Italy - Frosinone Military Airport",
+        "code": "QFR"
+    },
+    {
+        "name": "Siena, Italy - Siena / Ampugnano Airport",
+        "code": "SAY"
+    },
+    {
+        "name": "Rieti, Italy - Rieti Airport",
+        "code": "QRT"
+    },
+    {
+        "name": "Lucca, Italy - Lucca / Tassignano Airport",
+        "code": "LCV"
+    },
+    {
+        "name": "Arezzo, Italy - Arezzo Airport",
+        "code": "QZO"
+    },
+    {
+        "name": "Cuneo, Italy - Levaldigi",
+        "code": "CUF"
+    },
+    {
+        "name": "Vicenza, Italy - Vicenza Airport",
+        "code": "VIC"
+    },
+    {
+        "name": "Udine, Italy - Udine / Campoformido Air Base",
+        "code": "UDN"
+    },
+    {
+        "name": "Aviano, Italy - Aviano Air Base",
+        "code": "AVB"
+    },
+    {
+        "name": "Piacenza, Italy - Piacenza Airport",
+        "code": "QPZ"
+    },
+    {
+        "name": "Marina Di Massa, Italy - Massa Cinquale Airport",
+        "code": "QMM"
+    },
+    {
+        "name": "Varese, Italy - Varese / Venegono Airport",
+        "code": "QVA"
+    },
+    {
+        "name": "Arbatax, Italy - Tortoli' / Arbatax Airport",
+        "code": "TTB"
+    },
+    {
+        "name": "Oristano, Italy - Oristano / Fenosu Airport",
+        "code": "FNU"
+    },
+    {
+        "name": "Milan, Italy - Orio Al Serio",
+        "code": "BGY"
+    },
+    {
+        "name": "Olbia, Italy - Costa Smeralda",
+        "code": "OLB"
+    },
+    {
+        "name": "Verona, Italy - Verona",
+        "code": "VRN"
+    },
+    {
+        "name": "Cagliari, Italy - Elmas",
+        "code": "CAG"
+    },
+    {
+        "name": "Bari, Italy - Palese",
+        "code": "BRI"
+    },
+    {
+        "name": "Pisa, Italy - Galileo Galilei",
+        "code": "PSA"
+    },
+    {
+        "name": "Palermo, Italy - Punta Raisi",
+        "code": "PMO"
+    },
+    {
+        "name": "Turin, Italy - Citta Di Torino",
+        "code": "TRN"
+    },
+    {
+        "name": "Florence, Italy - Peretola Airport",
+        "code": "FLR"
+    },
+    {
+        "name": "Rome, Italy - Ciampino Airport",
+        "code": "CIA"
+    },
+    {
+        "name": "Catania, Italy - Fontanarossa",
+        "code": "CTA"
+    },
+    {
+        "name": "Bologna, Italy - Guglielmo Marconi",
+        "code": "BLQ"
+    },
+    {
+        "name": "Naples, Italy - Naples Airport",
+        "code": "NAP"
+    },
+    {
+        "name": "Venice, Italy - Marco Polo Airport",
+        "code": "VCE"
+    },
+    {
+        "name": "Milan, Italy - Linate",
+        "code": "LIN"
+    },
+    {
+        "name": "Milan, Italy - Malpensa Airport",
+        "code": "MXP"
+    },
+    {
+        "name": "Rome, Italy - Fiumicino Airport",
+        "code": "FCO"
+    },
+    {
+        "name": "Milan, Italy - All Airports",
+        "code": "MIL"
+    },
+    {
+        "name": "Pescara, Italy - Liberi",
+        "code": "PSR"
+    },
+    {
+        "name": "Elba Island, Italy",
+        "code": "EBA"
+    },
+    {
+        "name": "Reggio di Calabria, Italy - Tito Menniti",
+        "code": "REG"
+    },
+    {
+        "name": "Milan, Italy - Parma",
+        "code": "PMF"
+    },
+    {
+        "name": "Pantelleria, Italy - Pantelleria",
+        "code": "PNL"
+    },
+    {
+        "name": "Rimini, Italy - Miramare",
+        "code": "RMI"
+    },
+    {
+        "name": "Perugia, Italy - Sant Egidio",
+        "code": "PEG"
+    },
+    {
+        "name": "Comiso, Italy",
+        "code": "CIY"
+    },
+    {
+        "name": "Lampedusa, Italy - Lampedusa",
+        "code": "LMP"
+    },
+    {
+        "name": "Rome, Italy - All Airports",
+        "code": "ROM"
+    },
+    {
+        "name": "Trapani, Italy - Birgi",
+        "code": "TPS"
+    },
+    {
+        "name": "Ancona, Italy - Falconara",
+        "code": "AOI"
+    },
+    {
+        "name": "Alghero, Italy - Fertilia",
+        "code": "AHO"
+    },
+    {
+        "name": "Trieste, Italy - Dei Legionari",
+        "code": "TRS"
+    },
+    {
+        "name": "Venice, Italy - Treviso",
+        "code": "TSF"
+    },
+    {
+        "name": "Brindisi, Italy - Papola Casale",
+        "code": "BDS"
+    },
+    {
+        "name": "Lamezia Terme, Italy - S Eufemia",
+        "code": "SUF"
+    },
+    {
+        "name": "Genoa, Italy - Cristoforo Colombo",
+        "code": "GOA"
+    }
+]

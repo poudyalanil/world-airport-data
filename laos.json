@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Vientiane, Laos - Wattay",
+        "code": "VTE"
+    },
+    {
+        "name": "Luang Prabang, Laos - Luang Prabang",
+        "code": "LPQ"
+    },
+    {
+        "name": "Pakse, Laos - Pakse Airport",
+        "code": "PKZ"
+    },
+    {
+        "name": "Luang Namtha, Laos - Luang Namtha Airport",
+        "code": "LXG"
+    },
+    {
+        "name": "Oudomxay, Laos - Oudomxay Airport",
+        "code": "ODY"
+    },
+    {
+        "name": "Houeisay, Laos - Houeisay Airport",
+        "code": "HOE"
+    },
+    {
+        "name": "Xieng Khouang, Laos - Xieng Khouang Airport",
+        "code": "XKH"
+    },
+    {
+        "name": "Phongsaly, Laos - Bounneua Airport",
+        "code": "PCQ"
+    }
+]

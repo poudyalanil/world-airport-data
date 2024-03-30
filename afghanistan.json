@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Khost, Afghanistan",
+        "code": "KHT"
+    },
+    {
+        "name": "Tarin Kowt, Afghanistan - Tarin Kowt Airport",
+        "code": "TII"
+    },
+    {
+        "name": "Sheghnan, Afghanistan - Sheghnan Airport",
+        "code": "SGA"
+    },
+    {
+        "name": "Herat, Afghanistan - Shindand Airport",
+        "code": "OAH"
+    },
+    {
+        "name": "Sharana, Afghanistan - Sharana Airstrip",
+        "code": "OAS"
+    },
+    {
+        "name": "Qala-I-Naw, Afghanistan - Qala-I-Naw Airport",
+        "code": "LQN"
+    },
+    {
+        "name": "Nangarhar, Afghanistan - Jalalabad Airport",
+        "code": "JAA"
+    },
+    {
+        "name": "Khwahan, Afghanistan - Khwahan Airport",
+        "code": "KWH"
+    },
+    {
+        "name": "Darwaz, Afghanistan - Darwaz Airport",
+        "code": "DAZ"
+    },
+    {
+        "name": "Maimana, Afghanistan",
+        "code": "MMZ"
+    },
+    {
+        "name": "Lashkar Gah, Afghanistan - Camp Bastion Airport",
+        "code": "OAZ"
+    },
+    {
+        "name": "Kunduz, Afghanistan",
+        "code": "UND"
+    },
+    {
+        "name": "Kabul, Afghanistan",
+        "code": "KBL"
+    },
+    {
+        "name": "Bagram, Afghanistan - Bagram Air Base Airport",
+        "code": "OAI"
+    },
+    {
+        "name": "Bost, Afghanistan",
+        "code": "BST"
+    },
+    {
+        "name": "Faizabad, Afghanistan",
+        "code": "FBD"
+    },
+    {
+        "name": "Bamiyan, Afghanistan",
+        "code": "BIN"
+    },
+    {
+        "name": "Chakcharan, Afghanistan",
+        "code": "CCN"
+    },
+    {
+        "name": "Zaranj, Afghanistan",
+        "code": "ZAJ"
+    },
+    {
+        "name": "Farah, Afghanistan",
+        "code": "FAH"
+    },
+    {
+        "name": "Mazar-I-Sharif, Afghanistan",
+        "code": "MZR"
+    },
+    {
+        "name": "Kandahar, Afghanistan",
+        "code": "KDH"
+    },
+    {
+        "name": "Herat, Afghanistan",
+        "code": "HEA"
+    }
+]

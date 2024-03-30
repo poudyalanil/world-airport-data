@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Palmar, Costa Rica - Palmar Sur",
+        "code": "PMZ"
+    },
+    {
+        "name": "Upala, Costa Rica - Upala Airport",
+        "code": "UPL"
+    },
+    {
+        "name": "Coto Brus, Costa Rica - San Vito De Java Airport",
+        "code": "TOO"
+    },
+    {
+        "name": "Rio Frio / Progreso, Costa Rica - Rio Frio / Progreso Airport",
+        "code": "RFR"
+    },
+    {
+        "name": "Nicoya/Guanacate, Costa Rica - Guanacaste Airport",
+        "code": "NCT"
+    },
+    {
+        "name": "Los Chiles, Costa Rica - Los Chiles Airport",
+        "code": "LSL"
+    },
+    {
+        "name": "Pococi, Costa Rica - Guapiles Airport",
+        "code": "GPL"
+    },
+    {
+        "name": "Brasilito, Costa Rica - Flamingo Airport",
+        "code": "FMG"
+    },
+    {
+        "name": "Nicoya, Costa Rica - Carrillo Airport",
+        "code": "RIK"
+    },
+    {
+        "name": "Corredores, Costa Rica - Coto 47 Airport",
+        "code": "OTR"
+    },
+    {
+        "name": "Guapiles, Costa Rica - Codela Airport",
+        "code": "CSC"
+    },
+    {
+        "name": "Punta Arenas, Costa Rica - Buenos Aires Airport",
+        "code": "BAI"
+    },
+    {
+        "name": "Punta Islita, Costa Rica - Punta Islita",
+        "code": "PBP"
+    },
+    {
+        "name": "Playa Samara, Costa Rica - Playa Samara",
+        "code": "PLD"
+    },
+    {
+        "name": "San Jose, Costa Rica - Juan Santamaria International Airport",
+        "code": "SJO"
+    },
+    {
+        "name": "Limon, Costa Rica - Limon",
+        "code": "LIO"
+    },
+    {
+        "name": "Barra Colorado, Costa Rica - Barra Colorado Airport",
+        "code": "BCL"
+    },
+    {
+        "name": "Tortuguero, Costa Rica - Tortuquero",
+        "code": "TTQ"
+    },
+    {
+        "name": "San Jose, Costa Rica - Tobias Bolanos Intl",
+        "code": "SYQ"
+    },
+    {
+        "name": "Fortuna, Costa Rica",
+        "code": "FON"
+    },
+    {
+        "name": "Nosara Beach, Costa Rica - Nosara Beach Airport",
+        "code": "NOB"
+    },
+    {
+        "name": "Golfito, Costa Rica - Golfito",
+        "code": "GLF"
+    },
+    {
+        "name": "Drake Bay, Costa Rica - Drake Bay Airport",
+        "code": "DRK"
+    },
+    {
+        "name": "Tamarindo, Costa Rica - Tamarindo",
+        "code": "TNO"
+    },
+    {
+        "name": "Puerto Quepos, Costa Rica - Puerto Quepos Mncpl",
+        "code": "XQP"
+    },
+    {
+        "name": "Tambor, Costa Rica - Tambor",
+        "code": "TMU"
+    },
+    {
+        "name": "Puerto Jimenez, Costa Rica - Puerto Jimenez",
+        "code": "PJM"
+    },
+    {
+        "name": "Liberia, Costa Rica - Daniel Oduber Quiros",
+        "code": "LIR"
+    }
+]

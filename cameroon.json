@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Bali, Cameroon - Bali Airport",
+        "code": "BLC"
+    },
+    {
+        "name": "Ebolowa, Cameroon - Ebolowa Airport",
+        "code": "EBW"
+    },
+    {
+        "name": "Bamenda, Cameroon - Bamenda Airport",
+        "code": "BPC"
+    },
+    {
+        "name": "Bafoussam, Cameroon - Bafoussam Airport",
+        "code": "BFX"
+    },
+    {
+        "name": "Dschang, Cameroon - Dschang Airport",
+        "code": "DSC"
+    },
+    {
+        "name": "Bertoua, Cameroon - Bertoua Airport",
+        "code": "BTA"
+    },
+    {
+        "name": "Foumban, Cameroon - Foumban Nkounja Airport",
+        "code": "FOM"
+    },
+    {
+        "name": "Yagoua, Cameroon - Yagoua Airport",
+        "code": "GXX"
+    },
+    {
+        "name": "Batouri, Cameroon - Batouri Airport",
+        "code": "OUR"
+    },
+    {
+        "name": "Kaele, Cameroon - Kaele Airport",
+        "code": "KLE"
+    },
+    {
+        "name": "Douala, Cameroon - Douala",
+        "code": "DLA"
+    },
+    {
+        "name": "Mamfe, Cameroon - Mamfe Airport",
+        "code": "MMF"
+    },
+    {
+        "name": "Tiko, Cameroon - Tiko Airport",
+        "code": "TKC"
+    },
+    {
+        "name": "Kribi, Cameroon - Kribi Airport",
+        "code": "KBI"
+    },
+    {
+        "name": "Nkongsamba, Cameroon - Nkongsamba Airport",
+        "code": "NKS"
+    },
+    {
+        "name": "Yaounde, Cameroon - Yaounde",
+        "code": "YAO"
+    },
+    {
+        "name": "Garoua, Cameroon - Garoua Airport",
+        "code": "GOU"
+    },
+    {
+        "name": "Maroua, Cameroon",
+        "code": "MVR"
+    },
+    {
+        "name": "Ngaoundere, Cameroon",
+        "code": "NGE"
+    },
+    {
+        "name": "Yaounde, Cameroon - Nsimalen",
+        "code": "NSI"
+    }
+]

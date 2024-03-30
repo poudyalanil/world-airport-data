@@ -1,0 +1,846 @@
+[
+    {
+        "name": "Shanghai, China - Hongqiao",
+        "code": "SHA"
+    },
+    {
+        "name": "Beijing, China - All Airports",
+        "code": "BJS"
+    },
+    {
+        "name": "Beijing, China - Capital Airport",
+        "code": "PEK"
+    },
+    {
+        "name": "Guangzhou, China - Baiyun",
+        "code": "CAN"
+    },
+    {
+        "name": "Shanghai, China - Pu Dong Airport",
+        "code": "PVG"
+    },
+    {
+        "name": "Hong Kong, China - Hong Kong International Airport",
+        "code": "HKG"
+    },
+    {
+        "name": "Chengdu, China - Chengdu",
+        "code": "CTU"
+    },
+    {
+        "name": "Kunming, China - Kunming",
+        "code": "KMG"
+    },
+    {
+        "name": "Shenzhen, China - Shenzhen",
+        "code": "SZX"
+    },
+    {
+        "name": "Xi'an, China - Xianyang",
+        "code": "XIY"
+    },
+    {
+        "name": "Chongqing, China - Chongqing",
+        "code": "CKG"
+    },
+    {
+        "name": "Hangzhou, China - Hangzhou",
+        "code": "HGH"
+    },
+    {
+        "name": "Xiamen, China - Xiamen Intl",
+        "code": "XMN"
+    },
+    {
+        "name": "Nanjing, China - Nanjing",
+        "code": "NKG"
+    },
+    {
+        "name": "Wuhan, China - Wuhan",
+        "code": "WUH"
+    },
+    {
+        "name": "Zhengzhou, China - Zhengzhou",
+        "code": "CGO"
+    },
+    {
+        "name": "Urumqi, China - Urumqi",
+        "code": "URC"
+    },
+    {
+        "name": "Qingdao, China - Qingdao",
+        "code": "TAO"
+    },
+    {
+        "name": "Changsha, China - Changsha",
+        "code": "CSX"
+    },
+    {
+        "name": "Tianjin, China - Tianjin",
+        "code": "TSN"
+    },
+    {
+        "name": "Dalian, China - Dalian",
+        "code": "DLC"
+    },
+    {
+        "name": "Harbin, China - Harbin",
+        "code": "HRB"
+    },
+    {
+        "name": "Shenyang, China - Shenyang",
+        "code": "SHE"
+    },
+    {
+        "name": "Guiyang, China - Guiyang",
+        "code": "KWE"
+    },
+    {
+        "name": "Haikou, China - Haikou",
+        "code": "HAK"
+    },
+    {
+        "name": "Sanya, China - Sanya",
+        "code": "SYX"
+    },
+    {
+        "name": "Fuzhou, China - Fuzhou",
+        "code": "FOC"
+    },
+    {
+        "name": "Nanning, China - Nanning",
+        "code": "NNG"
+    },
+    {
+        "name": "Taiyuan, China - Taiyuan",
+        "code": "TYN"
+    },
+    {
+        "name": "Lanzhou, China - Lanzhou",
+        "code": "LHW"
+    },
+    {
+        "name": "Jinan, China - Jinan",
+        "code": "TNA"
+    },
+    {
+        "name": "Changchun, China - Changchun",
+        "code": "CGQ"
+    },
+    {
+        "name": "Hohhot, China - Hohhot",
+        "code": "HET"
+    },
+    {
+        "name": "Wenzhou, China - Wenzhou",
+        "code": "WNZ"
+    },
+    {
+        "name": "Ningbo, China - Ningbo",
+        "code": "NGB"
+    },
+    {
+        "name": "Nanchang, China - Nanchang",
+        "code": "KHN"
+    },
+    {
+        "name": "Hefei, China - Hefei",
+        "code": "HFE"
+    },
+    {
+        "name": "Yinchuan, China - Yinchuan",
+        "code": "INC"
+    },
+    {
+        "name": "Macao, China - Macau Airport",
+        "code": "MFM"
+    },
+    {
+        "name": "Zhuhai, China - Zhuhai",
+        "code": "ZUH"
+    },
+    {
+        "name": "Wuxi, China - Wuxi",
+        "code": "WUX"
+    },
+    {
+        "name": "Guilin, China - Guilin",
+        "code": "KWL"
+    },
+    {
+        "name": "Yantai, China - Laishan",
+        "code": "YNT"
+    },
+    {
+        "name": "Xining, China - Xining",
+        "code": "XNN"
+    },
+    {
+        "name": "Lijiang City, China - Lijiang",
+        "code": "LJG"
+    },
+    {
+        "name": "Shijiazhuang, China - Shijiazhuang",
+        "code": "SJW"
+    },
+    {
+        "name": "Shantou, China - Shantou",
+        "code": "SWA"
+    },
+    {
+        "name": "Jinjiang, China - Jinjiang Airport",
+        "code": "JJN"
+    },
+    {
+        "name": "Lhasa, China - Lhasa",
+        "code": "LXA"
+    },
+    {
+        "name": "Mian Yang, China - Mian Yang Airport",
+        "code": "MIG"
+    },
+    {
+        "name": "Jinghong, China - Gasa Airport",
+        "code": "JHG"
+    },
+    {
+        "name": "Beijing, China",
+        "code": "NAY"
+    },
+    {
+        "name": "Changzhou, China - Changzhou",
+        "code": "CZX"
+    },
+    {
+        "name": "Zhanjiang, China - Zhangjiang",
+        "code": "ZHA"
+    },
+    {
+        "name": "Dali, China - Dali",
+        "code": "DLU"
+    },
+    {
+        "name": "Kashi, China - Kashi Airport",
+        "code": "KHG"
+    },
+    {
+        "name": "Dayong, China - Dayong Airport",
+        "code": "DYG"
+    },
+    {
+        "name": "Baotou, China - Baotou",
+        "code": "BAV"
+    },
+    {
+        "name": "Dongsheng, China",
+        "code": "DSN"
+    },
+    {
+        "name": "Weihai, China - Weihai",
+        "code": "WEH"
+    },
+    {
+        "name": "Yichang, China - Yichang",
+        "code": "YIH"
+    },
+    {
+        "name": "Nantong, China - Nantong",
+        "code": "NTG"
+    },
+    {
+        "name": "Hailar, China - Hailar Airport",
+        "code": "HLD"
+    },
+    {
+        "name": "Yulin, China - Yulin Airport",
+        "code": "UYN"
+    },
+    {
+        "name": "Luxi, China - Mangshi Airport",
+        "code": "LUM"
+    },
+    {
+        "name": "Yangzhou, China - Yangzhou Taizhou Airport",
+        "code": "YTY"
+    },
+    {
+        "name": "Yiwu, China - Yiwu",
+        "code": "YIW"
+    },
+    {
+        "name": "Yanji, China - Yanji",
+        "code": "YNJ"
+    },
+    {
+        "name": "Xuzhou, China - Xuzhou",
+        "code": "XUZ"
+    },
+    {
+        "name": "Yuncheng, China - Yun Cheng Airport",
+        "code": "YCU"
+    },
+    {
+        "name": "Linyi, China - Linyi Airport",
+        "code": "LYI"
+    },
+    {
+        "name": "Aksu, China - Aksu Airport",
+        "code": "AKU"
+    },
+    {
+        "name": "Beihai, China - Beihai",
+        "code": "BHY"
+    },
+    {
+        "name": "Tongren, China - Tongren Airport",
+        "code": "TEN"
+    },
+    {
+        "name": "Luzhou, China - Luzhou Airport",
+        "code": "LZO"
+    },
+    {
+        "name": "Korla, China - Korla Airport",
+        "code": "KRL"
+    },
+    {
+        "name": "Yining, China - Yining Airport",
+        "code": "YIN"
+    },
+    {
+        "name": "Hotan, China - Hotan Airport",
+        "code": "HTN"
+    },
+    {
+        "name": "Zunyi, China",
+        "code": "ZYI"
+    },
+    {
+        "name": "Ganzhou, China - Ganzhou Airport",
+        "code": "KOW"
+    },
+    {
+        "name": "Zhoushan, China - Zhoushan",
+        "code": "HSN"
+    },
+    {
+        "name": "Song Pan, China - Jiu Zhai Huang Long Airport",
+        "code": "JZH"
+    },
+    {
+        "name": "Yancheng, China - Yancheng Airport",
+        "code": "YNZ"
+    },
+    {
+        "name": "Yibin, China - Yibin",
+        "code": "YBP"
+    },
+    {
+        "name": "Xiangfan, China - Xiangfan",
+        "code": "XFN"
+    },
+    {
+        "name": "Chifeng, China - Chifeng Airport",
+        "code": "CIF"
+    },
+    {
+        "name": "Liuzhou, China - Liuzhou Airport",
+        "code": "LZH"
+    },
+    {
+        "name": "Lianyungang, China - Lianyungang",
+        "code": "LYG"
+    },
+    {
+        "name": "Luoyang, China - Luoyang",
+        "code": "LYA"
+    },
+    {
+        "name": "Huai'an, China - Huai'an Airport",
+        "code": "HIA"
+    },
+    {
+        "name": "Tunxi, China - Tunxi",
+        "code": "TXN"
+    },
+    {
+        "name": "Tengchong, China - Tengchong Airport",
+        "code": "TCZ"
+    },
+    {
+        "name": "Tongliao, China - Tongliao Airport",
+        "code": "TGO"
+    },
+    {
+        "name": "Yichun, China - Yichun Mingyueshan Airport",
+        "code": "YIC"
+    },
+    {
+        "name": "Diqing, China - Diqing",
+        "code": "DIG"
+    },
+    {
+        "name": "Nanchong, China - Nanchong",
+        "code": "NAO"
+    },
+    {
+        "name": "Daqing, China - Daqing Shi Airport",
+        "code": "DQA"
+    },
+    {
+        "name": "Jiamusi, China - Jiamusi Airport",
+        "code": "JMU"
+    },
+    {
+        "name": "Wanxian, China - Wanxian Airport",
+        "code": "WXN"
+    },
+    {
+        "name": "Nanyang, China - Nanyang Airport",
+        "code": "NNY"
+    },
+    {
+        "name": "Changzhi, China - Changzhi Airport",
+        "code": "CIH"
+    },
+    {
+        "name": "Huangyan, China - Huangyan Airport",
+        "code": "HYN"
+    },
+    {
+        "name": "Xingyi, China - Xingyi Airport",
+        "code": "ACX"
+    },
+    {
+        "name": "Ji'An, China - Ji An/Jing Gang Shan Airport",
+        "code": "JGS"
+    },
+    {
+        "name": "Baoshan, China - Baoshan",
+        "code": "BSD"
+    },
+    {
+        "name": "Mei Xian, China - Mei Xian Airport",
+        "code": "MXZ"
+    },
+    {
+        "name": "Daxian, China - Daxian Airport",
+        "code": "DAX"
+    },
+    {
+        "name": "Simao, China - Simao Airport",
+        "code": "SYM"
+    },
+    {
+        "name": "Mudanjiang, China - Mudanjiang",
+        "code": "MDG"
+    },
+    {
+        "name": "Datong, China - Datong",
+        "code": "DAT"
+    },
+    {
+        "name": "Ulanhot, China - Ulanhot Airport",
+        "code": "HLH"
+    },
+    {
+        "name": "Jining, China",
+        "code": "JNG"
+    },
+    {
+        "name": "Lincang, China - Lincang Airport",
+        "code": "LNJ"
+    },
+    {
+        "name": "Huizhou, China",
+        "code": "HUZ"
+    },
+    {
+        "name": "Xichang, China - Xichang",
+        "code": "XIC"
+    },
+    {
+        "name": "Handan, China - Handan Airport",
+        "code": "HDG"
+    },
+    {
+        "name": "Jiayuguan, China - Jiayuguan Airport",
+        "code": "JGN"
+    },
+    {
+        "name": "Wu Hai, China - Wu Hai Airport",
+        "code": "WUA"
+    },
+    {
+        "name": "Zhaotong, China - Zhaotong Airport",
+        "code": "ZAT"
+    },
+    {
+        "name": "Baishan, China - Changbaishan Airport",
+        "code": "NBS"
+    },
+    {
+        "name": "Pan Zhi Hua, China - Pan Zhi Hua Bao An Ying",
+        "code": "PZI"
+    },
+    {
+        "name": "Xilinhot, China - Xilinhot Airport",
+        "code": "XIL"
+    },
+    {
+        "name": "Karamay, China - Karamay",
+        "code": "KRY"
+    },
+    {
+        "name": "Jingdezhen, China - Jingdezhen Airport",
+        "code": "JDZ"
+    },
+    {
+        "name": "Wuyishan, China - Wuyishan",
+        "code": "WUS"
+    },
+    {
+        "name": "Kuqa, China - Kuqa Airport",
+        "code": "KCA"
+    },
+    {
+        "name": "Changde, China - Changde",
+        "code": "CGD"
+    },
+    {
+        "name": "Enshi, China - Enshi",
+        "code": "ENH"
+    },
+    {
+        "name": "Fuyang, China",
+        "code": "FUG"
+    },
+    {
+        "name": "Dongying, China - Dongying Airport",
+        "code": "DOY"
+    },
+    {
+        "name": "Qiqihar, China - Qiqihar",
+        "code": "NDG"
+    },
+    {
+        "name": "Chizhou, China - Chizhou Jiuhuashan Airport",
+        "code": "JUH"
+    },
+    {
+        "name": "Anqing, China",
+        "code": "AQG"
+    },
+    {
+        "name": "Hami, China",
+        "code": "HMI"
+    },
+    {
+        "name": "Zhangjiakou, China - Zhangjiakou Ningyuan Airport",
+        "code": "ZQZ"
+    },
+    {
+        "name": "Guang Yuan, China - Guang Yuan Airport",
+        "code": "GYS"
+    },
+    {
+        "name": "Hengyang, China",
+        "code": "HNY"
+    },
+    {
+        "name": "Manzhouli, China - Manzhouli Airport",
+        "code": "NZH"
+    },
+    {
+        "name": "Dunhuang, China - Dunhuang",
+        "code": "DNH"
+    },
+    {
+        "name": "Tangshan, China - Tangshan Airport",
+        "code": "TVS"
+    },
+    {
+        "name": "Hanzhong, China - Hanzhong Airport",
+        "code": "HZG"
+    },
+    {
+        "name": "Yushu, China - Yushu Batang Airport",
+        "code": "YUS"
+    },
+    {
+        "name": "Anshan, China",
+        "code": "AOG"
+    },
+    {
+        "name": "An Shun, China - An Shun/Huang Guo Shu Airport",
+        "code": "AVA"
+    },
+    {
+        "name": "Daocheng, China - Daochneg Yading Airport",
+        "code": "DCY"
+    },
+    {
+        "name": "Fuoshan, China",
+        "code": "FUO"
+    },
+    {
+        "name": "Xiahe, China - Gannan Xiahe Airport",
+        "code": "GXH"
+    },
+    {
+        "name": "Qianjiang, China - Qianjiang Wulingshan Airport",
+        "code": "JIQ"
+    },
+    {
+        "name": "Golmud, China - Golmud Airport",
+        "code": "GOQ"
+    },
+    {
+        "name": "Chaoyang, China",
+        "code": "CHG"
+    },
+    {
+        "name": "Tianshui, China - Maijishan Airport",
+        "code": "THQ"
+    },
+    {
+        "name": "Heihe, China - Heihe Airport",
+        "code": "HEK"
+    },
+    {
+        "name": "Kangding, China -Kangding Airport",
+        "code": "KGT"
+    },
+    {
+        "name": "Yan'an, China - Yan'an Airport",
+        "code": "ENY"
+    },
+    {
+        "name": "Jixi, China - Jixi Airport",
+        "code": "JXA"
+    },
+    {
+        "name": "Dandong, China - Dandong",
+        "code": "DDG"
+    },
+    {
+        "name": "Jiagedaqi, China - Jiagedaqi Airport",
+        "code": "JGD"
+    },
+    {
+        "name": "Wenshan, China - Wenshan Airport",
+        "code": "WNH"
+    },
+    {
+        "name": "Weifang, China - Weifang",
+        "code": "WEF"
+    },
+    {
+        "name": "Guyuan, China - Guyuan Liupanshan Airport",
+        "code": "GYU"
+    },
+    {
+        "name": "Qingyang, China - Qingyang Airport",
+        "code": "IQN"
+    },
+    {
+        "name": "Altay, China - Altay Airport",
+        "code": "AAT"
+    },
+    {
+        "name": "Bangda, China - Bangda Airport",
+        "code": "BPX"
+    },
+    {
+        "name": "Ling Ling, China",
+        "code": "LLF"
+    },
+    {
+        "name": "Jinzhou, China - Jinzhou",
+        "code": "JNZ"
+    },
+    {
+        "name": "Liping, China - Liping Airport",
+        "code": "HZH"
+    },
+    {
+        "name": "Arxan, China - Arxan Yiershi airport",
+        "code": "YIE"
+    },
+    {
+        "name": "Zhejiang, China - Juzhou",
+        "code": "JUZ"
+    },
+    {
+        "name": "Zhongwei, China - Zhongwei Airport",
+        "code": "ZHY"
+    },
+    {
+        "name": "Jinchang, China - Jinchuan Airport",
+        "code": "JIC"
+    },
+    {
+        "name": "Mohe, China - Mohe Airport",
+        "code": "OHE"
+    },
+    {
+        "name": "Tonghua, China",
+        "code": "TNH"
+    },
+    {
+        "name": "Erenhot, China - Erenhot Saiwusu International Airport",
+        "code": "ERL"
+    },
+    {
+        "name": "Xinyuan, China - Nalati Airport",
+        "code": "NLT"
+    },
+    {
+        "name": "Yichun, China - Yichun Shi Airport",
+        "code": "LDS"
+    },
+    {
+        "name": "Libo County, China - Libo Airport",
+        "code": "LLB"
+    },
+    {
+        "name": "Baise, China - Baise Youjiang Airport",
+        "code": "AEB"
+    },
+    {
+        "name": "Longyan, China - Liancheng Airport",
+        "code": "LCX"
+    },
+    {
+        "name": "Zhijiang, China - Zhijiang Airport",
+        "code": "HJJ"
+    },
+    {
+        "name": "Ngari, China - Ngari Gunsa Airport",
+        "code": "NGQ"
+    },
+    {
+        "name": "Wuzhou, China",
+        "code": "WUZ"
+    },
+    {
+        "name": "Zhangye, China - Zhangye Southeast Air Base Airport",
+        "code": "YZY"
+    },
+    {
+        "name": "Qiemo, China - Qiemo Airport",
+        "code": "IQM"
+    },
+    {
+        "name": "Shigatse, China - Shigatse Peace Airport",
+        "code": "RKZ"
+    },
+    {
+        "name": "Tacheng, China - Tacheng Airport",
+        "code": "TCG"
+    },
+    {
+        "name": "Ankang, China - Ankang Airport",
+        "code": "AKA"
+    },
+    {
+        "name": "Bengbu, China",
+        "code": "BFU"
+    },
+    {
+        "name": "Huanghua, China - Changsha Huanghua Airport",
+        "code": "HHA"
+    },
+    {
+        "name": "Jiujiang, China - Jiujiang",
+        "code": "JIU"
+    },
+    {
+        "name": "Qinhuangdao, China - Qinhuangdao",
+        "code": "SHP"
+    },
+    {
+        "name": "Shashi, China",
+        "code": "SHS"
+    },
+    {
+        "name": "Xian, China",
+        "code": "SIA"
+    },
+    {
+        "name": "Parachinar, Pakistan - Parachinar Airport",
+        "code": "PAJ"
+    },
+    {
+        "name": "Lyudao, Taiwan, Province of China - Lyudao Airport",
+        "code": "GNI"
+    },
+    {
+        "name": "Taichung City, Taiwan, Province of China - Taichung Airport",
+        "code": "TXG"
+    },
+    {
+        "name": "Orchid Island, Taiwan, Province of China - Lanyu Airport",
+        "code": "KYD"
+    },
+    {
+        "name": "Wang-an, Taiwan, Province of China - Wang-an Airport",
+        "code": "WOT"
+    },
+    {
+        "name": "Beijing, China - Beijing Daxing International Airport",
+        "code": "PKX"
+    },
+    {
+        "name": "Xingning, China - Xingning Airport",
+        "code": "XIN"
+    },
+    {
+        "name": "Anyang, China - Anyang Airport",
+        "code": "AYN"
+    },
+    {
+        "name": "Guanghua, China - Guangzhou MR Air Base",
+        "code": "LHK"
+    },
+    {
+        "name": "Rugao, China - Rugao Air Base",
+        "code": "RUG"
+    },
+    {
+        "name": "Sanming, China - Sanming Shaxian Airport",
+        "code": "SQJ"
+    },
+    {
+        "name": "Suzhou, China - Guangfu Airport",
+        "code": "SZV"
+    },
+    {
+        "name": "Wuhu, China - Wuhu Air Base",
+        "code": "WHU"
+    },
+    {
+        "name": "Liangping, China - Liangping Airport",
+        "code": "LIA"
+    },
+    {
+        "name": "Shanshan, China - Shanshan Airport",
+        "code": "SXJ"
+    },
+    {
+        "name": "Changhai, China - Changhai Airport",
+        "code": "CNI"
+    },
+    {
+        "name": "Jilin, China - Jilin Airport",
+        "code": "JIL"
+    },
+    {
+        "name": "Liaoning, China - Xingcheng Air Base",
+        "code": "XEN"
+    },
+    {
+        "name": "Sichuan, China - Tianfu International Airport",
+        "code": "TFU"
+    }
+]

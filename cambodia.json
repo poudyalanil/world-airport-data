@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Phnom Penh, Cambodia - Pochentong",
+        "code": "PNH"
+    },
+    {
+        "name": "Siem Reap, Cambodia - Siem Reap",
+        "code": "REP"
+    },
+    {
+        "name": "Sihanoukville, Cambodia - Sihanoukville Airport",
+        "code": "KOS"
+    },
+    {
+        "name": "Svay Rieng, Cambodia",
+        "code": "SVR"
+    },
+    {
+        "name": "Battambang, Cambodia - Battambang Airport",
+        "code": "BBM"
+    },
+    {
+        "name": "Kampong-Chhnang, Cambodia - Kampong Chhnang Airport",
+        "code": "KZC"
+    },
+    {
+        "name": "Kaoh Kong, Cambodia - Kaoh Kong Airport",
+        "code": "KKZ"
+    },
+    {
+        "name": "Kratie, Cambodia - Kratie Airport",
+        "code": "KTI"
+    },
+    {
+        "name": "Ratanakiri, Cambodia - Ratanakiri Airport",
+        "code": "RBE"
+    },
+    {
+        "name": "Stung Treng, Cambodia - Stung Treng Airport",
+        "code": "TNX"
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "name": "Cravo Norte, Colombia - Cravo Norte Airport",
+        "code": "RAV"
+    },
+    {
+        "name": "Limon, Colombia - Cicuco Airport",
+        "code": "MMP"
+    },
+    {
+        "name": "Chigorodo, Colombia - Chigorodo Airport",
+        "code": "IGO"
+    },
+    {
+        "name": "Hato Corozal, Colombia - Hato Corozal Airport",
+        "code": "HTZ"
+    },
+    {
+        "name": "Chaparral, Colombia - Chaparral Airport",
+        "code": "CPL"
+    },
+    {
+        "name": "Garzon, Colombia - Garzon La Jagua Airport",
+        "code": "GLJ"
+    },
+    {
+        "name": "Cartago, Colombia - Santa Ana Airport",
+        "code": "CRC"
+    },
+    {
+        "name": "Girardot, Colombia - Santiago Vila Airport",
+        "code": "GIR"
+    },
+    {
+        "name": "Fundacion, Colombia - Fundacion Airport",
+        "code": "FDA"
+    },
+    {
+        "name": "El Bagre, Colombia - El Bagre Airport",
+        "code": "EBG"
+    },
+    {
+        "name": "Covenas, Colombia - Covenas Airport",
+        "code": "CVE"
+    },
+    {
+        "name": "Caucasia, Colombia - Juan H White Airport",
+        "code": "CAQ"
+    },
+    {
+        "name": "Caruru, Colombia - Caruru Airport",
+        "code": "CUO"
+    },
+    {
+        "name": "La Mina-Maicao, Colombia - Jorge Isaac Airport",
+        "code": "MCJ"
+    },
+    {
+        "name": "Cimitarra, Colombia - Cimitarra Airport",
+        "code": "CIM"
+    },
+    {
+        "name": "Puerto Lopez, Colombia - Carimagua Airport",
+        "code": "CCO"
+    },
+    {
+        "name": "Condoto, Colombia - Mandinga Airport",
+        "code": "COG"
+    },
+    {
+        "name": "Capurgana, Colombia - Capurgana Airport",
+        "code": "CPB"
+    },
+    {
+        "name": "El Banco, Colombia - Las Flores Airport",
+        "code": "ELB"
+    },
+    {
+        "name": "Apiay, Colombia - Gomez Nino Apiay Air Base",
+        "code": "API"
+    },
+    {
+        "name": "Andes, Colombia - Andes Airport",
+        "code": "ADN"
+    },
+    {
+        "name": "Amalfi, Colombia - Amalfi Airport",
+        "code": "AFI"
+    },
+    {
+        "name": "Acandi, Colombia - Alcides Fernandez Airport",
+        "code": "ACD"
+    },
+    {
+        "name": "San Vicente, Colombia - San Vicente Airport",
+        "code": "SVI"
+    },
+    {
+        "name": "Providencia, Colombia - Providencia",
+        "code": "PVA"
+    },
+    {
+        "name": "Paz De Ariporo, Colombia - Paz De Ariporo Airport",
+        "code": "PZA"
+    },
+    {
+        "name": "San Vicente Del Caguan, Colombia - Yaguara Airport",
+        "code": "AYG"
+    },
+    {
+        "name": "Urrao, Colombia - Urrao Airport",
+        "code": "URR"
+    },
+    {
+        "name": "Tulua, Colombia - Farfan Airport",
+        "code": "ULQ"
+    },
+    {
+        "name": "Turbo, Colombia - Gonzalo Mejia Airport",
+        "code": "TRB"
+    },
+    {
+        "name": "Tres Esquinas, Colombia - Tres Esquinas Air Base",
+        "code": "TQS"
+    },
+    {
+        "name": "Tolu, Colombia - Tolu Airport",
+        "code": "TLU"
+    },
+    {
+        "name": "Trinidad, Colombia - Trinidad Airport",
+        "code": "TDA"
+    },
+    {
+        "name": "Tibu, Colombia - Tibu Airport",
+        "code": "TIB"
+    },
+    {
+        "name": "Tauramena, Colombia - Tauramena Airport",
+        "code": "TAU"
+    },
+    {
+        "name": "Sogamoso, Colombia - Alberto Lleras Camargo Airport",
+        "code": "SOX"
+    },
+    {
+        "name": "Mariquita, Colombia - Jose Celestino Mutis Airport",
+        "code": "MQU"
+    },
+    {
+        "name": "Lamacarena, Colombia - Lamacarena Airport",
+        "code": "LMC"
+    },
+    {
+        "name": "Puerto Berrio, Colombia - Puerto Berrio Airport",
+        "code": "PBE"
+    },
+    {
+        "name": "La Dorada, Colombia - German Olano Air Base",
+        "code": "PQE"
+    },
+    {
+        "name": "Armenia, Colombia - Puerto Nare Airport",
+        "code": "NAR"
+    },
+    {
+        "name": "Plato, Colombia - Plato Airport",
+        "code": "PLT"
+    },
+    {
+        "name": "Pitalito, Colombia - Pitalito Airport",
+        "code": "PTX"
+    },
+    {
+        "name": "Orocue, Colombia - Orocue Airport",
+        "code": "ORC"
+    },
+    {
+        "name": "Ocana, Colombia - Aguas Claras Airport",
+        "code": "OCV"
+    },
+    {
+        "name": "Necocli, Colombia - Necocli Airport",
+        "code": "NCI"
+    },
+    {
+        "name": "Montelibano, Colombia - Montelibano Airport",
+        "code": "MTB"
+    },
+    {
+        "name": "Magangue, Colombia - Baracoa Airport",
+        "code": "MGN"
+    },
+    {
+        "name": "Miraflores, Colombia - Miraflores Airport",
+        "code": "MFS"
+    },
+    {
+        "name": "Quibdo, Colombia - Quibdo Airport",
+        "code": "UIB"
+    },
+    {
+        "name": "Tumaco, Colombia - La Florida Airport",
+        "code": "TCO"
+    },
+    {
+        "name": "Ibague, Colombia - Ibague",
+        "code": "IBE"
+    },
+    {
+        "name": "Florencia, Colombia - Capitolio Airport",
+        "code": "FLA"
+    },
+    {
+        "name": "Leticia, Colombia - Gen. A.V. Cobo Airport",
+        "code": "LET"
+    },
+    {
+        "name": "El Yopal, Colombia - El Yopal Airport",
+        "code": "EYP"
+    },
+    {
+        "name": "Valledupar, Colombia - Valledupar Airport",
+        "code": "VUP"
+    },
+    {
+        "name": "Apartado, Colombia - Apartado Airport",
+        "code": "APO"
+    },
+    {
+        "name": "Pasto, Colombia - Cano",
+        "code": "PSO"
+    },
+    {
+        "name": "Neiva, Colombia - La Marguita Airport",
+        "code": "NVA"
+    },
+    {
+        "name": "Manizales, Colombia - Santaguida Airport",
+        "code": "MZL"
+    },
+    {
+        "name": "Armenia, Colombia - El Eden Airport",
+        "code": "AXM"
+    },
+    {
+        "name": "Villavicencio, Colombia - La Vanguardia Airport",
+        "code": "VVC"
+    },
+    {
+        "name": "Monteria, Colombia - S. Jeronimo Airport",
+        "code": "MTR"
+    },
+    {
+        "name": "Cucuta, Colombia - Camilo Daza",
+        "code": "CUC"
+    },
+    {
+        "name": "Medellin, Colombia - Enriq Olaya Herrera",
+        "code": "EOH"
+    },
+    {
+        "name": "Pereira, Colombia - Matecana",
+        "code": "PEI"
+    },
+    {
+        "name": "Bucaramanga, Colombia - Palo Negro",
+        "code": "BGA"
+    },
+    {
+        "name": "San Andres Island, Colombia - San Andres",
+        "code": "ADZ"
+    },
+    {
+        "name": "Santa Marta, Colombia - Simon Bolivar",
+        "code": "SMR"
+    },
+    {
+        "name": "Barranquilla, Colombia - E Cortissoz Airport",
+        "code": "BAQ"
+    },
+    {
+        "name": "Cartagena, Colombia - Rafael Nunez",
+        "code": "CTG"
+    },
+    {
+        "name": "Cali, Colombia - Alfonso B. Aragon Airport",
+        "code": "CLO"
+    },
+    {
+        "name": "Medellin, Colombia - Jose Marie Cordova Airport",
+        "code": "MDE"
+    },
+    {
+        "name": "Guapi, Colombia - Guapi Airport",
+        "code": "GPI"
+    },
+    {
+        "name": "Tarapaca, Colombia - Tarapaca Airport",
+        "code": "TCD"
+    },
+    {
+        "name": "Tame, Colombia - Tame Airport",
+        "code": "TME"
+    },
+    {
+        "name": "La Pedrera, Colombia - La Pedrera Airport",
+        "code": "LPD"
+    },
+    {
+        "name": "La Chorrera, Colombia - La Chorrera Airport",
+        "code": "LCR"
+    },
+    {
+        "name": "Araracuara, Colombia - Araracuara Airport",
+        "code": "ACR"
+    },
+    {
+        "name": "Puerto Leguizamo, Colombia - Puerto Leguizamo Airport",
+        "code": "LQM"
+    },
+    {
+        "name": "Ipiales, Colombia - San Luis Airport",
+        "code": "IPI"
+    },
+    {
+        "name": "San Jose Del Gua, Colombia - San Jose Del Gua Airport",
+        "code": "SJE"
+    },
+    {
+        "name": "Mitu, Colombia - Mitu Airport",
+        "code": "MVP"
+    },
+    {
+        "name": "Buenaventura, Colombia - Buenaventura Airport",
+        "code": "BUN"
+    },
+    {
+        "name": "Saravena, Colombia - Saravena Airport",
+        "code": "RVE"
+    },
+    {
+        "name": "Bogota, Colombia - Eldorado Airport",
+        "code": "BOG"
+    },
+    {
+        "name": "Villagarzon, Colombia - Villagarzon Airport",
+        "code": "VGZ"
+    },
+    {
+        "name": "Puerto Carreno, Colombia - Puerto Carreno Airport",
+        "code": "PCR"
+    },
+    {
+        "name": "Bahia Solano, Colombia - Bahia Solano Airport",
+        "code": "BSC"
+    },
+    {
+        "name": "Corozal, Colombia - Corozal Airport",
+        "code": "CZU"
+    },
+    {
+        "name": "Puerto Inirida, Colombia - Puerto Inirida Airport",
+        "code": "PDA"
+    },
+    {
+        "name": "Nuqui, Colombia - Nuqui Airport",
+        "code": "NQU"
+    },
+    {
+        "name": "Riohacha, Colombia - Riohacha Airport",
+        "code": "RCH"
+    },
+    {
+        "name": "Arauca, Colombia - Arauca Airport",
+        "code": "AUC"
+    },
+    {
+        "name": "Puerto Asis, Colombia - Puerto Asis Airport",
+        "code": "PUU"
+    },
+    {
+        "name": "Popayan, Colombia - Machangara Airport",
+        "code": "PPN"
+    },
+    {
+        "name": "Barrancabermeja, Colombia - Variguies Airport",
+        "code": "EJA"
+    }
+]

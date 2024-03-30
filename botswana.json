@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Gaborone, Botswana - Sir Seretse Khama",
+        "code": "GBE"
+    },
+    {
+        "name": "Maun, Botswana - Maun",
+        "code": "MUB"
+    },
+    {
+        "name": "Kasane, Botswana - Kasane",
+        "code": "BBK"
+    },
+    {
+        "name": "Francistown, Botswana - Francistown",
+        "code": "FRW"
+    },
+    {
+        "name": "Ghanzi, Botswana - Ghanzi Airport",
+        "code": "GNZ"
+    },
+    {
+        "name": "Ngwaketsi, Botswana - Jwaneng Airport",
+        "code": "JWA"
+    },
+    {
+        "name": "Khwai River Lodge, Botswana - Khwai River Lodge Airport",
+        "code": "KHW"
+    },
+    {
+        "name": "Central, Botswana - Orapa Airport",
+        "code": "ORP"
+    },
+    {
+        "name": "Palapye, Botswana - Palapye Airport",
+        "code": "QPH"
+    },
+    {
+        "name": "Central, Botswana - Sua Pan Airport",
+        "code": "SXN"
+    },
+    {
+        "name": "Botswana - Selebi Phikwe Airport",
+        "code": "PKW"
+    },
+    {
+        "name": "Shakawe, Botswana - Shakawe Airport",
+        "code": "SWX"
+    },
+    {
+        "name": "Tuli Lodge, Botswana - Limpopo Valley Airport",
+        "code": "TLD"
+    },
+    {
+        "name": "Tshabong, Botswana - Tshabong Airport",
+        "code": "TBY"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Vienna, Austria - Vienna International Airport",
+        "code": "VIE"
+    },
+    {
+        "name": "Salzburg, Austria - W.A. Mozart",
+        "code": "SZG"
+    },
+    {
+        "name": "Graz, Austria - Thalerhof",
+        "code": "GRZ"
+    },
+    {
+        "name": "Innsbruck, Austria - Kranebitten",
+        "code": "INN"
+    },
+    {
+        "name": "Linz, Austria - Hoersching",
+        "code": "LNZ"
+    },
+    {
+        "name": "Klagenfurt, Austria - Klagenfurt",
+        "code": "KLU"
+    },
+    {
+        "name": "Hohenems, Austria",
+        "code": "HOH"
+    }
+]

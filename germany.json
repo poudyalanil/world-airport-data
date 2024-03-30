@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Bavaria, Germany - Oberpfaffenhofen Airport",
+        "code": "OBF"
+    },
+    {
+        "name": "Klausheide, Germany - Nordhorn-Lingen Airport",
+        "code": "ZOW"
+    },
+    {
+        "name": "Langeoog, Germany - Langeoog Airport",
+        "code": "LGO"
+    },
+    {
+        "name": "Wilhelmshaven, Germany - Wilhelmshaven-Mariensiel Airport",
+        "code": "WVN"
+    },
+    {
+        "name": "Wangerooge, Germany - Wangerooge Airport",
+        "code": "AGE"
+    },
+    {
+        "name": "Lemwerder, Germany - Lemwerder Airport",
+        "code": "XLW"
+    },
+    {
+        "name": "Baden-Wuerttemberg, Germany - Lahr Airport",
+        "code": "LHA"
+    },
+    {
+        "name": "Donaueschingen, Germany - Donaueschingen-Villingen Airport",
+        "code": "ZQL"
+    },
+    {
+        "name": "Bitburg, Germany - Bitburg Airport",
+        "code": "BBJ"
+    },
+    {
+        "name": "Ansbach, Germany - Ansbach-Petersdorf Airport",
+        "code": "QOB"
+    },
+    {
+        "name": "Bayreuth, Germany - Bayreuth Airport",
+        "code": "BYU"
+    },
+    {
+        "name": "Oschersleben, Germany - Oschersleben Airport",
+        "code": "FRF"
+    },
+    {
+        "name": "Straubing, Germany - Straubing Airport",
+        "code": "RBM"
+    },
+    {
+        "name": "Norddeich, Germany - Norden-Norddeich Airport",
+        "code": "NOD"
+    },
+    {
+        "name": "Monchengladbach, Germany - Monchengladbach Airport",
+        "code": "MGL"
+    },
+    {
+        "name": "Marl, Germany - Marl-Loemuhle Airport",
+        "code": "ZOJ"
+    },
+    {
+        "name": "Bielefeld, Germany - Bielefeld Airport",
+        "code": "BFE"
+    },
+    {
+        "name": "Bonn, Germany - Bonn-Hangelar Airport",
+        "code": "BNJ"
+    },
+    {
+        "name": "Aachen, Germany - Aachen-Merzbruck Airport",
+        "code": "AAH"
+    },
+    {
+        "name": "Neumunster, Germany - Neumunster Airport",
+        "code": "EUM"
+    },
+    {
+        "name": "Kiel, Germany - Kiel-Holtenau Airport",
+        "code": "KEL"
+    },
+    {
+        "name": "North-Rhine-Westphalia, Germany - Siegerland Airport",
+        "code": "SGE"
+    },
+    {
+        "name": "Mainz, Germany - Mainz-Finthen Airport",
+        "code": "QMZ"
+    },
+    {
+        "name": "Egelsbach, Germany - Frankfurt-Egelsbach Airport",
+        "code": "QEF"
+    },
+    {
+        "name": "Berlin, Germany - Berlin Tempelhof Airport",
+        "code": "THF"
+    },
+    {
+        "name": "North-Rhine-Westphalia, Germany - Rheine Bentlage Airport",
+        "code": "ZPQ"
+    },
+    {
+        "name": "Berlin, Germany - HBF Railway Station",
+        "code": "QPP"
+    },
+    {
+        "name": "Gutersloh, Germany - Gutersloh Airport",
+        "code": "GUT"
+    },
+    {
+        "name": "Manching, Germany - Ingolstadt Manching Airport",
+        "code": "IGS"
+    },
+    {
+        "name": "Furstenfeldbruck, Germany - Furstenfeldbruck Airport",
+        "code": "FEL"
+    },
+    {
+        "name": "Wiesbaden, Germany - Wiesbaden Army Airfield",
+        "code": "WIE"
+    },
+    {
+        "name": "Mecklenburg-Vorpommern, Germany - Neubrandenburg Airport",
+        "code": "FNB"
+    },
+    {
+        "name": "Schleswig-Holstein, Germany - Schleswig Airport",
+        "code": "WBG"
+    },
+    {
+        "name": "North-Rhine-Westphalia, Germany - Norvenich Airport",
+        "code": "QOE"
+    },
+    {
+        "name": "North-Rhine-Westphalia, Germany - Geilenkirchen Airport",
+        "code": "GKE"
+    },
+    {
+        "name": "Lower-Saxony, Germany - Nordholz Airport",
+        "code": "NDZ"
+    },
+    {
+        "name": "Hesse, Germany - Hanau Army Air Field",
+        "code": "ZNF"
+    },
+    {
+        "name": "Fritzlar, Germany - Fritzlar Airport",
+        "code": "FRZ"
+    },
+    {
+        "name": "Peenemunde, Germany - Peenemunde Airport",
+        "code": "PEF"
+    },
+    {
+        "name": "Lower-Saxony, Germany - Celle Airport",
+        "code": "ZCN"
+    },
+    {
+        "name": "Bamberg, Germany - Bamberg-Breitenau Airport",
+        "code": "ZCD"
+    },
+    {
+        "name": "Ramstein, Germany - Ramstein Air Base",
+        "code": "RMS"
+    },
+    {
+        "name": "Trier, Germany - Spangdahlem Air Base",
+        "code": "SPM"
+    },
+    {
+        "name": "Wyk auf Fohr, Germany - Wyk auf Fohr Airport",
+        "code": "OHR"
+    },
+    {
+        "name": "Sankt Peter-Ording, Germany - St. Peter-Ording Airport",
+        "code": "PSH"
+    },
+    {
+        "name": "Flensburg, Germany - Flensburg-Schaeferhaus Airport",
+        "code": "FLF"
+    },
+    {
+        "name": "Busum, Germany - Heide-Busum Airport",
+        "code": "HEI"
+    },
+    {
+        "name": "Baltrum, Germany - Baltrum Airport",
+        "code": "BMR"
+    },
+    {
+        "name": "Norderney, Germany - Norderney Airport",
+        "code": "NRD"
+    },
+    {
+        "name": "Cloppenburg, Germany - Varrelbusch Airport",
+        "code": "VAC"
+    },
+    {
+        "name": "Dresden, Germany - Dresden",
+        "code": "DRS"
+    },
+    {
+        "name": "Westerland, Germany - Westerland-Sylt",
+        "code": "GWT"
+    },
+    {
+        "name": "Rostock, Germany - Rostock",
+        "code": "RLG"
+    },
+    {
+        "name": "Memmingen, Germany",
+        "code": "FMM"
+    },
+    {
+        "name": "Paderborn, Germany - Paderborn",
+        "code": "PAD"
+    },
+    {
+        "name": "Friedrichshafen, Germany - Friedrichshafen",
+        "code": "FDH"
+    },
+    {
+        "name": "Dusseldorf, Germany - Niederrhein",
+        "code": "NRN"
+    },
+    {
+        "name": "Saarbruecken, Germany - Ensheim",
+        "code": "SCN"
+    },
+    {
+        "name": "Frankfurt, Germany - Hahn",
+        "code": "HHN"
+    },
+    {
+        "name": "Karlsruhe, Germany - Soellingen",
+        "code": "FKB"
+    },
+    {
+        "name": "Dortmund, Germany - Dortmund Wickede",
+        "code": "DTM"
+    },
+    {
+        "name": "Muenster, Germany - Muenster",
+        "code": "FMO"
+    },
+    {
+        "name": "Leipzig, Germany - Leipzig/Halle",
+        "code": "LEJ"
+    },
+    {
+        "name": "Erfurt, Germany - Erfurt",
+        "code": "ERF"
+    },
+    {
+        "name": "Bremen, Germany - Bremen",
+        "code": "BRE"
+    },
+    {
+        "name": "Nuremberg, Germany - Nuremberg",
+        "code": "NUE"
+    },
+    {
+        "name": "Hanover, Germany - Hanover",
+        "code": "HAJ"
+    },
+    {
+        "name": "Berlin, Germany - Schoenefeld Airport",
+        "code": "SXF"
+    },
+    {
+        "name": "Cologne, Germany - Konrad Adenauer",
+        "code": "CGN"
+    },
+    {
+        "name": "Stuttgart, Germany - Echterdingen Airport",
+        "code": "STR"
+    },
+    {
+        "name": "Hamburg, Germany - Hamburg",
+        "code": "HAM"
+    },
+    {
+        "name": "Berlin, Germany - Tegel Airport",
+        "code": "TXL"
+    },
+    {
+        "name": "Dusseldorf, Germany - Dusseldorf Airport",
+        "code": "DUS"
+    },
+    {
+        "name": "Berlin, Germany - All Airports",
+        "code": "BER"
+    },
+    {
+        "name": "Munich, Germany - Franz Josef Strauss Airport",
+        "code": "MUC"
+    },
+    {
+        "name": "Hamburg, Germany - Blankensee",
+        "code": "LBC"
+    },
+    {
+        "name": "Rugen, Germany - Rugen Airport",
+        "code": "GTI"
+    },
+    {
+        "name": "Cottbus, Germany - Cottbus-Drewitz Airport",
+        "code": "CBU"
+    },
+    {
+        "name": "Magdeburg, Germany - Magdeburg Airport",
+        "code": "ZMG"
+    },
+    {
+        "name": "Mecklenburg-Vorpommern, Germany - Barth Airport",
+        "code": "BBH"
+    },
+    {
+        "name": "Magdeburg, Germany - Cochstedt Airport",
+        "code": "CSO"
+    },
+    {
+        "name": "Larz, Germany - Rechlin-Larz Airport",
+        "code": "REB"
+    },
+    {
+        "name": "Schwerin, Germany",
+        "code": "SZW"
+    },
+    {
+        "name": "Saarbruecken, Germany - Zweibrucken Airport",
+        "code": "ZQW"
+    },
+    {
+        "name": "Juist, Germany",
+        "code": "JUI"
+    },
+    {
+        "name": "Hof, Germany - Hof-Pirk",
+        "code": "HOQ"
+    },
+    {
+        "name": "Helgoland, Germany - Helgoland",
+        "code": "HGL"
+    },
+    {
+        "name": "Frankfurt, Germany - Frankfurt International Airport",
+        "code": "FRA"
+    },
+    {
+        "name": "Finkenwerder, Germany",
+        "code": "XFW"
+    },
+    {
+        "name": "Essen, Germany - Essen Airport",
+        "code": "ESS"
+    },
+    {
+        "name": "Emden, Germany - Emden",
+        "code": "EME"
+    },
+    {
+        "name": "Bremerhaven, Germany - Bremerhaven",
+        "code": "BRV"
+    },
+    {
+        "name": "Braunschweig, Germany",
+        "code": "BWE"
+    },
+    {
+        "name": "Borkum, Germany - Borkum",
+        "code": "BMK"
+    },
+    {
+        "name": "Altenburg, Germany - Altenburg",
+        "code": "AOC"
+    },
+    {
+        "name": "Kassel, Germany - Kassel",
+        "code": "KSF"
+    },
+    {
+        "name": "Munich, Germany - Muehlhausen",
+        "code": "AGB"
+    },
+    {
+        "name": "Heringsdorf, Germany",
+        "code": "HDF"
+    },
+    {
+        "name": "Mannheim, Germany - Neuostheim",
+        "code": "MHG"
+    }
+]

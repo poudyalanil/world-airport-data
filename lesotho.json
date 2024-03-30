@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Maseru, Lesotho - Moshoeshoe Intl",
+        "code": "MSU"
+    },
+    {
+        "name": "Lebakeng, Lesotho - Lebakeng Airport",
+        "code": "LEF"
+    },
+    {
+        "name": "Leribe, Lesotho - Leribe Airport",
+        "code": "LRB"
+    },
+    {
+        "name": "Lesobeng, Lesotho - Lesobeng Airport",
+        "code": "LES"
+    },
+    {
+        "name": "Mafeteng, Lesotho - Mafeteng Airport",
+        "code": "MFC"
+    },
+    {
+        "name": "Mokhotlong, Lesotho - Mokhotlong Airport",
+        "code": "MKH"
+    },
+    {
+        "name": "Nkaus, Lesotho - Nkaus Airport",
+        "code": "NKU"
+    },
+    {
+        "name": "Pelaneng, Lesotho - Pelaneng Airport",
+        "code": "PEL"
+    },
+    {
+        "name": "Quthing, Lesotho - Quthing Airport",
+        "code": "UTG"
+    },
+    {
+        "name": "Qacha's Nek, Lesotho - Qacha's Nek Airport",
+        "code": "UNE"
+    },
+    {
+        "name": "Sehonghong, Lesotho - Sehonghong Airport",
+        "code": "SHK"
+    },
+    {
+        "name": "Sekakes, Lesotho - Sekakes Airport",
+        "code": "SKQ"
+    },
+    {
+        "name": "Semonkong, Lesotho - Semonkong Airport",
+        "code": "SOK"
+    },
+    {
+        "name": "Seshutes, Lesotho - Seshutes Airport",
+        "code": "SHZ"
+    },
+    {
+        "name": "Thaba-Tseka, Lesotho - Thaba-Tseka Airport",
+        "code": "THB"
+    },
+    {
+        "name": "Tlokoeng, Lesotho - Tlokoeng Airport",
+        "code": "TKO"
+    }
+]

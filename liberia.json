@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Liberia, Costa Rica - Daniel Oduber Quiros",
+        "code": "LIR"
+    },
+    {
+        "name": "Monrovia, Liberia - Roberts Intl",
+        "code": "ROB"
+    },
+    {
+        "name": "Monrovia, Liberia",
+        "code": "MLW"
+    },
+    {
+        "name": "Buchanan, Liberia - Buchanan Airport",
+        "code": "UCN"
+    },
+    {
+        "name": "Harper, Liberia - Cape Palmas Airport",
+        "code": "CPA"
+    },
+    {
+        "name": "Greenville, Liberia - Greenville Sinoe Airport",
+        "code": "SNI"
+    },
+    {
+        "name": "Nimba, Liberia - Nimba Airport",
+        "code": "NIA"
+    },
+    {
+        "name": "Sasstown, Liberia - Sasstown Airport",
+        "code": "SAZ"
+    },
+    {
+        "name": "Tchien, Liberia - Tchien Airport",
+        "code": "THC"
+    },
+    {
+        "name": "Voinjama, Liberia - Voinjama Airport",
+        "code": "VOI"
+    }
+]

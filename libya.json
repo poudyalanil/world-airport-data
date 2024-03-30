@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mitiga, Tripoli, Libya - Mitiga, Tripoli Airport",
+        "code": "MJI"
+    },
+    {
+        "name": "Beida, Libya - La Braq Airport",
+        "code": "LAQ"
+    },
+    {
+        "name": "Tripoli, Libya - Tripoli Intl",
+        "code": "TIP"
+    },
+    {
+        "name": "Misurata, Libya - Misurata Airport",
+        "code": "MRA"
+    },
+    {
+        "name": "Tobruk, Libyan Arab Jamahiriya",
+        "code": "TOB"
+    },
+    {
+        "name": "Benghazi, Libya - Benina",
+        "code": "BEN"
+    },
+    {
+        "name": "Kufrah, Libya - Kufrah Airport",
+        "code": "AKF"
+    },
+    {
+        "name": "Ghat, Libyan Arab Jamahiriya",
+        "code": "GHT"
+    },
+    {
+        "name": "Ghadames, Libyan Arab Jamahiriya",
+        "code": "LTD"
+    },
+    {
+        "name": "Sebha, Libya - Sebha Airport",
+        "code": "SEB"
+    },
+    {
+        "name": "Ubari, Libyan Arab Jamahiriya",
+        "code": "QUB"
+    },
+    {
+        "name": "Sirt, Libya - Gardabya Airport",
+        "code": "SRX"
+    },
+    {
+        "name": "Libya - Marsa Brega Airport",
+        "code": "LMQ"
+    },
+    {
+        "name": "Libya - Hon Airport",
+        "code": "HUQ"
+    },
+    {
+        "name": "Zuwara, Libya - Zwara Airport",
+        "code": "WAX"
+    }
+]

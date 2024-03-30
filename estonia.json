@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tallinn, Estonia - Ulemiste Airport",
+        "code": "TLL"
+    },
+    {
+        "name": "Tartu, Estonia",
+        "code": "TAY"
+    },
+    {
+        "name": "Kardla, Estonia - Kardla Airport",
+        "code": "KDL"
+    },
+    {
+        "name": "Kuressaare, Estonia - Kuressaare Airport",
+        "code": "URE"
+    },
+    {
+        "name": "Parnu, Estonia",
+        "code": "EPU"
+    }
+]

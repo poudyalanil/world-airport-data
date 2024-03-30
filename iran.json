@@ -1,0 +1,274 @@
+[
+    {
+        "name": "Gachsaran, Iran, Islamic Rep. of",
+        "code": "GCH"
+    },
+    {
+        "name": "Zabol, Iran - Zabol Airport",
+        "code": "ACZ"
+    },
+    {
+        "name": "Tabas, Iran, Islamic Rep. of",
+        "code": "TCX"
+    },
+    {
+        "name": "Sirri Island, Iran, Islamic Rep. of",
+        "code": "SXI"
+    },
+    {
+        "name": "Shahre-Kord, Iran - Shahre-Kord Airport",
+        "code": "CQD"
+    },
+    {
+        "name": "Sahand, Iran - Sahand Airport",
+        "code": "ACP"
+    },
+    {
+        "name": "Parsabad, Iran - Parsabad Airport",
+        "code": "PFQ"
+    },
+    {
+        "name": "Maintirano, Madagascar - Maintirano Airport",
+        "code": "MXT"
+    },
+    {
+        "name": "Khoy, Iran - Khoy Airport",
+        "code": "KHY"
+    },
+    {
+        "name": "Omidiyeh, Iran - Omidiyeh Airport",
+        "code": "OMI"
+    },
+    {
+        "name": "Bandar Mahshahr, Iran - Mahshahr Airport",
+        "code": "MRX"
+    },
+    {
+        "name": "Bam, Iran - Bam Airport",
+        "code": "BXR"
+    },
+    {
+        "name": "Abu Musa, Iran, Islamic Rep. of",
+        "code": "AEU"
+    },
+    {
+        "name": "Khorramabad, Iran - Khorramabad Airport",
+        "code": "KHD"
+    },
+    {
+        "name": "Sanandaj, Iran - Sanandaj Airport",
+        "code": "SDG"
+    },
+    {
+        "name": "Sabzevar, Iran - Sabzevar Airport",
+        "code": "AFZ"
+    },
+    {
+        "name": "Now Shahr, Iran - Now Shahr Airport",
+        "code": "NSH"
+    },
+    {
+        "name": "Havadarya, Iran - Havadarya Airport",
+        "code": "HDR"
+    },
+    {
+        "name": "Santo Antonio Do Ica, Brazil - Ipiranga Airport",
+        "code": "IPG"
+    },
+    {
+        "name": "Fasa, Iran - Fasa Airport",
+        "code": "FAZ"
+    },
+    {
+        "name": "Amol, Iran - Bishe Kola Air Base",
+        "code": "BSM"
+    },
+    {
+        "name": "Babolsar, Iran - Babolsar Airport",
+        "code": "BBL"
+    },
+    {
+        "name": "Semnan, Iran - Shahroud Airport",
+        "code": "RUD"
+    },
+    {
+        "name": "Sarakhs, Iran - Sarakhs Airport",
+        "code": "CKT"
+    },
+    {
+        "name": "Kerman, Iran - Sirjan Airport",
+        "code": "SYJ"
+    },
+    {
+        "name": "Kerman, Iran - Rafsanjan Airport",
+        "code": "RJN"
+    },
+    {
+        "name": "Bojnord, Iran - Bojnord Airport",
+        "code": "BJB"
+    },
+    {
+        "name": "Araak, Iran - Arak Airport",
+        "code": "AJK"
+    },
+    {
+        "name": "Hesa, Iran - Hesa Airport",
+        "code": "IFH"
+    },
+    {
+        "name": "Hormozgan, Iran - Lavan Island Airport",
+        "code": "LVP"
+    },
+    {
+        "name": "Bushehr, Iran - Khark Island Airport",
+        "code": "KHK"
+    },
+    {
+        "name": "Asalouyeh, Iran - Persian Gulf International Airport",
+        "code": "YEH"
+    },
+    {
+        "name": "Kangan, Iran - Jam Airport",
+        "code": "KNR"
+    },
+    {
+        "name": "Asaloyeh, Iran - Asaloyeh Airport",
+        "code": "AOY"
+    },
+    {
+        "name": "Bandar Abbas, Iran - Bandar Abbas Airport",
+        "code": "BND"
+    },
+    {
+        "name": "Rasht, Iran - Rasht Airport",
+        "code": "RAS"
+    },
+    {
+        "name": "Kermanshah, Iran - Kermanshah Airport",
+        "code": "KSH"
+    },
+    {
+        "name": "Bushehr, Iran - Persian Gulf Airport",
+        "code": "PGU"
+    },
+    {
+        "name": "Zahedan, Iran - Zahedan Airport",
+        "code": "ZAH"
+    },
+    {
+        "name": "Abadan, Iran - Abadan Airport",
+        "code": "ABD"
+    },
+    {
+        "name": "Urmieh, Iran - Umieh Airport",
+        "code": "OMH"
+    },
+    {
+        "name": "Kish Island, Iran - Kish Island Airport",
+        "code": "KIH"
+    },
+    {
+        "name": "Yazd, Iran - Yazd Airport",
+        "code": "AZD"
+    },
+    {
+        "name": "Sary, Iran - Dashte Naz Airport",
+        "code": "SRY"
+    },
+    {
+        "name": "Isfahan, Iran - Isfahan",
+        "code": "IFN"
+    },
+    {
+        "name": "Ahwaz, Iran - Ahwaz Airport",
+        "code": "AWZ"
+    },
+    {
+        "name": "Tabriz, Iran - Tabriz Airport",
+        "code": "TBZ"
+    },
+    {
+        "name": "Shiraz, Iran - Shiraz Airport",
+        "code": "SYZ"
+    },
+    {
+        "name": "Tirana, Albania - Rinas",
+        "code": "TIA"
+    },
+    {
+        "name": "Mashad, Iran - Mashad Airport",
+        "code": "MHD"
+    },
+    {
+        "name": "Tehran, Iran - Imam Khomeini International Airport",
+        "code": "IKA"
+    },
+    {
+        "name": "Ilaam, Iran - Ilaam Airport",
+        "code": "IIL"
+    },
+    {
+        "name": "Bandar Lengeh, Iran - Bandar Lengeh Airport",
+        "code": "BDH"
+    },
+    {
+        "name": "Kerman, Iran - Kerman Airport",
+        "code": "KER"
+    },
+    {
+        "name": "Lamerd, Iran - Lamerd Airport",
+        "code": "LFM"
+    },
+    {
+        "name": "Hamadan, Iran - Hamadan Airport",
+        "code": "HDM"
+    },
+    {
+        "name": "Yasouj, Iran - Yasouj Airport",
+        "code": "YES"
+    },
+    {
+        "name": "Ramsar, Iran - Ramsar Airport",
+        "code": "RZR"
+    },
+    {
+        "name": "Birjand, Iran - Birjand Airport",
+        "code": "XBJ"
+    },
+    {
+        "name": "Gheshm, Iran - Gheshm Airport",
+        "code": "GSM"
+    },
+    {
+        "name": "Tehran, Iran - Mehrabad",
+        "code": "THR"
+    },
+    {
+        "name": "Dezful, Iran, Islamic Rep. of",
+        "code": "DEF"
+    },
+    {
+        "name": "Gorgon, Iran - Gorgon Airport",
+        "code": "GBT"
+    },
+    {
+        "name": "Lar, Iran - Lar Airport",
+        "code": "LRR"
+    },
+    {
+        "name": "Bushehr, Iran - Bushehr Airport",
+        "code": "BUZ"
+    },
+    {
+        "name": "Chah-Bahar, Iran - Chah-Bahar Airport",
+        "code": "ZBR"
+    },
+    {
+        "name": "Antsiranana, Madagascar - Antsiranana/Arrachart Airport",
+        "code": "DIE"
+    },
+    {
+        "name": "Ardabil, Iran - Ardabil Airport",
+        "code": "ADU"
+    }
+]

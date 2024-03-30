@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Siwa, Egypt - Siwa Oasis North Airport",
+        "code": "SEW"
+    },
+    {
+        "name": "South-Sinai, Egypt - El Tor Airport",
+        "code": "ELT"
+    },
+    {
+        "name": "Giza, Egypt - Sphinx International Airport",
+        "code": "SPX"
+    },
+    {
+        "name": "South-Sinai, Egypt - St Catherine International Airport",
+        "code": "SKV"
+    },
+    {
+        "name": "Port Said, Egypt - Port Said Airport",
+        "code": "PSD"
+    },
+    {
+        "name": "New-Valley, Egypt - Shark El Oweinat International Airport",
+        "code": "GSQ"
+    },
+    {
+        "name": "Sohag, Egypt - Sohag International Airport",
+        "code": "HMB"
+    },
+    {
+        "name": "New-Valley, Egypt - El Kharga Airport",
+        "code": "UVL"
+    },
+    {
+        "name": "North-Sinai, Egypt - El Gora Airport",
+        "code": "EGH"
+    },
+    {
+        "name": "New-Valley, Egypt - Dakhla Airport",
+        "code": "DAK"
+    },
+    {
+        "name": "El Cairo, Egypt - Cairo West Airport",
+        "code": "CWE"
+    },
+    {
+        "name": "Alexandria, Egypt - El Nouzha Airport",
+        "code": "ALY"
+    },
+    {
+        "name": "El Alamein, Egypt - El Alamein International Airport",
+        "code": "DBB"
+    },
+    {
+        "name": "Cairo, Egypt - Cairo Intl",
+        "code": "CAI"
+    },
+    {
+        "name": "Taba, Egypt",
+        "code": "TCP"
+    },
+    {
+        "name": "Mersa Matruh, Egypt",
+        "code": "MUH"
+    },
+    {
+        "name": "El Arish, Egypt - Al Arish",
+        "code": "AAC"
+    },
+    {
+        "name": "Abu Simbel, Egypt - Abu Simbel Airport",
+        "code": "ABS"
+    },
+    {
+        "name": "Assiut, Egypt - Assiut Airport",
+        "code": "ATZ"
+    },
+    {
+        "name": "Marsa Alam, Egypt - Marsa Alam",
+        "code": "RMF"
+    },
+    {
+        "name": "Luxor, Egypt - Luxor",
+        "code": "LXR"
+    },
+    {
+        "name": "Aswan, Egypt - Aswan-Daraw",
+        "code": "ASW"
+    },
+    {
+        "name": "Sharm el Sheikh, Egypt - Sharm el Sheikh Intl",
+        "code": "SSH"
+    },
+    {
+        "name": "Hurghada, Egypt - Hurghada",
+        "code": "HRG"
+    },
+    {
+        "name": "Alexandria, Egypt - Borg El Arab Airport",
+        "code": "HBE"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Riga, Latvia - Riga Airport",
+        "code": "RIX"
+    },
+    {
+        "name": "Daugavpils, Latvia - Daugavpils Intrenational Airport",
+        "code": "DGP"
+    },
+    {
+        "name": "Liepaja, Latvia - Liepaja International Airport",
+        "code": "LPX"
+    },
+    {
+        "name": "Ventspils, Latvia - Ventspils International Airport",
+        "code": "VNT"
+    }
+]

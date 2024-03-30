@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Vilnius, Lithuania - Vilnius Airport",
+        "code": "VNO"
+    },
+    {
+        "name": "Kaunas, Lithuania - Kaunas",
+        "code": "KUN"
+    },
+    {
+        "name": "Palanga, Lithuania - Klaipeda/Palanga Int",
+        "code": "PLQ"
+    },
+    {
+        "name": "Klaipeda, Lithuania - Klaipeda Airport",
+        "code": "KLJ"
+    },
+    {
+        "name": "Panevezys, Lithuania - Panevezys Air Base",
+        "code": "PNV"
+    },
+    {
+        "name": "Siauliai, Lithuania - Siauliai International Airport",
+        "code": "SQQ"
+    },
+    {
+        "name": "Barysiai, Lithuania - Barysiai Airport",
+        "code": "HLJ"
+    }
+]

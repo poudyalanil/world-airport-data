@@ -1,0 +1,662 @@
+[
+    {
+        "name": "Paris, France - All Airports",
+        "code": "PAR"
+    },
+    {
+        "name": "Paris, France - Charles De Gaulle Airport",
+        "code": "CDG"
+    },
+    {
+        "name": "Paris, France - Orly Field",
+        "code": "ORY"
+    },
+    {
+        "name": "Nice, France - Cote DAzur Airport",
+        "code": "NCE"
+    },
+    {
+        "name": "Lyon, France - Lyon Satolas Airport",
+        "code": "LYS"
+    },
+    {
+        "name": "Toulouse, France - Blagnac Airport",
+        "code": "TLS"
+    },
+    {
+        "name": "Marseille, France - Marseille Airport",
+        "code": "MRS"
+    },
+    {
+        "name": "Bordeaux, France - Bordeaux",
+        "code": "BOD"
+    },
+    {
+        "name": "Nantes, France - Nantes Atlantique",
+        "code": "NTE"
+    },
+    {
+        "name": "Montpellier, France - Mediterranee",
+        "code": "MPL"
+    },
+    {
+        "name": "Fort de France, Martinique - Lamentin",
+        "code": "FDF"
+    },
+    {
+        "name": "Strasbourg, France - Entzheim Airport",
+        "code": "SXB"
+    },
+    {
+        "name": "Lille, France - Lesquin",
+        "code": "LIL"
+    },
+    {
+        "name": "Ajaccio, France - Campo Dell Oro",
+        "code": "AJA"
+    },
+    {
+        "name": "Biarritz, France - Biarritz/Parme",
+        "code": "BIQ"
+    },
+    {
+        "name": "Paris, France/Beauvais-Tille Airport",
+        "code": "BVA"
+    },
+    {
+        "name": "Rennes, France - St Jacques",
+        "code": "RNS"
+    },
+    {
+        "name": "Bastia, France - Poretta",
+        "code": "BIA"
+    },
+    {
+        "name": "Brest, France - Guipavas",
+        "code": "BES"
+    },
+    {
+        "name": "Pau, France - Uzein",
+        "code": "PUF"
+    },
+    {
+        "name": "Clermont-Ferrand, France - Aulnat",
+        "code": "CFE"
+    },
+    {
+        "name": "Figari, France - Sud Corse",
+        "code": "FSC"
+    },
+    {
+        "name": "Mayotte, France - Dzaoudzi Airport",
+        "code": "DZA"
+    },
+    {
+        "name": "Toulon, France - Hyeres",
+        "code": "TLN"
+    },
+    {
+        "name": "Perpignan, France - Rivesaltes",
+        "code": "PGF"
+    },
+    {
+        "name": "Calvi, France - Ste Catherine",
+        "code": "CLY"
+    },
+    {
+        "name": "Mulhouse, France - Mulhouse EuroAirport",
+        "code": "MLH"
+    },
+    {
+        "name": "Metz/Nancy, France - Metz-Nancy-Lorraine Airport",
+        "code": "ETZ"
+    },
+    {
+        "name": "Lorient, France - Lann Bihoue",
+        "code": "LRT"
+    },
+    {
+        "name": "Caen, France - Carpiquet",
+        "code": "CFR"
+    },
+    {
+        "name": "Limoges, France - Bellegarde",
+        "code": "LIG"
+    },
+    {
+        "name": "Lourdes, France - Tarbes Ossun Lourdes",
+        "code": "LDE"
+    },
+    {
+        "name": "Bergerac, France - Roumaniere",
+        "code": "EGC"
+    },
+    {
+        "name": "La Rochelle, France - Laleu",
+        "code": "LRH"
+    },
+    {
+        "name": "Poitiers, France - Biard",
+        "code": "PIS"
+    },
+    {
+        "name": "Quimper, France - Pluguffan",
+        "code": "UIP"
+    },
+    {
+        "name": "Rodez, France - Marcillac",
+        "code": "RDZ"
+    },
+    {
+        "name": "Fort Frances, Canada - Fort Frances Mncpl",
+        "code": "YAG"
+    },
+    {
+        "name": "Carcassonne, France - Salvaza",
+        "code": "CCF"
+    },
+    {
+        "name": "Brive-la-Gaillarde, France - Laroche",
+        "code": "BVE"
+    },
+    {
+        "name": "St Geoirs, France - Grenoble-Isere",
+        "code": "GNB"
+    },
+    {
+        "name": "Castres, France - Mazamet",
+        "code": "DCM"
+    },
+    {
+        "name": "Agen, France",
+        "code": "AGF"
+    },
+    {
+        "name": "Beziers, France - Beziers Vias",
+        "code": "BZR"
+    },
+    {
+        "name": "Lannion, France - Servel",
+        "code": "LAI"
+    },
+    {
+        "name": "Aurillac, France - Tronquieres",
+        "code": "AUR"
+    },
+    {
+        "name": "Nimes, France - Garons",
+        "code": "FNI"
+    },
+    {
+        "name": "Saint Nazaire, France",
+        "code": "SNR"
+    },
+    {
+        "name": "Franceville, Gabon - Franceville/Mvengue",
+        "code": "MVB"
+    },
+    {
+        "name": "Dinard, France - Pleurtuit",
+        "code": "DNR"
+    },
+    {
+        "name": "Chalons Sur Marne, France",
+        "code": "XCR"
+    },
+    {
+        "name": "Tours, France - St Symphorien",
+        "code": "TUF"
+    },
+    {
+        "name": "Deauville, France - Saint Gatien",
+        "code": "DOL"
+    },
+    {
+        "name": "Chambery, France - Chambery",
+        "code": "CMF"
+    },
+    {
+        "name": "St Etienne, France - Boutheon",
+        "code": "EBU"
+    },
+    {
+        "name": "Le Puy-en-Velay, France - Loudes",
+        "code": "LPY"
+    },
+    {
+        "name": "Perigueux, France",
+        "code": "PGX"
+    },
+    {
+        "name": "Dole, France",
+        "code": "DLE"
+    },
+    {
+        "name": "Avignon, France - Avignon/Caumont",
+        "code": "AVN"
+    },
+    {
+        "name": "Le Touquet, France - Le Touquet",
+        "code": "LTQ"
+    },
+    {
+        "name": "Chateauroux, France",
+        "code": "CHR"
+    },
+    {
+        "name": "Epinal, France",
+        "code": "EPL"
+    },
+    {
+        "name": "Rouen, France - Boos",
+        "code": "URO"
+    },
+    {
+        "name": "Angouleme, France - Brie Champniers",
+        "code": "ANG"
+    },
+    {
+        "name": "Annecy, France - Annecy-Meythet",
+        "code": "NCY"
+    },
+    {
+        "name": "Cherbourg, France - Maupertus",
+        "code": "CER"
+    },
+    {
+        "name": "Dijon, France",
+        "code": "DIJ"
+    },
+    {
+        "name": "Le Havre, France - Octeville",
+        "code": "LEH"
+    },
+    {
+        "name": "Les Milles, France - Aix-en-Provence Aerodrome",
+        "code": "QXB"
+    },
+    {
+        "name": "Morlaix, France",
+        "code": "MXN"
+    },
+    {
+        "name": "Pontoise, France",
+        "code": "POX"
+    },
+    {
+        "name": "Saint-Servan, France - Saint-Servan Airport",
+        "code": "XSB"
+    },
+    {
+        "name": "St Tropez, France - La Mole",
+        "code": "LTT"
+    },
+    {
+        "name": "Dieppe, France - St Aubin Airport",
+        "code": "DPE"
+    },
+    {
+        "name": "Marck, France - Calais-Dunkerque Airport",
+        "code": "CQF"
+    },
+    {
+        "name": "Compiegne, France - Compiegne Margny Airport",
+        "code": "XCP"
+    },
+    {
+        "name": "Laon-Chambry, France - Laon - Chambry Airport",
+        "code": "XLN"
+    },
+    {
+        "name": "Peronne/Saint-Quentin, France - Peronne-Saint-Quentin Airport",
+        "code": "XSJ"
+    },
+    {
+        "name": "Les Moeres, France - Dunkerque Les Moeres Airport",
+        "code": "XDK"
+    },
+    {
+        "name": "Albert/Bray, France - Albert-Bray Airport",
+        "code": "BYF"
+    },
+    {
+        "name": "Valenciennes/Denain, France - Valenciennes-Denain Airport",
+        "code": "XVS"
+    },
+    {
+        "name": "Amiens/Glisy, France - Amiens-Glisy Airport",
+        "code": "QAM"
+    },
+    {
+        "name": "Cognac/Chateaubernard, France - Cognac-Chateaubernard (BA 709) Air Base",
+        "code": "CNG"
+    },
+    {
+        "name": "Montlucon/Gueret, France - Montlucon-Gueret Airport",
+        "code": "MCU"
+    },
+    {
+        "name": "Mont-de-Marsan, France - Mont-de-Marsan (BA 118) Air Base",
+        "code": "XMJ"
+    },
+    {
+        "name": "Niort/Souche, France - Niort-Souche Airport",
+        "code": "NIT"
+    },
+    {
+        "name": "Perigueux, France - Dax Seyresse Airport",
+        "code": "XDA"
+    },
+    {
+        "name": "Biarritz, France - Chatellerault Airport",
+        "code": "XCX"
+    },
+    {
+        "name": "Cahors/Lalbenque, France - Cahors-Lalbenque Airport",
+        "code": "ZAO"
+    },
+    {
+        "name": "Cahors, France - Gueret St Laurent Airport",
+        "code": "XGT"
+    },
+    {
+        "name": "Arcachon/La Teste-de-Buch, France - Arcachon-La Teste-de-Buch Airport",
+        "code": "XAC"
+    },
+    {
+        "name": "Albi/Le Sequestre, France - Albi-Le Sequestre Airport",
+        "code": "LBI"
+    },
+    {
+        "name": "Royan/Medis, France - Royan-Medis Airport",
+        "code": "RYN"
+    },
+    {
+        "name": "Montauban, France - Montauban Airport",
+        "code": "XMW"
+    },
+    {
+        "name": "Libourne/Artigues-de-Lussac, France - Libourne-Artigues-de-Lussac Airport",
+        "code": "XLR"
+    },
+    {
+        "name": "Rochefort/Saint-Agnant, France - Rochefort-Saint-Agnant (BA 721) Airport",
+        "code": "RCO"
+    },
+    {
+        "name": "Rochefort, France - Sarlat Domme Airport",
+        "code": "XSL"
+    },
+    {
+        "name": "Rochefort, France - Tarbes Laloubere Airport",
+        "code": "XTB"
+    },
+    {
+        "name": "Ile d'Yeu, France - Ile d'Yeu Airport",
+        "code": "IDY"
+    },
+    {
+        "name": "Colmar/Houssen, France - Colmar-Houssen Airport",
+        "code": "CMR"
+    },
+    {
+        "name": "Beaune/Challanges, France - Beaune-Challanges Airport",
+        "code": "XBV"
+    },
+    {
+        "name": "Verdun/Le Rozelier, France - Verdun-Le Rozelier Airport",
+        "code": "XVN"
+    },
+    {
+        "name": "Verdun, France - Megeve Airport",
+        "code": "MVV"
+    },
+    {
+        "name": "Aubenas/Ardeche Meridional, France - Aubenas-Ardeche Meridional Airport",
+        "code": "OBS"
+    },
+    {
+        "name": "Bourg, France - L'alpe D'huez Airport",
+        "code": "AHZ"
+    },
+    {
+        "name": "Angers/Marce, France - Angers-Loire Airport",
+        "code": "ANE"
+    },
+    {
+        "name": "Angers, France - Albertville Airport",
+        "code": "XAV"
+    },
+    {
+        "name": "Propriano, France - Propriano Airport",
+        "code": "PRP"
+    },
+    {
+        "name": "Solenzara, France - Solenzara (BA 126) Air Base",
+        "code": "SOZ"
+    },
+    {
+        "name": "Ajaccio, France - Meribel Airport",
+        "code": "MFX"
+    },
+    {
+        "name": "Auxerre/Branches, France - Auxerre-Branches Airport",
+        "code": "AUF"
+    },
+    {
+        "name": "Bourges, France - Bourges Airport",
+        "code": "BOU"
+    },
+    {
+        "name": "Annemasse, France - Annemasse Airport",
+        "code": "QNJ"
+    },
+    {
+        "name": "Courcheval, France - Courchevel Airport",
+        "code": "CVF"
+    },
+    {
+        "name": "Macon/Charnay, France - Macon-Charnay Airport",
+        "code": "QNX"
+    },
+    {
+        "name": "Saint-Yan, France - Saint-Yan Airport",
+        "code": "SYT"
+    },
+    {
+        "name": "Roanne/Renaison, France - Roanne-Renaison Airport",
+        "code": "RNE"
+    },
+    {
+        "name": "Annecy, France - Montelimar - Ancone Airport",
+        "code": "XMK"
+    },
+    {
+        "name": "Valence/Chabeuil, France - Valence-Chabeuil Airport",
+        "code": "VAF"
+    },
+    {
+        "name": "Vichy/Charmeil, France - Vichy-Charmeil Airport",
+        "code": "VHY"
+    },
+    {
+        "name": "Lyon/Bron, France - Lyon-Bron Airport",
+        "code": "LYN"
+    },
+    {
+        "name": "Cannes/Mandelieu, France - Cannes-Mandelieu Airport",
+        "code": "CEQ"
+    },
+    {
+        "name": "Istres/Le Tube, France - Istres Le Tube/Istres Air Base (BA 125) Airport",
+        "code": "QIE"
+    },
+    {
+        "name": "Orange/Caritat, France - Orange-Caritat (BA 115) Air Base",
+        "code": "XOG"
+    },
+    {
+        "name": "Le Castellet, France - Le Castellet Airport",
+        "code": "CTT"
+    },
+    {
+        "name": "Le Castellet, France - Barcelonnette - Saint-Pons Airport",
+        "code": "BAE"
+    },
+    {
+        "name": "Ales/Deaux, France - Ales-Deaux Airport",
+        "code": "XAS"
+    },
+    {
+        "name": "Avignon, France - Gap - Tallard Airport",
+        "code": "GAT"
+    },
+    {
+        "name": "Mende/Brenoux, France - Mende-Brenoux Airport",
+        "code": "MEN"
+    },
+    {
+        "name": "Mende, France - Mont-Dauphin - St-Crepin Airport",
+        "code": "SCP"
+    },
+    {
+        "name": "Saumur/Saint-Florent, France - Saumur-Saint-Florent Airport",
+        "code": "XSU"
+    },
+    {
+        "name": "Evreux/Fauville, France - Evreux-Fauville (BA 105) Air Base",
+        "code": "EVX"
+    },
+    {
+        "name": "Evreux, France - Alencon Valframbert Airport",
+        "code": "XAN"
+    },
+    {
+        "name": "Abbeville (Buigny/Saint-Maclou), France - Abbeville-Buigny-Saint-Maclou Airport",
+        "code": "XAB"
+    },
+    {
+        "name": "Orleans/Bricy, France - Orleans-Bricy (BA 123) Air Base",
+        "code": "ORE"
+    },
+    {
+        "name": "Les Sables-d'Olonne, France - Les Sables-d'Olonne Talmont Airport",
+        "code": "LSO"
+    },
+    {
+        "name": "Blois/Le Breuil, France - Blois-Le Breuil Airport",
+        "code": "XBQ"
+    },
+    {
+        "name": "Blois, France - Chartres Champhol Airport",
+        "code": "QTJ"
+    },
+    {
+        "name": "Cholet/Le Pontreau, France - Cholet Le Pontreau Airport",
+        "code": "CET"
+    },
+    {
+        "name": "Laval/Entrammes, France - Laval-Entrammes Airport",
+        "code": "LVA"
+    },
+    {
+        "name": "Paris, France - Paris-Le Bourget Airport",
+        "code": "LBG"
+    },
+    {
+        "name": "Creil, France - Creil Air Base",
+        "code": "CSF"
+    },
+    {
+        "name": "Toussus-le-Noble, France - Toussus-le-Noble Airport",
+        "code": "TNF"
+    },
+    {
+        "name": "Villacoublay/Velizy, France - Villacoublay-Velizy (BA 107) Air Base",
+        "code": "VIY"
+    },
+    {
+        "name": "Troyes/Barberey, France - Troyes-Barberey Airport",
+        "code": "QYR"
+    },
+    {
+        "name": "Nevers/Fourchambault, France - Nevers-Fourchambault Airport",
+        "code": "NVS"
+    },
+    {
+        "name": "Cambrai/Epinoy, France - Cambrai-Epinoy (BA 103) Air Base",
+        "code": "XCB"
+    },
+    {
+        "name": "Maubeuge/Elesmes, France - Maubeuge-Elesmes Airport",
+        "code": "XME"
+    },
+    {
+        "name": "Merville/Calonne, France - Merville-Calonne Airport",
+        "code": "HZB"
+    },
+    {
+        "name": "Charleville-Mezieres, France - Charleville-Mezieres Airport",
+        "code": "XCZ"
+    },
+    {
+        "name": "Vesoul/Frotey, France - Vesoul-Frotey Airport",
+        "code": "XVO"
+    },
+    {
+        "name": "La Baule-Escoublac, France - La Baule-Escoublac Airport",
+        "code": "LBY"
+    },
+    {
+        "name": "Granville, France - Granville Airport",
+        "code": "GFR"
+    },
+    {
+        "name": "La Roche-sur-Yon/Les Ajoncs, France - La Roche-sur-Yon Airport",
+        "code": "EDM"
+    },
+    {
+        "name": "Landivisiau, France - Landivisiau Air Base",
+        "code": "LDV"
+    },
+    {
+        "name": "Le Mans/Arnage, France - Le Mans-Arnage Airport",
+        "code": "LME"
+    },
+    {
+        "name": "Saint-Brieuc/Armor, France - Saint-Brieuc-Armor Airport",
+        "code": "SBK"
+    },
+    {
+        "name": "Vannes/Meucon, France - Vannes-Meucon Airport",
+        "code": "VNE"
+    },
+    {
+        "name": "St Nazaire, France - Besancon Thise Airport",
+        "code": "QBQ"
+    },
+    {
+        "name": "Metz/Frescaty, France - Metz-Frescaty (BA 128) Air Base",
+        "code": "MZM"
+    },
+    {
+        "name": "Montbeliard/Courcelles, France - Montbeliard-Courcelles Airport",
+        "code": "XMF"
+    },
+    {
+        "name": "Nancy/Essey, France - Nancy-Essey Airport",
+        "code": "ENC"
+    },
+    {
+        "name": "Belfort, France - Fontaine Airport",
+        "code": "BOR"
+    },
+    {
+        "name": "Reims/Champagne, France - Reims-Champagne (BA 112) Airport",
+        "code": "RHE"
+    },
+    {
+        "name": "Luxeuil, France - Vittel Champ De Course Airport",
+        "code": "VTL"
+    }
+]

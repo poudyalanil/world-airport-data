@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Telupid, Malaysia - Telupid Airport",
+        "code": "TEL"
+    },
+    {
+        "name": "Long Akah, Malaysia - Long Akah Airport",
+        "code": "LKH"
+    },
+    {
+        "name": "Long Seridan, Malaysia - Long Seridan Airport",
+        "code": "ODN"
+    },
+    {
+        "name": "Long Lellang, Malaysia - Long Lellang Airport",
+        "code": "LGL"
+    },
+    {
+        "name": "Long Banga, Malaysia - Long Banga Airfield",
+        "code": "LBP"
+    },
+    {
+        "name": "Pangkor, Malaysia - Pangkor Airport",
+        "code": "PKG"
+    },
+    {
+        "name": "Redang, Malaysia - LTS Pulau Redang Airport",
+        "code": "RDN"
+    },
+    {
+        "name": "Tioman, Malaysia - Tioman",
+        "code": "TOD"
+    },
+    {
+        "name": "Belaga, Malaysia - Belaga Airport",
+        "code": "BLG"
+    },
+    {
+        "name": "Long Semado, Malaysia - Long Semado Airport",
+        "code": "LSM"
+    },
+    {
+        "name": "Sematan, Malaysia - Sematan Airport",
+        "code": "BSE"
+    },
+    {
+        "name": "Kapit, Malaysia - Kapit Airport",
+        "code": "KPI"
+    },
+    {
+        "name": "Long Sukang, Malaysia - Long Sukang Airport",
+        "code": "LSU"
+    },
+    {
+        "name": "Simanggang, Malaysia - Simanggang Airport",
+        "code": "SGG"
+    },
+    {
+        "name": "Semporna, Malaysia - Semporna Airport",
+        "code": "SMM"
+    },
+    {
+        "name": "Bakalalan, Malaysia - Bakalalan Airport",
+        "code": "BKM"
+    },
+    {
+        "name": "Keningau, Malaysia - Keningau Airport",
+        "code": "KGU"
+    },
+    {
+        "name": "Sahabat, Malaysia - Sahabat [Sahabat 16] Airport",
+        "code": "SXS"
+    },
+    {
+        "name": "Tomanggong, Malaysia - Tomanggong Airport",
+        "code": "TMG"
+    },
+    {
+        "name": "Long Miau, Malaysia - Long Pasia Airport",
+        "code": "GSA"
+    },
+    {
+        "name": "Sepulot, Malaysia - Sepulot Airport",
+        "code": "SPE"
+    },
+    {
+        "name": "Pamol, Malaysia - Pamol Airport",
+        "code": "PAY"
+    },
+    {
+        "name": "Ranau, Malaysia - Ranau Airport",
+        "code": "RNU"
+    },
+    {
+        "name": "Taman Negara, Malaysia - Sungai Tiang Airport",
+        "code": "SXT"
+    },
+    {
+        "name": "Mersing, Malaysia - Mersing Airport",
+        "code": "MEP"
+    },
+    {
+        "name": "Sitiawan, Malaysia - Sitiawan Airport",
+        "code": "SWY"
+    },
+    {
+        "name": "Taiping, Malaysia - Taiping (Tekah) Airport",
+        "code": "TPG"
+    },
+    {
+        "name": "Butterworth, Malaysia - Butterworth Airport",
+        "code": "BWH"
+    },
+    {
+        "name": "Malacca, Malaysia - Malacca Airport",
+        "code": "MKZ"
+    },
+    {
+        "name": "Sandakan, Malaysia - Sandakan",
+        "code": "SDK"
+    },
+    {
+        "name": "Kota Kinabalu, Malaysia - Kota Kinabalu",
+        "code": "BKI"
+    },
+    {
+        "name": "Penang, Malaysia - Penang Intl",
+        "code": "PEN"
+    },
+    {
+        "name": "Kuala Lumpur, Malaysia - Abdul Aziz Shah",
+        "code": "SZB"
+    },
+    {
+        "name": "Kuching, Malaysia - Kuching",
+        "code": "KCH"
+    },
+    {
+        "name": "Miri, Malaysia - Miri",
+        "code": "MYY"
+    },
+    {
+        "name": "Johor Bahru, Malaysia - Sultan Ismail Intl",
+        "code": "JHB"
+    },
+    {
+        "name": "Langkawi, Malaysia - Langkawi",
+        "code": "LGK"
+    },
+    {
+        "name": "Kota Bharu, Malaysia - Pengkalan Chepa",
+        "code": "KBR"
+    },
+    {
+        "name": "Sibu, Malaysia - Sibu",
+        "code": "SBW"
+    },
+    {
+        "name": "Tawau, Malaysia - Tawau Airport",
+        "code": "TWU"
+    },
+    {
+        "name": "Alor Setar, Malaysia - Sultan Abdul Halim",
+        "code": "AOR"
+    },
+    {
+        "name": "Kuala Terengganu, Malaysia - Sultan Mahmood",
+        "code": "TGG"
+    },
+    {
+        "name": "Bintulu, Malaysia - Bintulu",
+        "code": "BTU"
+    },
+    {
+        "name": "Kuala Lumpur, Malaysia - Kuala Lumpur Intl",
+        "code": "KUL"
+    },
+    {
+        "name": "Labuan, Malaysia - Labuan",
+        "code": "LBU"
+    },
+    {
+        "name": "Lawas, Malaysia - Lawas Airport",
+        "code": "LWY"
+    },
+    {
+        "name": "Marudi, Malaysia - Marudi Airport",
+        "code": "MUR"
+    },
+    {
+        "name": "Mukah, Malaysia - Mukah Airport",
+        "code": "MKM"
+    },
+    {
+        "name": "Lahad Datu, Malaysia - Lahad Datu Airport",
+        "code": "LDU"
+    },
+    {
+        "name": "Ipoh, Malaysia - Ipoh",
+        "code": "IPH"
+    },
+    {
+        "name": "Kuantan, Malaysia - Kuantan",
+        "code": "KUA"
+    },
+    {
+        "name": "Mulu, Malaysia - Mulu Airport",
+        "code": "MZV"
+    },
+    {
+        "name": "Limbang, Malaysia - Limbang Airport",
+        "code": "LMN"
+    },
+    {
+        "name": "Bario, Malaysia - Bario Airport",
+        "code": "BBN"
+    },
+    {
+        "name": "Tanjung Manis, Malaysia - Tanjung Manis Airport",
+        "code": "TGC"
+    },
+    {
+        "name": "Kerteh, Malaysia",
+        "code": "KTE"
+    },
+    {
+        "name": "Kudat, Malaysia - Kudat Airport",
+        "code": "KUD"
+    }
+]

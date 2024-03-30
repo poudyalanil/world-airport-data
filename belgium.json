@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Brussels, Belgium - National Airport",
+        "code": "BRU"
+    },
+    {
+        "name": "Brussels, Belgium - Brussels South",
+        "code": "CRL"
+    },
+    {
+        "name": "Liege, Belgium",
+        "code": "LGG"
+    },
+    {
+        "name": "Antwerp, Belgium - Deurne",
+        "code": "ANR"
+    },
+    {
+        "name": "Ostend, Belgium",
+        "code": "OST"
+    },
+    {
+        "name": "Wevelgem, Belgium - Wevelgem Airport",
+        "code": "KJK"
+    },
+    {
+        "name": "Namur, Belgium - Suarlee Airport",
+        "code": "QNM"
+    },
+    {
+        "name": "Hasselt, Belgium - Hasselt Airport",
+        "code": "QHA"
+    },
+    {
+        "name": "Zoersel, Belgium - Oostmalle Air Base",
+        "code": "OBL"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Dzhambyl, Kazakhstan - Dzhambyl Airport",
+        "code": "DMB"
+    },
+    {
+        "name": "Arkalyk, Kazakhstan - Arkalyk North Airport",
+        "code": "AYK"
+    },
+    {
+        "name": "Ekibastuz, Kazakhstan - Ekibastuz Airport",
+        "code": "EKB"
+    },
+    {
+        "name": "Turkistan, Kazakhstan - Hazrat Sultan International Airport",
+        "code": "HSA"
+    },
+    {
+        "name": "Astana, Kazakhstan - Astana International Airport",
+        "code": "NQZ"
+    },
+    {
+        "name": "Taldy Kurgan, Kazakhstan - Taldykorgan Airport",
+        "code": "TDK"
+    },
+    {
+        "name": "Aima Ata, Kazakhstan - Boralday Airport",
+        "code": "BXJ"
+    },
+    {
+        "name": "Usharal, Kazakhstan - Usharal Airport",
+        "code": "USJ"
+    },
+    {
+        "name": "Balkhash, Kazakhstan - Balkhash Airport",
+        "code": "BXH"
+    },
+    {
+        "name": "Zaisan, Kazakhstan",
+        "code": "SZI"
+    },
+    {
+        "name": "Kokshetau, Kazakhstan",
+        "code": "KOV"
+    },
+    {
+        "name": "Petropavlovsk, Kazakhstan - Petropavlovsk Airport",
+        "code": "PPK"
+    },
+    {
+        "name": "Zhezkazgan, Kazakhstan - Zhezhazgan Airport",
+        "code": "DZN"
+    },
+    {
+        "name": "Almaty, Kazakhstan - Almaty",
+        "code": "ALA"
+    },
+    {
+        "name": "Semipalatinsk, Kazakhstan - Semipalatinsk Airport",
+        "code": "PLX"
+    },
+    {
+        "name": "Kostanay, Kazakhstan - Kostanay Airport",
+        "code": "KSN"
+    },
+    {
+        "name": "Pavlodar, Kazakhstan - Pavlodar Airport",
+        "code": "PWQ"
+    },
+    {
+        "name": "Uralsk, Kazakhstan - Uralsk Airport",
+        "code": "URA"
+    },
+    {
+        "name": "Karaganda, Kazakhstan - Karaganda Airport",
+        "code": "KGF"
+    },
+    {
+        "name": "Kzyl-Orda, Kazakhstan - Kzyl-Orda Airport",
+        "code": "KZO"
+    },
+    {
+        "name": "Ust-Kamenogorsk, Kazakhstan - Ust-Kamenogorsk",
+        "code": "UKK"
+    },
+    {
+        "name": "Aktyubinsk, Kazakhstan - Aktyubinsk Airport",
+        "code": "AKX"
+    },
+    {
+        "name": "Atyrau, Kazakhstan - Atyrau Airport",
+        "code": "GUW"
+    },
+    {
+        "name": "Shimkent, Kazakhstan - Shimkent Airport",
+        "code": "CIT"
+    },
+    {
+        "name": "Aktau, Kazakhstan - Aktau",
+        "code": "SCO"
+    },
+    {
+        "name": "Astana, Kazakhstan - Astana",
+        "code": "TSE"
+    }
+]

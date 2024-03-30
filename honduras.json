@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Catacamas, Honduras - Catacamas Airport",
+        "code": "CAA"
+    },
+    {
+        "name": "Sulaco, Honduras - Sulaco Airport",
+        "code": "SCD"
+    },
+    {
+        "name": "Trujillo, Honduras - Trujillo Airport",
+        "code": "TJI"
+    },
+    {
+        "name": "Tela, Honduras - Tela Airport",
+        "code": "TEA"
+    },
+    {
+        "name": "Comayagua, Honduras - Coronel Enrique Soto Cano Air Base",
+        "code": "XPL"
+    },
+    {
+        "name": "Ruinas de Copan, Honduras - Copan Ruinas Airport",
+        "code": "RUY"
+    },
+    {
+        "name": "Santa Rosa de Copan, Honduras - Santa Rosa Copan Airport",
+        "code": "SDH"
+    },
+    {
+        "name": "La Esperanza, Honduras - La Esperanza Airport",
+        "code": "LEZ"
+    },
+    {
+        "name": "Jutigalpa, Honduras - Jutigalpa airport",
+        "code": "JUT"
+    },
+    {
+        "name": "Cauquira, Honduras - Cauquira Airport",
+        "code": "CDD"
+    },
+    {
+        "name": "San Pedro Sula, Honduras - Ramon Villeda Morales Airport",
+        "code": "SAP"
+    },
+    {
+        "name": "Brus Laguna, Honduras - Brus Laguna Airport",
+        "code": "BHG"
+    },
+    {
+        "name": "Ahuas, Honduras - Ahuas Airport",
+        "code": "AHS"
+    },
+    {
+        "name": "Utila, Honduras - Utila Airport",
+        "code": "UII"
+    },
+    {
+        "name": "Puerto Lempira, Honduras - Puerto Lempira Airport",
+        "code": "PEU"
+    },
+    {
+        "name": "Guanaja Island, Honduras - Guanaja Airport",
+        "code": "GJA"
+    },
+    {
+        "name": "La Ceiba, Honduras - Goloson Intl",
+        "code": "LCE"
+    },
+    {
+        "name": "Roatan, Honduras - Roatan",
+        "code": "RTB"
+    },
+    {
+        "name": "Tegucigalpa, Honduras - Toncontin Airport",
+        "code": "TGU"
+    }
+]

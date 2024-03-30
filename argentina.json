@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Malargue, Argentina - Comodoro D.R. Salomon Airport",
+        "code": "LGS"
+    },
+    {
+        "name": "El Dorado, Argentina - El Dorado Airport",
+        "code": "ELO"
+    },
+    {
+        "name": "Clorinda, Argentina - Clorinda Airport",
+        "code": "CLX"
+    },
+    {
+        "name": "Tartagal, Argentina - General Enrique Mosconi Airport",
+        "code": "TTG"
+    },
+    {
+        "name": "Oran, Argentina - Oran Airport",
+        "code": "ORA"
+    },
+    {
+        "name": "Presidencia Roque Saenz Pena, Argentina - Termal Airport",
+        "code": "PRQ"
+    },
+    {
+        "name": "Monte Caseros, Argentina - Monte Caseros Airport",
+        "code": "MCS"
+    },
+    {
+        "name": "Paso de los Libres, Argentina - Paso De Los Libres Airport",
+        "code": "AOL"
+    },
+    {
+        "name": "Merlo, Argentina - Valle Del Conlara International Airport",
+        "code": "RLO"
+    },
+    {
+        "name": "Villa Reynolds, Argentina - Villa Reynolds Airport",
+        "code": "VME"
+    },
+    {
+        "name": "Villa Dolores, Argentina - Villa Dolores Airport",
+        "code": "VDR"
+    },
+    {
+        "name": "Rio Cuarto, Argentina - Area De Material Airport",
+        "code": "RCU"
+    },
+    {
+        "name": "Ceres, Argentina - Ceres Airport",
+        "code": "CRR"
+    },
+    {
+        "name": "Goya, Argentina - Goya Airport",
+        "code": "OYA"
+    },
+    {
+        "name": "Zapala, Argentina - Zapala Airport",
+        "code": "APZ"
+    },
+    {
+        "name": "Rincon de los Sauces, Argentina - Rincon De Los Sauces Airport",
+        "code": "RDS"
+    },
+    {
+        "name": "Lafontaine, Argentina - Caviahue Airport",
+        "code": "CVH"
+    },
+    {
+        "name": "Chos Malal, Argentina - Chos Malal Airport",
+        "code": "HOS"
+    },
+    {
+        "name": "Sunchales, Argentina - Sunchales Aeroclub Airport",
+        "code": "NCJ"
+    },
+    {
+        "name": "Miramar, Argentina - Miramar Airport",
+        "code": "MJR"
+    },
+    {
+        "name": "El Palomar, Argentina - El Palomar Airport",
+        "code": "EPA"
+    },
+    {
+        "name": "San Fernando, Argentina - San Fernando Airport",
+        "code": "FDO"
+    },
+    {
+        "name": "La Cumbre, Argentina - La Cumbre Airport",
+        "code": "LCM"
+    },
+    {
+        "name": "Junin, Argentina - Junin Airport",
+        "code": "JNI"
+    },
+    {
+        "name": "Gualeguaychu, Argentina - Gualeguaychu Airport",
+        "code": "GHU"
+    },
+    {
+        "name": "El Calafate, Argentina - Lago Argentino Airport",
+        "code": "ING"
+    },
+    {
+        "name": "Cutral-Co, Argentina - Cutral-Co Airport",
+        "code": "CUT"
+    },
+    {
+        "name": "Tandil, Argentina - Heroes De Malvinas Airport",
+        "code": "TDL"
+    },
+    {
+        "name": "Pehuajo, Argentina - Comodoro Pedro Zanni Airport",
+        "code": "PEH"
+    },
+    {
+        "name": "Santa Teresita, Argentina - Santa Teresita Airport",
+        "code": "SST"
+    },
+    {
+        "name": "Tres Arroyos, Argentina - Tres Arroyos Airport",
+        "code": "OYO"
+    },
+    {
+        "name": "General Pico, Argentina - General Pico Airport",
+        "code": "GPO"
+    },
+    {
+        "name": "Olavarria, Argentina - Olavarria Airport",
+        "code": "OVR"
+    },
+    {
+        "name": "Coronel Suarez, Argentina - Brigadier D.H.E. Ruiz Airport",
+        "code": "CSZ"
+    },
+    {
+        "name": "El Turbio, Argentina - 28 De Noviembre Airport",
+        "code": "RYO"
+    },
+    {
+        "name": "Chubut, Argentina - Jose De San Martin Airport",
+        "code": "JSM"
+    },
+    {
+        "name": "Rio Mayo, Argentina - Rio Mayo Airport",
+        "code": "ROY"
+    },
+    {
+        "name": "Concordia, Argentina - Comodoro Pierrestegui Airport",
+        "code": "COC"
+    },
+    {
+        "name": "Sierra Grande, Argentina - Sierra Grande Airport",
+        "code": "SGV"
+    },
+    {
+        "name": "Alto Rio Senguerr, Argentina - D. Casimiro Szlapelis Airport",
+        "code": "ARR"
+    },
+    {
+        "name": "Maquinchao, Argentina - Maquinchao Airport",
+        "code": "MQD"
+    },
+    {
+        "name": "Ingeniero Jacobacci, Argentina - Cabo F.A.A. H. R. Bordon Airport",
+        "code": "IGB"
+    },
+    {
+        "name": "Las Heras, Argentina - Las Heras Airport",
+        "code": "LHS"
+    },
+    {
+        "name": "El Maiten, Argentina - El Maiten Airport",
+        "code": "EMX"
+    },
+    {
+        "name": "El Bolson, Argentina - El Bolson Airport",
+        "code": "EHL"
+    },
+    {
+        "name": "Curuzu Cuatia, Argentina - Curuzu Cuatia Airport",
+        "code": "UZU"
+    },
+    {
+        "name": "Reconquista, Argentina - Reconquista Airport",
+        "code": "RCQ"
+    },
+    {
+        "name": "Mercedes, Argentina - Mercedes Airport",
+        "code": "MDX"
+    },
+    {
+        "name": "Las Lomitas, Argentina - Alferez Armando Rodriguez Airport",
+        "code": "LLS"
+    },
+    {
+        "name": "San Miguel de Tucuman, Argentina - Benjamin Matienzo",
+        "code": "TUC"
+    },
+    {
+        "name": "Santiago del Estero, Argentina - Santiago del Estero",
+        "code": "SDE"
+    },
+    {
+        "name": "San Luis, Argentina - San Luis Airport",
+        "code": "LUQ"
+    },
+    {
+        "name": "Rio Grande, Argentina - Rio Grande Airport",
+        "code": "RGA"
+    },
+    {
+        "name": "Rio Gallegos, Argentina - Rio Gallegos Internacional Airport",
+        "code": "RGL"
+    },
+    {
+        "name": "Posadas, Argentina - Posadas Airport",
+        "code": "PSS"
+    },
+    {
+        "name": "San Juan, Argentina - San Juan Airport",
+        "code": "UAQ"
+    },
+    {
+        "name": "Jujuy, Argentina - El Cadillal",
+        "code": "JUJ"
+    },
+    {
+        "name": "Mar del Plata, Argentina - Mar del Plata",
+        "code": "MDQ"
+    },
+    {
+        "name": "Resistencia, Argentina - Resistencia Airport",
+        "code": "RES"
+    },
+    {
+        "name": "Trelew, Argentina - Trelew Airport",
+        "code": "REL"
+    },
+    {
+        "name": "El Calafate, Argentina - El Calafate",
+        "code": "FTE"
+    },
+    {
+        "name": "Bahia Blanca, Argentina - Comandante Airport",
+        "code": "BHI"
+    },
+    {
+        "name": "Catamarca, Argentina - Choya",
+        "code": "CTC"
+    },
+    {
+        "name": "Ushuaia, Argentina - Islas Malvinas",
+        "code": "USH"
+    },
+    {
+        "name": "Iguazu, Argentina - Iguazu Intl",
+        "code": "IGR"
+    },
+    {
+        "name": "Comodoro Rivadavia, Argentina - Comodoro Rivadavia",
+        "code": "CRD"
+    },
+    {
+        "name": "Neuquen, Argentina - Neuquen Airport",
+        "code": "NQN"
+    },
+    {
+        "name": "Rosario, Argentina - Fisherton",
+        "code": "ROS"
+    },
+    {
+        "name": "San Carlos de Bariloche, Argentina - DeBariloche Intl",
+        "code": "BRC"
+    },
+    {
+        "name": "Salta, Argentina - Gen Belgrano",
+        "code": "SLA"
+    },
+    {
+        "name": "Mendoza, Argentina - El Plumerillo",
+        "code": "MDZ"
+    },
+    {
+        "name": "Cordoba, Argentina - Pajas Blancas",
+        "code": "COR"
+    },
+    {
+        "name": "Buenos Aires, Argentina - Ministro Pistarini Airport",
+        "code": "EZE"
+    },
+    {
+        "name": "Buenos Aires, Argentina - Jorge Newbery Airport",
+        "code": "AEP"
+    },
+    {
+        "name": "Puerto Madryn, Argentina - El Tehuelche Airport",
+        "code": "PMY"
+    },
+    {
+        "name": "Colonia Catriel, Argentina - Colonia Catriel Airport",
+        "code": "CCT"
+    },
+    {
+        "name": "Villa Gesell, Argentina - Villa Gesell Airport",
+        "code": "VLG"
+    },
+    {
+        "name": "Santa Cruz, Argentina - Santa Cruz Airport",
+        "code": "RZA"
+    },
+    {
+        "name": "San Julian, Argentina - San Julian Airport",
+        "code": "ULA"
+    },
+    {
+        "name": "San Antonio Oeste, Argentina - San Antonio Oeste Airport",
+        "code": "OES"
+    },
+    {
+        "name": "Puerto Deseado, Argentina - Puerto Deseado Airport",
+        "code": "PUD"
+    },
+    {
+        "name": "Perito Moreno, Argentina - Perito Moreno Airport",
+        "code": "PMQ"
+    },
+    {
+        "name": "Necochea, Argentina - Necochea Airport",
+        "code": "NEC"
+    },
+    {
+        "name": "La Plata, Argentina",
+        "code": "LPG"
+    },
+    {
+        "name": "Gobernador Gregores, Argentina - Gobernador Gregores Airport",
+        "code": "GGS"
+    },
+    {
+        "name": "General Roca, Argentina",
+        "code": "GNR"
+    },
+    {
+        "name": "Buenos Aires, Argentina - All Airports",
+        "code": "BUE"
+    },
+    {
+        "name": "Santa Rosa, Argentina - Santa Rosa Airport",
+        "code": "RSA"
+    },
+    {
+        "name": "Parana, Argentina - Parana",
+        "code": "PRA"
+    },
+    {
+        "name": "Esquel, Argentina - Esquel Mncpl",
+        "code": "EQS"
+    },
+    {
+        "name": "Viedma, Argentina - Viedma Airport",
+        "code": "VDM"
+    },
+    {
+        "name": "San Rafael, Argentina - San Rafael Airport",
+        "code": "AFA"
+    },
+    {
+        "name": "San Martin de los Andes, Argentina - Chapelco",
+        "code": "CPC"
+    },
+    {
+        "name": "Santa Fe, Argentina - Santa Fe Mncpl",
+        "code": "SFN"
+    },
+    {
+        "name": "Rio Hondo, Argentina",
+        "code": "RHD"
+    },
+    {
+        "name": "La Rioja, Argentina - La Rioja Mncpl",
+        "code": "IRJ"
+    },
+    {
+        "name": "Formosa, Argentina - El Pucu Airport",
+        "code": "FMA"
+    },
+    {
+        "name": "Corrientes, Argentina - Camba Punta Airport",
+        "code": "CNQ"
+    }
+]
