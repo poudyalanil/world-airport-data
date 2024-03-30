@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Shinyanga, Tanzania - Shinyanga Airport",
+        "code": "SHY"
+    },
+    {
+        "name": "Tanga, Tanzania, United Republic of - Tanga Airport",
+        "code": "TGT"
+    },
+    {
+        "name": "Sumbawanga, Tanzania, United Republic of - Sumbawanga Airport",
+        "code": "SUT"
+    },
+    {
+        "name": "Songea, Tanzania, United Republic of - Songea Airport",
+        "code": "SGX"
+    },
+    {
+        "name": "Njombe, Tanzania, United Republic of - Njombe Airport",
+        "code": "JOM"
+    },
+    {
+        "name": "Nachingwea, Tanzania, United Republic of - Nachingwea Airport",
+        "code": "NCH"
+    },
+    {
+        "name": "Moshi, Tanzania, United Republic of - Moshi Airport",
+        "code": "QSI"
+    },
+    {
+        "name": "Masasi, Tanzania, United Republic of - Masasi Airport",
+        "code": "XMI"
+    },
+    {
+        "name": "Mwadui, Tanzania, United Republic of - Mwadui Airport",
+        "code": "MWN"
+    },
+    {
+        "name": "Mafia Island, Tanzania, United Republic of - Mafia Island Airport",
+        "code": "MFA"
+    },
+    {
+        "name": "Lindi, Tanzania, United Republic of - Kikwetu Airport",
+        "code": "LDI"
+    },
+    {
+        "name": "Kilwa Masoko, Tanzania, United Republic of - Kilwa Masoko Airport",
+        "code": "KIY"
+    },
+    {
+        "name": "Nduli, Tanzania, United Republic of - Iringa Airport",
+        "code": "IRI"
+    },
+    {
+        "name": "Dodoma, Tanzania, United Republic of - Dodoma Airport",
+        "code": "DOD"
+    },
+    {
+        "name": "Dar es Salaam, Tanzania - Dar es Salaam Intl",
+        "code": "DAR"
+    },
+    {
+        "name": "Tabora, Tanzania - Tabora Airport",
+        "code": "TBO"
+    },
+    {
+        "name": "Musoma, Tanzania - Musoma Airport",
+        "code": "MUZ"
+    },
+    {
+        "name": "Kigoma, Tanzania - Kigoma Airport",
+        "code": "TKQ"
+    },
+    {
+        "name": "Mtwara, Tanzania - Mtwara",
+        "code": "MYW"
+    },
+    {
+        "name": "Mbeya, Tanzania, United Rep. of",
+        "code": "MBI"
+    },
+    {
+        "name": "Bukoba, Tanzania - Bukoba Airport",
+        "code": "BKZ"
+    },
+    {
+        "name": "Seronera, Tanzania, United Rep. of",
+        "code": "SEU"
+    },
+    {
+        "name": "Lake Manyara, Tanzania, United Rep. of",
+        "code": "LKY"
+    },
+    {
+        "name": "Pemba, Tanzania - Wawi Airport",
+        "code": "PMA"
+    },
+    {
+        "name": "Mwanza, Tanzania - Mwanza Airport",
+        "code": "MWZ"
+    },
+    {
+        "name": "Arusha, Tanzania - Arusha",
+        "code": "ARK"
+    },
+    {
+        "name": "Kilimanjaro, Tanzania - Kilimanjaro",
+        "code": "JRO"
+    },
+    {
+        "name": "Zanzibar, Tanzania - Zanzibar Kisauni",
+        "code": "ZNZ"
+    }
+]

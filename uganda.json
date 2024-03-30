@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Entebbe, Uganda - Entebbe",
+        "code": "EBB"
+    },
+    {
+        "name": "Kasese, Uganda",
+        "code": "KSE"
+    },
+    {
+        "name": "Pakuba, Uganda",
+        "code": "PAF"
+    },
+    {
+        "name": "Arua, Uganda - Arua Airport",
+        "code": "RUA"
+    },
+    {
+        "name": "Gulu, Uganda - Gulu Airport",
+        "code": "ULU"
+    },
+    {
+        "name": "Moyo, Uganda - Moyo Airport",
+        "code": "OYG"
+    },
+    {
+        "name": "Jinja, Uganda - Jinja Airport",
+        "code": "JIN"
+    },
+    {
+        "name": "Kabalega Falls, Uganda - Kabalega Falls Airport",
+        "code": "KBG"
+    },
+    {
+        "name": "Mbarara, Uganda - Mbarara Airport",
+        "code": "MBQ"
+    },
+    {
+        "name": "Masindi, Uganda - Masindi Airport",
+        "code": "KCU"
+    },
+    {
+        "name": "Soroti, Uganda - Soroti Airport",
+        "code": "SRT"
+    },
+    {
+        "name": "Tororo, Uganda - Tororo Airport",
+        "code": "TRY"
+    }
+]

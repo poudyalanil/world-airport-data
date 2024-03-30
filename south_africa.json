@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Malamala, South Africa - Malamala Airport",
+        "code": "AAM"
+    },
+    {
+        "name": "Port Alfred, South Africa - Port Alfred Airport",
+        "code": "AFD"
+    },
+    {
+        "name": "Oudtshoorn, South Africa - Oudtshoorn Airport",
+        "code": "OUH"
+    },
+    {
+        "name": "Overberg, South Africa - Overberg Airport",
+        "code": "OVG"
+    },
+    {
+        "name": "Nelspruit, South Africa - Nelspruit Airport",
+        "code": "NLP"
+    },
+    {
+        "name": "Ngala, South Africa - Ngala Airport",
+        "code": "NGL"
+    },
+    {
+        "name": "Newcastle, South Africa - Newcastle Airport",
+        "code": "NCS"
+    },
+    {
+        "name": "Mkuze, South Africa - Mkuze Airport",
+        "code": "MZQ"
+    },
+    {
+        "name": "Mossel Bay, South Africa - Mossel Bay Airport",
+        "code": "MZY"
+    },
+    {
+        "name": "Malelane, South Africa - Riverside Airport",
+        "code": "LLE"
+    },
+    {
+        "name": "Musina, South Africa - Musina(Messina) Airport",
+        "code": "MEZ"
+    },
+    {
+        "name": "Port St Johns, South Africa - Port St Johns Airport",
+        "code": "JOH"
+    },
+    {
+        "name": "Ladysmith, South Africa - Ladysmith Airport",
+        "code": "LAY"
+    },
+    {
+        "name": "Langebaanweg, South Africa - Langebaanweg Airport",
+        "code": "SDB"
+    },
+    {
+        "name": "Louis Trichardt, South Africa - Louis Trichardt Airport",
+        "code": "LCD"
+    },
+    {
+        "name": "Lusikisiki, South Africa - Lusikisiki Airport",
+        "code": "LUJ"
+    },
+    {
+        "name": "Lime Acres, South Africa - Lime Acres Finsch Mine Airport",
+        "code": "LMR"
+    },
+    {
+        "name": "Kleinsee, South Africa - Kleinsee Airport",
+        "code": "KLZ"
+    },
+    {
+        "name": "Kuruman, South Africa - Johan Pienaar Airport",
+        "code": "KMH"
+    },
+    {
+        "name": "Komatipoort, South Africa - Komatipoort Airport",
+        "code": "KOF"
+    },
+    {
+        "name": "Klerksdorp, South Africa - P C Pelser Airport",
+        "code": "KXE"
+    },
+    {
+        "name": "Welverdiend, South Africa - Tanda Tula Airport",
+        "code": "TDT"
+    },
+    {
+        "name": "Welkom, South Africa - Welkom Airport",
+        "code": "WEL"
+    },
+    {
+        "name": "Pretoria, South Africa - Waterkloof Air Force Base",
+        "code": "WKF"
+    },
+    {
+        "name": "Vryheid, South Africa - Vryheid Airport",
+        "code": "VYD"
+    },
+    {
+        "name": "Vredendal, South Africa - Vredendal Airport",
+        "code": "VRE"
+    },
+    {
+        "name": "Durban, South Africa - Virginia Airport",
+        "code": "VIR"
+    },
+    {
+        "name": "Vyrburg, South Africa - Vryburg Airport",
+        "code": "VRU"
+    },
+    {
+        "name": "Tzaneen, South Africa - Tzaneen Airport",
+        "code": "LTA"
+    },
+    {
+        "name": "Homeward, South Africa - Thaba Nchu Tar Airport",
+        "code": "TCU"
+    },
+    {
+        "name": "Thohoyandou, South Africa - Thohoyandou Airport",
+        "code": "THY"
+    },
+    {
+        "name": "Harrismith, South Africa - Harrismith Airport",
+        "code": "HRS"
+    },
+    {
+        "name": "Skukuza, South Africa - Skukuza Airport",
+        "code": "SZK"
+    },
+    {
+        "name": "Belfast, South Africa - Sabi Sabi Airport",
+        "code": "GSS"
+    },
+    {
+        "name": "Secunda, South Africa - Secunda Airport",
+        "code": "ZEC"
+    },
+    {
+        "name": "Springbok, South Africa - Springbok Airport",
+        "code": "SBU"
+    },
+    {
+        "name": "Robertson, South Africa - Robertson Airport",
+        "code": "ROD"
+    },
+    {
+        "name": "Reivilo, South Africa - Reivilo Airport",
+        "code": "RVO"
+    },
+    {
+        "name": "Queenstown, South Africa - Queenstown Airport",
+        "code": "UTW"
+    },
+    {
+        "name": "Potchefstroom, South Africa - Potchefstroom Airport",
+        "code": "PCF"
+    },
+    {
+        "name": "Prieska, South Africa - Prieska Airport",
+        "code": "PRK"
+    },
+    {
+        "name": "Pietermaritzburg, South Africa - Pietermaritzburg",
+        "code": "PZB"
+    },
+    {
+        "name": "Pretoria, South Africa",
+        "code": "PRY"
+    },
+    {
+        "name": "Phalaborwa, South Africa - Phalaborwa",
+        "code": "PHW"
+    },
+    {
+        "name": "Richards Bay, South Africa - Richards Bay",
+        "code": "RCB"
+    },
+    {
+        "name": "Sishen, South Africa",
+        "code": "SIS"
+    },
+    {
+        "name": "Polokwane, South Africa - Polokwane",
+        "code": "PTG"
+    },
+    {
+        "name": "Ulusaba, South Africa",
+        "code": "ULX"
+    },
+    {
+        "name": "Upington, South Africa - Upington",
+        "code": "UTN"
+    },
+    {
+        "name": "Umtata, South Africa - Umtata",
+        "code": "UTT"
+    },
+    {
+        "name": "Hoedspruit, South Africa - Hoedspruit",
+        "code": "HDS"
+    },
+    {
+        "name": "Kimberley, South Africa - Kimberley",
+        "code": "KIM"
+    },
+    {
+        "name": "Plettenberg, South Africa",
+        "code": "PBZ"
+    },
+    {
+        "name": "Londolozi, South Africa",
+        "code": "LDZ"
+    },
+    {
+        "name": "George, South Africa - George",
+        "code": "GRJ"
+    },
+    {
+        "name": "East London, South Africa - East London",
+        "code": "ELS"
+    },
+    {
+        "name": "Bloemfontein, South Africa - Bloemfontein Intl",
+        "code": "BFN"
+    },
+    {
+        "name": "Nelspruit, South Africa - Kruger Mpumalanga International Airport",
+        "code": "MQP"
+    },
+    {
+        "name": "Lanseria/Johannesburg, South Africa - Lanseria Airport",
+        "code": "HLA"
+    },
+    {
+        "name": "Port Elizabeth, South Africa - Port Elizabeth",
+        "code": "PLZ"
+    },
+    {
+        "name": "Durban, South Africa - King Shaka Intl",
+        "code": "DUR"
+    },
+    {
+        "name": "Cape Town, South Africa - Cape Town Intl",
+        "code": "CPT"
+    },
+    {
+        "name": "Cradock, South Africa - Cradock Airport",
+        "code": "CDO"
+    },
+    {
+        "name": "Hluhluwe, South Africa - Hluhluwe Airport",
+        "code": "HLW"
+    },
+    {
+        "name": "Johannesburg, South Africa - Rand Airport",
+        "code": "QRA"
+    },
+    {
+        "name": "Giyani, South Africa - Giyani Airport",
+        "code": "GIY"
+    },
+    {
+        "name": "Midrand, South Africa - Grand Central Airport",
+        "code": "GCJ"
+    },
+    {
+        "name": "Ficksburg, South Africa - Ficksburg Sentraoes Airport",
+        "code": "FCB"
+    },
+    {
+        "name": "Ellisras, South Africa - Ellisras Matimba Airport",
+        "code": "ELL"
+    },
+    {
+        "name": "Empangeni, South Africa - Empangeni Airport",
+        "code": "EMG"
+    },
+    {
+        "name": "Phinda, South Africa - Zulu Inyala Airport",
+        "code": "PZL"
+    },
+    {
+        "name": "Mubatuba, South Africa - Mubatuba Airport",
+        "code": "DUK"
+    },
+    {
+        "name": "Johannesburg, South Africa - O.R.Tambo International",
+        "code": "JNB"
+    },
+    {
+        "name": "Bultfontein, South Africa - Bultfontein Airport",
+        "code": "UTE"
+    },
+    {
+        "name": "Bisho, South Africa - Bisho Airport",
+        "code": "BIY"
+    },
+    {
+        "name": "Alldays, South Africa - Alldays Airport",
+        "code": "ADY"
+    },
+    {
+        "name": "Aggeneys, South Africa - Aggeneys Airport",
+        "code": "AGZ"
+    },
+    {
+        "name": "Alexander Bay, South Africa - Alexander Bay Airport",
+        "code": "ALJ"
+    },
+    {
+        "name": "Ulundi, South Africa",
+        "code": "ULD"
+    },
+    {
+        "name": "Sun City, South Africa",
+        "code": "NTY"
+    },
+    {
+        "name": "Mmabatho, South Africa - Mmmabatho Intl",
+        "code": "MBD"
+    },
+    {
+        "name": "Margate, South Africa - Margate Airport",
+        "code": "MGH"
+    }
+]

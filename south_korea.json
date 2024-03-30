@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Ulsan, South Korea - Ulsan",
+        "code": "USN"
+    },
+    {
+        "name": "Mokpo, South Korea - Mokpo Airport",
+        "code": "MPK"
+    },
+    {
+        "name": "Yangyang, South Korea - Yangyang Airport",
+        "code": "YNY"
+    },
+    {
+        "name": "Wonju, South Korea - Wonju Airport",
+        "code": "WJU"
+    },
+    {
+        "name": "P'ohang, South Korea - Pohang",
+        "code": "KPO"
+    },
+    {
+        "name": "Muan, South Korea - Muan International Airport",
+        "code": "MWX"
+    },
+    {
+        "name": "Gunsan, South Korea - Gunsan Airport",
+        "code": "KUV"
+    },
+    {
+        "name": "Jinju, South Korea - Sacheon Airport",
+        "code": "HIN"
+    },
+    {
+        "name": "Yeosu, South Korea - Yeosu Airport",
+        "code": "RSU"
+    },
+    {
+        "name": "Seoul, South Korea - All Airports",
+        "code": "SEL"
+    },
+    {
+        "name": "Gwangju, South Korea - Gwangju Airport",
+        "code": "KWJ"
+    },
+    {
+        "name": "Cheongju, South Korea - Cheongju Airport",
+        "code": "CJJ"
+    },
+    {
+        "name": "Daegu, South Korea - Daegu",
+        "code": "TAE"
+    },
+    {
+        "name": "Busan, South Korea - Gimhae",
+        "code": "PUS"
+    },
+    {
+        "name": "Seoul, South Korea - Gimpo International Airport",
+        "code": "GMP"
+    },
+    {
+        "name": "Jeju, South Korea - Jeju",
+        "code": "CJU"
+    },
+    {
+        "name": "Seoul, South Korea - Incheon Intl",
+        "code": "ICN"
+    }
+]

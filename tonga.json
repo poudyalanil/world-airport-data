@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Rarotonga, Cook Islands - Rarotonga",
+        "code": "RAR"
+    },
+    {
+        "name": "Nuku'Alofa, Tonga - Fua'Amotu Intl",
+        "code": "TBU"
+    },
+    {
+        "name": "Vava'u, Tonga - Lupepau'u Airport",
+        "code": "VAV"
+    },
+    {
+        "name": "Eua, Tonga - Kaufana Airport",
+        "code": "EUA"
+    },
+    {
+        "name": "Ha'Apai, Tonga - Salote Pilolevu Airport",
+        "code": "HPA"
+    },
+    {
+        "name": "Penrhyn Island, Cook Islands - Tongareva Airport",
+        "code": "PYE"
+    },
+    {
+        "name": "Angaha, Tonga - Mata'aho Airport",
+        "code": "Niu"
+    },
+    {
+        "name": "Niuatoputapu, Tonga - Kuini Lavenia Airport",
+        "code": "NTT"
+    }
+]

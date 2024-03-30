@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Hargeisa, Somalia - Hargeisa Airport",
+        "code": "HGA"
+    },
+    {
+        "name": "Mogadishu, Somalia - Mogadishu International Airport",
+        "code": "MGQ"
+    },
+    {
+        "name": "Galcaio, Somalia - Galcaio Airport",
+        "code": "GLK"
+    },
+    {
+        "name": "Bossaso, Somalia - Bossaso Airport",
+        "code": "BSA"
+    },
+    {
+        "name": "Berbera, Somalia - Berbera Airport",
+        "code": "BBO"
+    },
+    {
+        "name": "Alula, Somalia - Alula Airport",
+        "code": "ALU"
+    },
+    {
+        "name": "Baidoa, Somalia - Baidoa Airport",
+        "code": "BIB"
+    },
+    {
+        "name": "Candala, Somalia - Candala Airport",
+        "code": "CXN"
+    },
+    {
+        "name": "Gedo, Somalia - Bardera Airport",
+        "code": "BSY"
+    },
+    {
+        "name": "Eil, Somalia - Eil Airport",
+        "code": "HCM"
+    },
+    {
+        "name": "Gardo, Somalia - Gardo Airport",
+        "code": "GSR"
+    },
+    {
+        "name": "Lower-Juba, Somalia - Kisimayu Airport",
+        "code": "KMU"
+    },
+    {
+        "name": "Obbia, Somalia - Obbia Airport",
+        "code": "CMO"
+    },
+    {
+        "name": "Scusciuban, Somalia - Scusciuban Airport",
+        "code": "CMS"
+    },
+    {
+        "name": "Erigavo, Somalia - Erigavo Airport",
+        "code": "ERA"
+    },
+    {
+        "name": "Burao, Somalia - Burao Airport",
+        "code": "BUO"
+    }
+]

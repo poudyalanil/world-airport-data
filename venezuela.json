@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Cabimas, Venezuela (Bolivarian Republic of) - Oro Negro Airport",
+        "code": "CBS"
+    },
+    {
+        "name": "Guayabal, Venezuela (Bolivarian Republic of) - Armando Schwarck Airport",
+        "code": "LPJ"
+    },
+    {
+        "name": "Maracay, Venezuela (Bolivarian Republic of) - Escuela Mariscal Sucre Airport",
+        "code": "MYC"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Caicara del Orinoco Airport",
+        "code": "CXA"
+    },
+    {
+        "name": "Casigua El Cubo, Venezuela (Bolivarian Republic of) - Casigua El Cubo Airport",
+        "code": "CUV"
+    },
+    {
+        "name": "Guarico, Venezuela (Bolivarian Republic of) - Calabozo Airport",
+        "code": "CLZ"
+    },
+    {
+        "name": "Carora, Venezuela (Bolivarian Republic of) - Carora Airport",
+        "code": "VCR"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - El Dorado Airport",
+        "code": "EOR"
+    },
+    {
+        "name": "Apure, Venezuela (Bolivarian Republic of) - Elorza Airport",
+        "code": "EOZ"
+    },
+    {
+        "name": "Apure, Venezuela (Bolivarian Republic of) - Guasdalito Airport",
+        "code": "GDO"
+    },
+    {
+        "name": "Venezuela (Bolivarian Republic of) - Guiria Airport",
+        "code": "GUI"
+    },
+    {
+        "name": "Guanare, Venezuela (Bolivarian Republic of) - Guanare Airport",
+        "code": "GUQ"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Icabaru Airport",
+        "code": "ICA"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Kavanayen Airport",
+        "code": "KAV"
+    },
+    {
+        "name": "Anaco, Venezuela (Bolivarian Republic of) - Anaco Airport",
+        "code": "AAO"
+    },
+    {
+        "name": "Delta-Amacuro, Venezuela (Bolivarian Republic of) - Pedernales Airport",
+        "code": "PDZ"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Perai Tepuy Airport",
+        "code": "PPH"
+    },
+    {
+        "name": "Tachira, Venezuela (Bolivarian Republic of) - Paramillo Airport",
+        "code": "SCI"
+    },
+    {
+        "name": "Palmarito, Venezuela (Bolivarian Republic of) - Palmarito Airport",
+        "code": "PTM"
+    },
+    {
+        "name": "Santa Barbara, Venezuela (Bolivarian Republic of) - Santa Barbara de Barinas Airport",
+        "code": "SBB"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Santa Elena de Uairen Airport",
+        "code": "SNV"
+    },
+    {
+        "name": "San Felipe, Venezuela (Bolivarian Republic of) - Sub Teniente Nestor Arias Airport",
+        "code": "SNF"
+    },
+    {
+        "name": "Zulia, Venezuela (Bolivarian Republic of) - Santa Barbara del Zulia Airport",
+        "code": "STB"
+    },
+    {
+        "name": "Tucupita, Venezuela (Bolivarian Republic of) - Tucupita Airport",
+        "code": "TUV"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Tumeremo Airport",
+        "code": "TMO"
+    },
+    {
+        "name": "Bolivar, Venezuela (Bolivarian Republic of) - Uriman Airport",
+        "code": "URM"
+    },
+    {
+        "name": "Guarico, Venezuela (Bolivarian Republic of) - Valle de La Pascua Airport",
+        "code": "VDP"
+    },
+    {
+        "name": "Barinas, Venezuela - Barinas Airport",
+        "code": "BNS"
+    },
+    {
+        "name": "Porlamar, Venezuela - Gen Santiago Marino",
+        "code": "PMV"
+    },
+    {
+        "name": "Valencia, Venezuela - Valencia Airport",
+        "code": "VLN"
+    },
+    {
+        "name": "Maracaibo, Venezuela - La Chinita Airport",
+        "code": "MAR"
+    },
+    {
+        "name": "Barcelona, Venezuela - Gen J A Anzoategui Airport",
+        "code": "BLA"
+    },
+    {
+        "name": "Puerto Ordaz, Venezuela - Puerto Ordaz",
+        "code": "PZO"
+    },
+    {
+        "name": "La Fria, Venezuela",
+        "code": "LFR"
+    },
+    {
+        "name": "El Vigia, Venezuela - El Vigia Airport",
+        "code": "VIG"
+    },
+    {
+        "name": "Barquisimeto, Venezuela - Barquisimeto",
+        "code": "BRM"
+    },
+    {
+        "name": "Maturin, Venezuela - Quiriquire",
+        "code": "MUN"
+    },
+    {
+        "name": "Santo Domingo, Venezuela - Mayo Guerrero Airport",
+        "code": "STD"
+    },
+    {
+        "name": "Las Piedras, Venezuela - Josefa Camejo Airport",
+        "code": "LSP"
+    },
+    {
+        "name": "Los Roques, Venezuela",
+        "code": "LRV"
+    },
+    {
+        "name": "Cumana, Venezuela - Cumana",
+        "code": "CUM"
+    },
+    {
+        "name": "Caracas, Venezuela - Simon Bolivar Airport",
+        "code": "CCS"
+    },
+    {
+        "name": "Puerto Ayacucho, Venezuela - Puerto Ayacucho Airport",
+        "code": "PYH"
+    },
+    {
+        "name": "San Fernando De Apure, Venezuela - Las Flecheras Airport",
+        "code": "SFD"
+    },
+    {
+        "name": "Ciudad Bolivar, Venezuela - Ciudad Bolivar Airport",
+        "code": "CBL"
+    },
+    {
+        "name": "Coro, Venezuela - Coro",
+        "code": "CZE"
+    },
+    {
+        "name": "San Tome, Venezuela - El Tigre Airport",
+        "code": "SOM"
+    },
+    {
+        "name": "Canaima, Venezuela",
+        "code": "CAJ"
+    },
+    {
+        "name": "Carupano, Venezuela - Carupano Airport",
+        "code": "CUP"
+    },
+    {
+        "name": "Merida, Venezuela - Alberto Carnevalli",
+        "code": "MRD"
+    },
+    {
+        "name": "Puerto Cabello, Venezuela",
+        "code": "PBL"
+    },
+    {
+        "name": "San Antonio, Venezuela",
+        "code": "SVZ"
+    },
+    {
+        "name": "Valera, Venezuela - Carvajal Airport",
+        "code": "VLV"
+    },
+    {
+        "name": "Acarigua, Venezuela (Bolivarian Republic of) - Oswaldo Guevara Mujica Airport",
+        "code": "AGV"
+    }
+]

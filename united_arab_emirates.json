@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Dubai, United Arab Emirates - Dubai",
+        "code": "DXB"
+    },
+    {
+        "name": "Abu Dhabi, United Arab Emirates - Abu Dhabi Intl",
+        "code": "AUH"
+    },
+    {
+        "name": "Sharjah, United Arab Emirates - Sharjah",
+        "code": "SHJ"
+    },
+    {
+        "name": "Jebel Ali, United Arab Emirates - Al Maktoum Intl",
+        "code": "DWC"
+    },
+    {
+        "name": "Ras Al Khaimah, United Arab Emirates - Ras Al Khaimah",
+        "code": "RKT"
+    },
+    {
+        "name": "Al Ain, United Arab Emirates - Al Ain",
+        "code": "AAN"
+    },
+    {
+        "name": "Abu Dhabi, United Arab Emirates",
+        "code": "AZI"
+    },
+    {
+        "name": "Al-Fujairah, United Arab Emirates - Fujairah Intl",
+        "code": "FJR"
+    },
+    {
+        "name": "Dalma Island, United Arab Emirates - Dalma Airport",
+        "code": "ZDY"
+    },
+    {
+        "name": "Abu Dhabi, United Arab Emirates - Abu Dhabi Airport EK Bus Station",
+        "code": "ZVJ"
+    },
+    {
+        "name": "Dubai, United Arab Emirates - Dubai Airport",
+        "code": "XNB"
+    },
+    {
+        "name": "Abu-Dhabi, United Arab Emirates - Al Dhafra Air Base",
+        "code": "DHF"
+    },
+    {
+        "name": "Dubai, United Arab Emirates - Al Minhad Air Base",
+        "code": "NHD"
+    }
+]

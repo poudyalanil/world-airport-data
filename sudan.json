@@ -1,0 +1,102 @@
+[
+    {
+        "name": "El Debba, Sudan - El Debba Airport",
+        "code": "EDB"
+    },
+    {
+        "name": "Wadi Halfa, Sudan - Wadi Halfa Airport",
+        "code": "WHF"
+    },
+    {
+        "name": "New Halfa, Sudan - New Halfa Airport",
+        "code": "NHF"
+    },
+    {
+        "name": "En Nahud, Sudan - En Nahud Airport",
+        "code": "NUD"
+    },
+    {
+        "name": "Merowe, Sudan - Merowe Airport",
+        "code": "MWE"
+    },
+    {
+        "name": "Rumbek, South Sudan - Rumbek Airport",
+        "code": "RBX"
+    },
+    {
+        "name": "Kadugli, Sudan - Kadugli Airport",
+        "code": "KDX"
+    },
+    {
+        "name": "Kosti, Sudan - Kosti Airport",
+        "code": "KST"
+    },
+    {
+        "name": "Khashm El Girba, Sudan - Khashm El Girba Airport",
+        "code": "GBU"
+    },
+    {
+        "name": "Heglig Oilfield, Sudan - Heglig Airport",
+        "code": "HEG"
+    },
+    {
+        "name": "Dinder, Sudan - Galegu Airport",
+        "code": "DNX"
+    },
+    {
+        "name": "Gedaref, Sudan - Azaza Airport",
+        "code": "GSU"
+    },
+    {
+        "name": "Ad Damazin, Sudan - Damazin Airport",
+        "code": "RSS"
+    },
+    {
+        "name": "Khartoum, Sudan - Civil",
+        "code": "KRT"
+    },
+    {
+        "name": "Atbara, Sudan - Atbara Airport",
+        "code": "ATB"
+    },
+    {
+        "name": "Wau, Sudan",
+        "code": "WUU"
+    },
+    {
+        "name": "Malakal, Sudan - Malakal Airport",
+        "code": "MAK"
+    },
+    {
+        "name": "Dongola, Sudan - Dongola Airport",
+        "code": "DOG"
+    },
+    {
+        "name": "El Fasher, Sudan - El Fasher Airport",
+        "code": "ELF"
+    },
+    {
+        "name": "Nyala, Sudan - Nyala Airport",
+        "code": "UYL"
+    },
+    {
+        "name": "Kassala, Sudan",
+        "code": "KSL"
+    },
+    {
+        "name": "Geneina, Sudan",
+        "code": "EGN"
+    },
+    {
+        "name": "El Obeid, Sudan - El Obeid Airport",
+        "code": "EBD"
+    },
+    {
+        "name": "Port Sudan, Sudan - Port Sudan Airport",
+        "code": "PZU"
+    },
+    {
+        "name": "Juba, Sudan - Juba Airport",
+        "code": "JUB"
+    }
+]

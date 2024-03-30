@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Damascus, Syria - Damascus Intl",
+        "code": "DAM"
+    },
+    {
+        "name": "Kameshli, Syria - Kameshli Airport",
+        "code": "KAC"
+    },
+    {
+        "name": "Aleppo, Syria - Nejrab",
+        "code": "ALP"
+    },
+    {
+        "name": "Deir Ezzor, Syria - Al Jafrah",
+        "code": "DEZ"
+    },
+    {
+        "name": "Latakia, Syria - Latakia/Hmelmin",
+        "code": "LTK"
+    },
+    {
+        "name": "Homs, Syrian Arab Republic - Palmyra Airport",
+        "code": "PMS"
+    }
+]

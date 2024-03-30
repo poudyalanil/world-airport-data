@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Seiyun, Yemen - Seiyun Airport",
+        "code": "GXF"
+    },
+    {
+        "name": "Sana'a, Yemen - Sana'a Intl",
+        "code": "SAH"
+    },
+    {
+        "name": "Aden, Yemen - Aden Intl",
+        "code": "ADE"
+    },
+    {
+        "name": "Al Ghaydah, Yemen - Al Ghaydah Airport",
+        "code": "AAY"
+    },
+    {
+        "name": "Hodeidah, Yemen - Hodeidah Airport",
+        "code": "HOD"
+    },
+    {
+        "name": "Riyan, Yemen - Riyan Airport",
+        "code": "RIY"
+    },
+    {
+        "name": "Socotra, Yemen - Socotra Airport",
+        "code": "SCT"
+    },
+    {
+        "name": "Taiz, Yemen - Al Janad Airport",
+        "code": "TAI"
+    },
+    {
+        "name": "Shabwah, Yemen - Ataq Airport",
+        "code": "AXK"
+    },
+    {
+        "name": "Shabwah, Yemen - Beihan Airport",
+        "code": "BHN"
+    },
+    {
+        "name": "Mareb, Yemen - Mareb Airport",
+        "code": "MYN"
+    },
+    {
+        "name": "Qishn, Yemen - Qishn Airport",
+        "code": "IHN"
+    },
+    {
+        "name": "Sadah, Yemen - Sadah Airport",
+        "code": "SYE"
+    }
+]

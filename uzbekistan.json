@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Tashkent, Uzbekistan - Vostochny",
+        "code": "TAS"
+    },
+    {
+        "name": "Urgench, Uzbekistan - Urgench",
+        "code": "UGC"
+    },
+    {
+        "name": "Navoi, Uzbekistan - Navoi International Airport",
+        "code": "NVI"
+    },
+    {
+        "name": "Samarkand, Uzbekistan - Samarkand",
+        "code": "SKD"
+    },
+    {
+        "name": "Bukhara, Uzbekistan - Bukhara",
+        "code": "BHK"
+    },
+    {
+        "name": "Nukus, Uzbekistan - Nukus Airport",
+        "code": "NCU"
+    },
+    {
+        "name": "Fergana, Uzbekistan - Fergana Airport",
+        "code": "FEG"
+    },
+    {
+        "name": "Termez, Uzbekistan - Termez Airport",
+        "code": "TMJ"
+    },
+    {
+        "name": "Namangan, Uzbekistan - Namangan Airport",
+        "code": "NMA"
+    },
+    {
+        "name": "Andizhan, Uzbekistan - Andizhan Airport",
+        "code": "AZN"
+    },
+    {
+        "name": "Karshi, Uzbekistan - Karshi Airport",
+        "code": "KSQ"
+    },
+    {
+        "name": "Zarafshan, Uzbekistan - Sugraly Airport",
+        "code": "AFS"
+    }
+]

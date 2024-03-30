@@ -1,0 +1,1226 @@
+[
+    {
+        "name": "Icy Bay, United States of America - Icy Bay Airport",
+        "code": "ICY"
+    },
+    {
+        "name": "Hogatza, United States of America - Hog River Airport",
+        "code": "HGZ"
+    },
+    {
+        "name": "Blakely Island, United States of America - Blakely Island Airport",
+        "code": "BYW"
+    },
+    {
+        "name": "Bradford, United States of America - Rinkenberger Restricted Landing Area",
+        "code": "BDF"
+    },
+    {
+        "name": "Belle Chasse, United States of America - Southern Seaplane Airport",
+        "code": "BCS"
+    },
+    {
+        "name": "Blackwell, United States of America - Earl Henry Airport",
+        "code": "BWL"
+    },
+    {
+        "name": "Corolla, United States of America - Pine Island Airport",
+        "code": "DUF"
+    },
+    {
+        "name": "Fort Bragg, United States of America - Fort Bragg Airport",
+        "code": "FOB"
+    },
+    {
+        "name": "Alexander City, United States of America - Thomas C Russell Field",
+        "code": "ALX"
+    },
+    {
+        "name": "Chena Hot Springs, United States of America - Chena Hot Springs Airport",
+        "code": "CEX"
+    },
+    {
+        "name": "Herendeen Bay, United States of America - Herendeen Bay Airport",
+        "code": "HED"
+    },
+    {
+        "name": "Taylor, United States of America - Taylor Airport",
+        "code": "TWE"
+    },
+    {
+        "name": "Candle, United States of America - Candle 2 Airport",
+        "code": "CDL"
+    },
+    {
+        "name": "Egegik, United States of America - Bartletts Airport",
+        "code": "BSZ"
+    },
+    {
+        "name": "Boswell Bay, United States of America - Boswell Bay Airport",
+        "code": "BSW"
+    },
+    {
+        "name": "Durango, United States of America - Animas Air Park",
+        "code": "AMK"
+    },
+    {
+        "name": "Broadus, United States of America - Broadus Airport",
+        "code": "BDX"
+    },
+    {
+        "name": "Fishers Island, United States of America - Elizabeth Field",
+        "code": "FID"
+    },
+    {
+        "name": "Montague, United States of America - Montague-Yreka Rohrer Field",
+        "code": "RKC"
+    },
+    {
+        "name": "Quincy, United States of America - Gansner Field",
+        "code": "GNF"
+    },
+    {
+        "name": "Grants Pass, United States of America - Grants Pass Airport",
+        "code": "GTP"
+    },
+    {
+        "name": "Electric City, United States of America - Grand Coulee Dam Airport",
+        "code": "GCD"
+    },
+    {
+        "name": "Perry, United States of America - Perry Foley Airport",
+        "code": "FPY"
+    },
+    {
+        "name": "Florence, United States of America - Florence Municipal Airport",
+        "code": "FMU"
+    },
+    {
+        "name": "Antlers, United States of America - Antlers Municipal Airport",
+        "code": "ATE"
+    },
+    {
+        "name": "Apalachicola, United States of America - Apalachicola Regional Airport",
+        "code": "AAF"
+    },
+    {
+        "name": "Bellaire, United States of America - Antrim County Airport",
+        "code": "ACB"
+    },
+    {
+        "name": "Adrian, United States of America - Lenawee County Airport",
+        "code": "ADG"
+    },
+    {
+        "name": "Ada, United States of America - Ada Municipal Airport",
+        "code": "ADT"
+    },
+    {
+        "name": "Dallas, United States of America - Addison Airport",
+        "code": "ADS"
+    },
+    {
+        "name": "Camp Springs, United States of America - Andrews Air Force Base",
+        "code": "ADW"
+    },
+    {
+        "name": "Albert Lea, United States of America - Albert Lea Municipal Airport",
+        "code": "AEL"
+    },
+    {
+        "name": "Colorado Springs, United States of America - USAF Academy Airfield",
+        "code": "AFF"
+    },
+    {
+        "name": "Washington, United States of America - Washington County Airport",
+        "code": "WSG"
+    },
+    {
+        "name": "Jaffrey, United States of America - Jaffrey Airport Silver Ranch Airport",
+        "code": "AFN"
+    },
+    {
+        "name": "Afton, United States of America - Afton Municipal Airport",
+        "code": "AFO"
+    },
+    {
+        "name": "Fort Worth, United States of America - Fort Worth Alliance Airport",
+        "code": "AFW"
+    },
+    {
+        "name": "Pittsburgh, United States of America - Allegheny County Airport",
+        "code": "AGC"
+    },
+    {
+        "name": "Magnolia, United States of America - Magnolia Municipal Airport",
+        "code": "AGO"
+    },
+    {
+        "name": "Herlong, United States of America - Amedee Army Air Field",
+        "code": "AHC"
+    },
+    {
+        "name": "Amery, United States of America - Amery Municipal Airport",
+        "code": "AHH"
+    },
+    {
+        "name": "Anderson, United States of America - Anderson Municipal Darlington Field",
+        "code": "AID"
+    },
+    {
+        "name": "Aiken, United States of America - Aiken Municipal Airport",
+        "code": "AIK"
+    },
+    {
+        "name": "Atlantic, United States of America - Atlantic Municipal Airport",
+        "code": "AIO"
+    },
+    {
+        "name": "Aliceville, United States of America - George Downer Airport",
+        "code": "AIV"
+    },
+    {
+        "name": "Akron, United States of America - Colorado Plains Regional Airport",
+        "code": "AKO"
+    },
+    {
+        "name": "Akron, United States of America - Akron Fulton International Airport",
+        "code": "AKC"
+    },
+    {
+        "name": "Alice, United States of America - Alice International Airport",
+        "code": "ALI"
+    },
+    {
+        "name": "Alton/St Louis, United States of America - St Louis Regional Airport",
+        "code": "ALN"
+    },
+    {
+        "name": "Alma, United States of America - RPD Airport",
+        "code": "AMN"
+    },
+    {
+        "name": "Ames, United States of America - Ames Municipal Airport",
+        "code": "AMW"
+    },
+    {
+        "name": "Annapolis, United States of America - Lee Airport",
+        "code": "ANP"
+    },
+    {
+        "name": "Angola, United States of America - Tri State Steuben County Airport",
+        "code": "ANQ"
+    },
+    {
+        "name": "Ainsworth, United States of America - Ainsworth Municipal Airport",
+        "code": "ANW"
+    },
+    {
+        "name": "Anthony, United States of America - Anthony Municipal Airport",
+        "code": "ANY"
+    },
+    {
+        "name": "Lima, United States of America - Lima Allen County Airport",
+        "code": "AOH"
+    },
+    {
+        "name": "Denver, United States of America - Centennial Airport",
+        "code": "APA"
+    },
+    {
+        "name": "Aberdeen Proving Grounds(Aberdeen), United States of America - Phillips Army Air Field",
+        "code": "APG"
+    },
+    {
+        "name": "Fort A. P. Hill, United States of America - A P Hill Aaf (Fort A P Hill) Airport",
+        "code": "APH"
+    },
+    {
+        "name": "Jasper, United States of America - Marion County Brown Field",
+        "code": "APT"
+    },
+    {
+        "name": "Apple Valley, United States of America - Apple Valley Airport",
+        "code": "APV"
+    },
+    {
+        "name": "Ann Arbor, United States of America - Ann Arbor Municipal Airport",
+        "code": "ARB"
+    },
+    {
+        "name": "Walnut Ridge, United States of America - Walnut Ridge Regional Airport",
+        "code": "ARG"
+    },
+    {
+        "name": "Chicago/Aurora, United States of America - Aurora Municipal Airport",
+        "code": "AUZ"
+    },
+    {
+        "name": "Beaufort, United States of America - Beaufort County Airport",
+        "code": "BFT"
+    },
+    {
+        "name": "Nashua, United States of America - Boire Field",
+        "code": "ASH"
+    },
+    {
+        "name": "Marshall, United States of America - Harrison County Airport",
+        "code": "ASL"
+    },
+    {
+        "name": "Talladega, United States of America - Talladega Municipal Airport",
+        "code": "ASN"
+    },
+    {
+        "name": "Ashland, United States of America - John F Kennedy Memorial Airport",
+        "code": "ASX"
+    },
+    {
+        "name": "Ashley, United States of America - Ashley Municipal Airport",
+        "code": "ASY"
+    },
+    {
+        "name": "Artesia, United States of America - Artesia Municipal Airport",
+        "code": "ATS"
+    },
+    {
+        "name": "Austin, United States of America - Austin Municipal Airport",
+        "code": "AUM"
+    },
+    {
+        "name": "Auburn, United States of America - Auburn Municipal Airport",
+        "code": "AUN"
+    },
+    {
+        "name": "Wausau, United States of America - Wausau Downtown Airport",
+        "code": "AUW"
+    },
+    {
+        "name": "Avon Park, United States of America - Avon Park Executive Airport",
+        "code": "AVO"
+    },
+    {
+        "name": "Tucson, United States of America - Marana Regional Airport",
+        "code": "AVW"
+    },
+    {
+        "name": "West Memphis, United States of America - West Memphis Municipal Airport",
+        "code": "AWM"
+    },
+    {
+        "name": "Algona, United States of America - Algona Municipal Airport",
+        "code": "AXG"
+    },
+    {
+        "name": "Altus, United States of America - Altus Quartz Mountain Regional Airport",
+        "code": "AXS"
+    },
+    {
+        "name": "Wapakoneta, United States of America - Neil Armstrong Airport",
+        "code": "AXV"
+    },
+    {
+        "name": "Waycross, United States of America - Waycross Ware County Airport",
+        "code": "AYS"
+    },
+    {
+        "name": "Marysville, United States of America - Beale Air Force Base",
+        "code": "BAB"
+    },
+    {
+        "name": "Bossier City, United States of America - Barksdale Air Force Base",
+        "code": "BAD"
+    },
+    {
+        "name": "Westfield/Springfield, United States of America - Barnes Municipal Airport",
+        "code": "BAF"
+    },
+    {
+        "name": "Benson, United States of America - Benson Municipal Airport",
+        "code": "BBB"
+    },
+    {
+        "name": "Brady, United States of America - Curtis Field",
+        "code": "BBD"
+    },
+    {
+        "name": "Bennettsville, United States of America - Marlboro County Jetport H.E. Avent Field",
+        "code": "BTN"
+    },
+    {
+        "name": "Broken Bow, United States of America - Broken Bow Municipal Airport",
+        "code": "BBW"
+    },
+    {
+        "name": "Blacksburg, United States of America - Virginia Tech Montgomery Executive Airport",
+        "code": "BCB"
+    },
+    {
+        "name": "Bryce Canyon, United States of America - Bryce Canyon Airport",
+        "code": "BCE"
+    },
+    {
+        "name": "Boca Raton, United States of America - Boca Raton Airport",
+        "code": "BCT"
+    },
+    {
+        "name": "Baudette, United States of America - Baudette International Airport",
+        "code": "BDE"
+    },
+    {
+        "name": "Wichita, United States of America - Beech Factory Airport",
+        "code": "BEC"
+    },
+    {
+        "name": "Mobile, United States of America - Mobile Downtown Airport",
+        "code": "BFM"
+    },
+    {
+        "name": "Bedford, United States of America - Virgil I Grissom Municipal Airport",
+        "code": "BFR"
+    },
+    {
+        "name": "Borger, United States of America - Hutchinson County Airport",
+        "code": "BGD"
+    },
+    {
+        "name": "Bainbridge, United States of America - Decatur County Industrial Air Park",
+        "code": "BGE"
+    },
+    {
+        "name": "Biloxi, United States of America - Keesler Air Force Base",
+        "code": "BIX"
+    },
+    {
+        "name": "Breckenridge, United States of America - Stephens County Airport",
+        "code": "BKD"
+    },
+    {
+        "name": "Aurora, United States of America - Buckley Air Force Base",
+        "code": "BFK"
+    },
+    {
+        "name": "Blackstone, United States of America - Allen C Perkinson Blackstone Army Air Field",
+        "code": "BKT"
+    },
+    {
+        "name": "Brookings, United States of America - Brookings Regional Airport",
+        "code": "BKX"
+    },
+    {
+        "name": "Emigrant Gap, United States of America - Blue Canyon Nyack Airport",
+        "code": "BLU"
+    },
+    {
+        "name": "Brigham City, United States of America - Brigham City Airport",
+        "code": "BMC"
+    },
+    {
+        "name": "Berlin, United States of America - Berlin Regional Airport",
+        "code": "BML"
+    },
+    {
+        "name": "Beaumont, United States of America - Beaumont Municipal Airport",
+        "code": "BMT"
+    },
+    {
+        "name": "Banning, United States of America - Banning Municipal Airport",
+        "code": "BNG"
+    },
+    {
+        "name": "Barnwell, United States of America - Barnwell Regional Airport",
+        "code": "BNL"
+    },
+    {
+        "name": "Burns, United States of America - Burns Municipal Airport",
+        "code": "BNO"
+    },
+    {
+        "name": "Boone, United States of America - Boone Municipal Airport",
+        "code": "BNW"
+    },
+    {
+        "name": "Bartow, United States of America - Bartow Municipal Airport",
+        "code": "BOW"
+    },
+    {
+        "name": "Big Spring, United States of America - Big Spring Mc Mahon-Wrinkle Airport",
+        "code": "BGS"
+    },
+    {
+        "name": "Big Piney, United States of America - Miley Memorial Field",
+        "code": "BPI"
+    },
+    {
+        "name": "Mountain Home, United States of America - Ozark Regional Airport",
+        "code": "WMH"
+    },
+    {
+        "name": "Bowman, United States of America - Bowman Municipal Airport",
+        "code": "BWM"
+    },
+    {
+        "name": "Bardstown, United States of America - Samuels Field",
+        "code": "BRY"
+    },
+    {
+        "name": "Bountiful, United States of America - Skypark Airport",
+        "code": "BTF"
+    },
+    {
+        "name": "Beatty, United States of America - Beatty Airport",
+        "code": "BTY"
+    },
+    {
+        "name": "Burwell, United States of America - Cram Field",
+        "code": "BUB"
+    },
+    {
+        "name": "Butler, United States of America - Butler Memorial Airport",
+        "code": "BUM"
+    },
+    {
+        "name": "Beaver Falls, United States of America - Beaver County Airport",
+        "code": "BFP"
+    },
+    {
+        "name": "Bartlesville, United States of America - Bartlesville Municipal Airport",
+        "code": "BVO"
+    },
+    {
+        "name": "Batesville, United States of America - Batesville Regional Airport",
+        "code": "BVX"
+    },
+    {
+        "name": "Beverly, United States of America - Beverly Municipal Airport",
+        "code": "BVY"
+    },
+    {
+        "name": "Brawley, United States of America - Brawley Municipal Airport",
+        "code": "BWC"
+    },
+    {
+        "name": "Wahpeton, United States of America - Harry Stern Airport",
+        "code": "WAH"
+    },
+    {
+        "name": "Bogalusa, United States of America - George R Carr Memorial Air Field",
+        "code": "BXA"
+    },
+    {
+        "name": "Buckeye, United States of America - Buckeye Municipal Airport",
+        "code": "BXK"
+    },
+    {
+        "name": "Brunswick, United States of America - Brunswick Executive Airport",
+        "code": "NHZ"
+    },
+    {
+        "name": "Fort Irwin/Barstow, United States of America - Bicycle Lake Army Air Field",
+        "code": "BYS"
+    },
+    {
+        "name": "Bay City, United States of America - Bay City Municipal Airport",
+        "code": "BBC"
+    },
+    {
+        "name": "Clayton, United States of America - Clayton Municipal Airpark",
+        "code": "CAO"
+    },
+    {
+        "name": "Council Bluffs, United States of America - Council Bluffs Municipal Airport",
+        "code": "CBF"
+    },
+    {
+        "name": "Colby, United States of America - Shalz Field",
+        "code": "CBK"
+    },
+    {
+        "name": "Columbus, United States of America - Columbus Air Force Base",
+        "code": "CBM"
+    },
+    {
+        "name": "Upland, United States of America - Cable Airport",
+        "code": "CCB"
+    },
+    {
+        "name": "Charles City, United States of America - Northeast Iowa Regional Airport",
+        "code": "CCY"
+    },
+    {
+        "name": "Lyndonville, United States of America - Caledonia County Airport",
+        "code": "LLX"
+    },
+    {
+        "name": "Camden, United States of America - Harrell Field",
+        "code": "CDH"
+    },
+    {
+        "name": "Cedar Key, United States of America - George T Lewis Airport",
+        "code": "CDK"
+    },
+    {
+        "name": "Camden, United States of America - Woodward Field",
+        "code": "CDN"
+    },
+    {
+        "name": "Childress, United States of America - Childress Municipal Airport",
+        "code": "CDS"
+    },
+    {
+        "name": "Springfield/Chicopee, United States of America - Westover ARB/Metropolitan Airport",
+        "code": "CEF"
+    },
+    {
+        "name": "Corcoran, United States of America - Corcoran Airport",
+        "code": "CRO"
+    },
+    {
+        "name": "Wichita Falls, United States of America - Kickapoo Downtown Airport",
+        "code": "KIP"
+    },
+    {
+        "name": "Lake Charles, United States of America - Chennault International Airport",
+        "code": "CWF"
+    },
+    {
+        "name": "Fort Belvoir, United States of America - Davison Army Air Field",
+        "code": "DAA"
+    },
+    {
+        "name": "Daggett, United States of America - Barstow Daggett Airport",
+        "code": "DAG"
+    },
+    {
+        "name": "Danville, United States of America - Danville Regional Airport",
+        "code": "DAN"
+    },
+    {
+        "name": "Dublin, United States of America - W H 'Bud' Barron Airport",
+        "code": "DBN"
+    },
+    {
+        "name": "Decatur, United States of America - Pryor Field Regional Airport",
+        "code": "DCU"
+    },
+    {
+        "name": "Decorah, United States of America - Decorah Municipal Airport",
+        "code": "DEH"
+    },
+    {
+        "name": "Detroit, United States of America - Coleman A. Young Municipal Airport",
+        "code": "DET"
+    },
+    {
+        "name": "Defiance, United States of America - Defiance Memorial Airport",
+        "code": "DFI"
+    },
+    {
+        "name": "Douglas, United States of America - Douglas Municipal Airport",
+        "code": "DGL"
+    },
+    {
+        "name": "Douglas, United States of America - Converse County Airport",
+        "code": "DGW"
+    },
+    {
+        "name": "Dalhart, United States of America - Dalhart Municipal Airport",
+        "code": "DHT"
+    },
+    {
+        "name": "Augusta, United States of America - Daniel Field",
+        "code": "DNL"
+    },
+    {
+        "name": "Chicago/West Chicago, United States of America - Dupage Airport",
+        "code": "DPA"
+    },
+    {
+        "name": "Dugway Proving Ground, United States of America - Michael AAF (Dugway Proving Ground) Airport",
+        "code": "DPG"
+    },
+    {
+        "name": "Dansville, United States of America - Dansville Municipal Airport",
+        "code": "DSV"
+    },
+    {
+        "name": "Delta, United States of America - Delta Municipal Airport",
+        "code": "DTA"
+    },
+    {
+        "name": "Shreveport, United States of America - Shreveport Downtown Airport",
+        "code": "DTN"
+    },
+    {
+        "name": "Durant, United States of America - Eaker Field",
+        "code": "DUA"
+    },
+    {
+        "name": "Duncan, United States of America - Halliburton Field",
+        "code": "DUC"
+    },
+    {
+        "name": "Douglas Bisbee, United States of America - Bisbee Douglas International Airport",
+        "code": "DUG"
+    },
+    {
+        "name": "Phoenix, United States of America - Phoenix Deer Valley Airport",
+        "code": "DVT"
+    },
+    {
+        "name": "Houston, United States of America - David Wayne Hooks Memorial Airport",
+        "code": "DWH"
+    },
+    {
+        "name": "Danbury, United States of America - Danbury Municipal Airport",
+        "code": "DXR"
+    },
+    {
+        "name": "Doylestown, United States of America - Doylestown Airport",
+        "code": "DYL"
+    },
+    {
+        "name": "Abilene, United States of America - Dyess Air Force Base",
+        "code": "DYS"
+    },
+    {
+        "name": "Crane, United States of America - Crane County Airport",
+        "code": "CCG"
+    },
+    {
+        "name": "Big Lake, United States of America - Reagan County Airport",
+        "code": "BGQ"
+    },
+    {
+        "name": "Bagdad, United States of America - Bagdad Airport",
+        "code": "BGT"
+    },
+    {
+        "name": "Webster City, United States of America - Webster City Municipal Airport",
+        "code": "EBS"
+    },
+    {
+        "name": "Elizabeth City, United States of America - Elizabeth City Regional Airport & Coast Guard Air Station",
+        "code": "ECG"
+    },
+    {
+        "name": "Keene, United States of America - Dillant Hopkins Airport",
+        "code": "EEN"
+    },
+    {
+        "name": "Newport, United States of America - Newport State Airport",
+        "code": "EFK"
+    },
+    {
+        "name": "Enid, United States of America - Vance Air Force Base",
+        "code": "END"
+    },
+    {
+        "name": "Evanston, United States of America - Evanston-Uinta County Airport-Burns Field",
+        "code": "EVW"
+    },
+    {
+        "name": "Newton, United States of America - Newton City-County Airport",
+        "code": "EWK"
+    },
+    {
+        "name": "Fort Bragg, United States of America - Simmons Army Air Field",
+        "code": "FBG"
+    },
+    {
+        "name": "Fort Carson, United States of America - Butts AAF (Fort Carson) Air Field",
+        "code": "FCS"
+    },
+    {
+        "name": "Fernandina Beach, United States of America - Fernandina Beach Municipal Airport",
+        "code": "FHB"
+    },
+    {
+        "name": "Fillmore, United States of America - Fillmore Municipal Airport",
+        "code": "FIL"
+    },
+    {
+        "name": "French Lick, United States of America - French Lick Municipal Airport",
+        "code": "FRH"
+    },
+    {
+        "name": "Fort Riley(Junction City), United States of America - Marshall Army Air Field",
+        "code": "FRI"
+    },
+    {
+        "name": "Fairmont, United States of America - Fairmont Municipal Airport",
+        "code": "FRM"
+    },
+    {
+        "name": "Fort Sill, United States of America - Henry Post Army Air Field (Fort Sill)",
+        "code": "FSI"
+    },
+    {
+        "name": "Fort Madison, United States of America - Fort Madison Municipal Airport",
+        "code": "FMS"
+    },
+    {
+        "name": "Fort Worth, United States of America - Fort Worth Meacham International Airport",
+        "code": "FTW"
+    },
+    {
+        "name": "Fayetteville, United States of America - Drake Field",
+        "code": "FYV"
+    },
+    {
+        "name": "Gabbs, United States of America - Gabbs Airport",
+        "code": "GAB"
+    },
+    {
+        "name": "Gage, United States of America - Gage Airport",
+        "code": "GAG"
+    },
+    {
+        "name": "Grand Canyon, United States of America - Grand Canyon National Park Airport",
+        "code": "GCN"
+    },
+    {
+        "name": "Grundy, United States of America - Grundy Municipal Airport",
+        "code": "GDY"
+    },
+    {
+        "name": "Grangeville, United States of America - Idaho County Airport",
+        "code": "IDH"
+    },
+    {
+        "name": "Galveston, United States of America - Scholes International At Galveston Airport",
+        "code": "GLS"
+    },
+    {
+        "name": "Hickory, United States of America - Hickory Regional Airport",
+        "code": "HKY"
+    },
+    {
+        "name": "Hatteras, United States of America - Billy Mitchell Airport",
+        "code": "HNC"
+    },
+    {
+        "name": "Terre Haute, United States of America - Terre Haute International Hulman Field",
+        "code": "HUF"
+    },
+    {
+        "name": "Wichita, United States of America - Mc Connell Air Force Base",
+        "code": "IAB"
+    },
+    {
+        "name": "Pine Ridge, United States of America - Pine Ridge Airport",
+        "code": "XPR"
+    },
+    {
+        "name": "Winston Salem, United States of America - Smith Reynolds Airport",
+        "code": "INT"
+    },
+    {
+        "name": "Borrego Springs, United States of America - Borrego Valley Airport",
+        "code": "BXS"
+    },
+    {
+        "name": "Philadelphia, United States of America - Wings Field",
+        "code": "BBX"
+    },
+    {
+        "name": "Midland, United States of America - Midland Airpark",
+        "code": "MDD"
+    },
+    {
+        "name": "Carbondale/Murphysboro, United States of America - Southern Illinois Airport",
+        "code": "MDH"
+    },
+    {
+        "name": "Mojave, United States of America - Mojave Airport",
+        "code": "MHV"
+    },
+    {
+        "name": "Muncie, United States of America - Delaware County Johnson Field",
+        "code": "MIE"
+    },
+    {
+        "name": "Mariposa, United States of America - Mariposa Yosemite Airport",
+        "code": "RMY"
+    },
+    {
+        "name": "Morrisville, United States of America - Morrisville Stowe State Airport",
+        "code": "MVL"
+    },
+    {
+        "name": "Dahlgren, United States of America - Dahlgren Naval Surface Warfare Center Airport",
+        "code": "DGN"
+    },
+    {
+        "name": "Lakehurst, United States of America - Lakehurst NAES /Maxfield Field",
+        "code": "NEL"
+    },
+    {
+        "name": "El Centro, United States of America - El Centro Naf Airport",
+        "code": "NJK"
+    },
+    {
+        "name": "Beckwourth, United States of America - Nervino Airport",
+        "code": "NVN"
+    },
+    {
+        "name": "Oakdale, United States of America - Oakdale Airport",
+        "code": "ODC"
+    },
+    {
+        "name": "Yerington, United States of America - Yerington Municipal Airport",
+        "code": "EYR"
+    },
+    {
+        "name": "Marina, United States of America - Marina Municipal Airport",
+        "code": "OAR"
+    },
+    {
+        "name": "Old Town, United States of America - Dewitt FieldOld Town Municipal Airport",
+        "code": "OLD"
+    },
+    {
+        "name": "Ottumwa, United States of America - Ottumwa Regional Airport",
+        "code": "OTM"
+    },
+    {
+        "name": "Bisbee, United States of America - Bisbee Municipal Airport",
+        "code": "BSQ"
+    },
+    {
+        "name": "Holbrook, United States of America - Holbrook Municipal Airport",
+        "code": "HBK"
+    },
+    {
+        "name": "Willcox, United States of America - Cochise County Airport",
+        "code": "CWX"
+    },
+    {
+        "name": "Pacific City, United States of America - Pacific City State Airport",
+        "code": "PFC"
+    },
+    {
+        "name": "Panama City, United States of America - Panama City-Bay Co International Airport",
+        "code": "PFN"
+    },
+    {
+        "name": "Andrews, United States of America - Robert F Swinnie Airport",
+        "code": "ADR"
+    },
+    {
+        "name": "Palmdale, United States of America - Palmdale Regional/USAF Plant 42 Airport",
+        "code": "PMD"
+    },
+    {
+        "name": "Poughkeepsie, United States of America - Dutchess County Airport",
+        "code": "POU"
+    },
+    {
+        "name": "Reed City, United States of America - Nartron Field",
+        "code": "RCT"
+    },
+    {
+        "name": "El Reno, United States of America - El Reno Regional Airport",
+        "code": "RQO"
+    },
+    {
+        "name": "Rexburg, United States of America - Rexburg Madison County Airport",
+        "code": "RXE"
+    },
+    {
+        "name": "Ashland, United States of America - Ashland Municipal Sumner Parker Field",
+        "code": "AHM"
+    },
+    {
+        "name": "Bandon, United States of America - Bandon State Airport",
+        "code": "BDY"
+    },
+    {
+        "name": "Sunriver, United States of America - Sunriver Airport",
+        "code": "SUO"
+    },
+    {
+        "name": "Kennewick, United States of America - Vista Field",
+        "code": "VSK"
+    },
+    {
+        "name": "Salton City, United States of America - Salton Sea Airport",
+        "code": "SAS"
+    },
+    {
+        "name": "St Paul, United States of America - St Paul Downtown Holman Field",
+        "code": "STP"
+    },
+    {
+        "name": "Stanton, United States of America - Stanton Airfield",
+        "code": "SYN"
+    },
+    {
+        "name": "Santa Barbara, United States of America - Santa Cruz Island Airport",
+        "code": "SZN"
+    },
+    {
+        "name": "Santa Paula, United States of America - Santa Paula Airport",
+        "code": "SZP"
+    },
+    {
+        "name": "Thompson Falls, United States of America - Thompson Falls Airport",
+        "code": "THM"
+    },
+    {
+        "name": "Miami, United States of America - Miami Executive Airport",
+        "code": "TMB"
+    },
+    {
+        "name": "Tillamook, United States of America - Tillamook Airport",
+        "code": "OTK"
+    },
+    {
+        "name": "Austin, United States of America - Austin Airport",
+        "code": "ASQ"
+    },
+    {
+        "name": "Temple, United States of America - Draughon Miller Central Texas Regional Airport",
+        "code": "TPL"
+    },
+    {
+        "name": "South Lake Tahoe, United States of America - Lake Tahoe Airport",
+        "code": "TVL"
+    },
+    {
+        "name": "Glen Canyon Natl Rec Area, United States of America - Bullfrog Basin Airport",
+        "code": "BFG"
+    },
+    {
+        "name": "Green River, United States of America - Green River Municipal Airport",
+        "code": "RVR"
+    },
+    {
+        "name": "Cascade, United States of America - Cascade Airport",
+        "code": "ICS"
+    },
+    {
+        "name": "Athens/Albany, United States of America - Ohio University Snyder Field",
+        "code": "ATO"
+    },
+    {
+        "name": "Valdosta, United States of America - Moody Air Force Base",
+        "code": "VAD"
+    },
+    {
+        "name": "Friendly, United States of America - Potomac Airfield",
+        "code": "VKX"
+    },
+    {
+        "name": "Springfield, United States of America - Hartness State (Springfield) Airport",
+        "code": "VSF"
+    },
+    {
+        "name": "Wallops Island, United States of America - Wallops Flight Facility Airport",
+        "code": "WAL"
+    },
+    {
+        "name": "Waynesburg, United States of America - Greene County Airport",
+        "code": "WAY"
+    },
+    {
+        "name": "Wrightstown, United States of America - Mc Guire Air Force Base",
+        "code": "WRI"
+    },
+    {
+        "name": "Detroit, United States of America - Willow Run Airport",
+        "code": "YIP"
+    },
+    {
+        "name": "Zephyrhills, United States of America - Zephyrhills Municipal Airport",
+        "code": "ZPH"
+    },
+    {
+        "name": "Oklahoma City, United States of America - Downtown Airpark",
+        "code": "DWN"
+    },
+    {
+        "name": "Cold Bay, United States of America - Port Moller Airport",
+        "code": "PML"
+    },
+    {
+        "name": "Palmer, United States of America - Palmer Municipal Airport",
+        "code": "PAQ"
+    },
+    {
+        "name": "Beluga, United States of America - Beluga Airport",
+        "code": "BVU"
+    },
+    {
+        "name": "Delta Junction Ft Greely, United States of America - Allen Army Airfield",
+        "code": "BIG"
+    },
+    {
+        "name": "Big Mountain, United States of America - Big Mountain Airport",
+        "code": "BMX"
+    },
+    {
+        "name": "Cape Romanzof, United States of America - Cape Romanzof LRRS Airport",
+        "code": "CZF"
+    },
+    {
+        "name": "Anchorage, United States of America - Elmendorf Air Force Base",
+        "code": "EDF"
+    },
+    {
+        "name": "Cape Newenham, United States of America - Cape Newenham LRRS Airport",
+        "code": "EHM"
+    },
+    {
+        "name": "Fairbanks, United States of America - Eielson Air Force Base",
+        "code": "EIL"
+    },
+    {
+        "name": "Fairbanks/Ft Wainwright, United States of America - Ladd AAF Airfield",
+        "code": "FBK"
+    },
+    {
+        "name": "Kake, United States of America - Kake Airport",
+        "code": "AFE"
+    },
+    {
+        "name": "Five Mile, United States of America - Five Mile Airport",
+        "code": "FMC"
+    },
+    {
+        "name": "Gulkana, United States of America - Gulkana Airport",
+        "code": "GKN"
+    },
+    {
+        "name": "Granite Mountain, United States of America - Granite Mountain Air Station",
+        "code": "GMT"
+    },
+    {
+        "name": "Tahneta Pass Lodge, United States of America - Tahneta Pass Airport",
+        "code": "HNE"
+    },
+    {
+        "name": "Utopia Creek, United States of America - Indian Mountain LRRS Airport",
+        "code": "UTO"
+    },
+    {
+        "name": "Kuparuk, United States of America - Ugnu-Kuparuk Airport",
+        "code": "UUK"
+    },
+    {
+        "name": "Klawock, United States of America - Klawock Airport",
+        "code": "AKW"
+    },
+    {
+        "name": "Port Alsworth, United States of America - Port Alsworth Airport",
+        "code": "PTA"
+    },
+    {
+        "name": "Lonely, United States of America - Lonely Air Station",
+        "code": "LNI"
+    },
+    {
+        "name": "Deadhorse, United States of America - Alpine Airstrip",
+        "code": "DQH"
+    },
+    {
+        "name": "Manokotak, United States of America - Manokotak Airport",
+        "code": "KMO"
+    },
+    {
+        "name": "Anchorage, United States of America - Merrill Field",
+        "code": "MRI"
+    },
+    {
+        "name": "Nenana, United States of America - Nenana Municipal Airport",
+        "code": "ENN"
+    },
+    {
+        "name": "Annette, United States of America - Annette Island Airport",
+        "code": "ANN"
+    },
+    {
+        "name": "Portage Creek, United States of America - Portage Creek Airport",
+        "code": "PCA"
+    },
+    {
+        "name": "Northway, United States of America - Northway Airport",
+        "code": "ORT"
+    },
+    {
+        "name": "St George, United States of America - St George Airport",
+        "code": "PBV"
+    },
+    {
+        "name": "Sleetmute, United States of America - Sleetmute Airport",
+        "code": "SQL"
+    },
+    {
+        "name": "Sheep Mountain, United States of America - Sheep Mountain Airport",
+        "code": "SMU"
+    },
+    {
+        "name": "Summit, United States of America - Summit Airport",
+        "code": "UMM"
+    },
+    {
+        "name": "Sparrevohn, United States of America - Sparrevohn LRRS Airport",
+        "code": "SVW"
+    },
+    {
+        "name": "Soldotna, United States of America - Soldotna Airport",
+        "code": "SXQ"
+    },
+    {
+        "name": "Shemya, United States of America - Eareckson Air Station",
+        "code": "SYA"
+    },
+    {
+        "name": "Umiat, United States of America - Umiat Airport",
+        "code": "UMT"
+    },
+    {
+        "name": "Seward, United States of America - Seward Airport",
+        "code": "SWD"
+    },
+    {
+        "name": "Wasilla, United States of America - Wasilla Airport",
+        "code": "IYS"
+    },
+    {
+        "name": "Clarks Point, United States of America - Clarks Point Airport",
+        "code": "CLP"
+    },
+    {
+        "name": "Kokhanok, United States of America - Kokhanok Airport",
+        "code": "KNK"
+    },
+    {
+        "name": "Kekaha, United States of America - Barking Sands Airport",
+        "code": "BKH"
+    },
+    {
+        "name": "Mokuleia, United States of America - Dillingham Airfield",
+        "code": "HDH"
+    },
+    {
+        "name": "Wahiawa, United States of America - Wheeler Army Airfield",
+        "code": "HHI"
+    },
+    {
+        "name": "Hanapepe, United States of America - Port Allen Airport",
+        "code": "PAK"
+    },
+    {
+        "name": "Camp Pohakuloa, United States of America - Bradshaw Army Airfield",
+        "code": "BSF"
+    },
+    {
+        "name": "Hawi, United States of America - Upolu Airport",
+        "code": "UPP"
+    },
+    {
+        "name": "Decatur, United States of America - Decatur Shores Airport",
+        "code": "DTR"
+    }
+]

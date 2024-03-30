@@ -1,0 +1,474 @@
+[
+    {
+        "name": "London, United Kingdom - All Airports",
+        "code": "LON"
+    },
+    {
+        "name": "London, United Kingdom - Heathrow Airport",
+        "code": "LHR"
+    },
+    {
+        "name": "London, United Kingdom - Gatwick Airport",
+        "code": "LGW"
+    },
+    {
+        "name": "Manchester, United Kingdom - Manchester International Airport",
+        "code": "MAN"
+    },
+    {
+        "name": "Edinburgh, United Kingdom - Edinburgh",
+        "code": "EDI"
+    },
+    {
+        "name": "Birmingham, United Kingdom - Birmingham International Airport",
+        "code": "BHX"
+    },
+    {
+        "name": "London, United Kingdom - Stansted",
+        "code": "STN"
+    },
+    {
+        "name": "London, United Kingdom - London City Airport",
+        "code": "LCY"
+    },
+    {
+        "name": "London, United Kingdom - Luton",
+        "code": "LTN"
+    },
+    {
+        "name": "Glasgow, United Kingdom - Glasgow International Airport",
+        "code": "GLA"
+    },
+    {
+        "name": "Bristol, United Kingdom - Bristol Intl",
+        "code": "BRS"
+    },
+    {
+        "name": "Aberdeen, United Kingdom - Dyce",
+        "code": "ABZ"
+    },
+    {
+        "name": "Newcastle, United Kingdom - Newcastle",
+        "code": "NCL"
+    },
+    {
+        "name": "Belfast, United Kingdom - Belfast City",
+        "code": "BHD"
+    },
+    {
+        "name": "Southampton, United Kingdom - Southampton",
+        "code": "SOU"
+    },
+    {
+        "name": "Belfast, United Kingdom - Belfast Intl",
+        "code": "BFS"
+    },
+    {
+        "name": "Leeds, United Kingdom - Leeds/Bradford",
+        "code": "LBA"
+    },
+    {
+        "name": "Liverpool, United Kingdom - John Lennon",
+        "code": "LPL"
+    },
+    {
+        "name": "Jersey, United Kingdom - Jersey",
+        "code": "JER"
+    },
+    {
+        "name": "Cardiff, United Kingdom - Cardiff-Wales",
+        "code": "CWL"
+    },
+    {
+        "name": "Guernsey, United Kingdom - Guernsey",
+        "code": "GCI"
+    },
+    {
+        "name": "Isle of Man, United Kingdom - Ronaldsway",
+        "code": "IOM"
+    },
+    {
+        "name": "Norwich, United Kingdom - Norwich",
+        "code": "NWI"
+    },
+    {
+        "name": "Inverness, United Kingdom - Inverness",
+        "code": "INV"
+    },
+    {
+        "name": "Exeter, United Kingdom - Exeter",
+        "code": "EXT"
+    },
+    {
+        "name": "Southend, United Kingdom",
+        "code": "SEN"
+    },
+    {
+        "name": "Doncaster, United Kingdom - Sheffield",
+        "code": "DSA"
+    },
+    {
+        "name": "Kirkwall, United Kingdom - Kirkwall",
+        "code": "KOI"
+    },
+    {
+        "name": "Newquay, United Kingdom - Newquay Civil",
+        "code": "NQY"
+    },
+    {
+        "name": "Kirmington, United Kingdom - Humberside Airport",
+        "code": "HUY"
+    },
+    {
+        "name": "Teesside, United Kingdom - Durham Tees Valley",
+        "code": "MME"
+    },
+    {
+        "name": "Isles of Scilly, United Kingdom - St Marys",
+        "code": "ISC"
+    },
+    {
+        "name": "Glasgow, United Kingdom - Prestwick",
+        "code": "PIK"
+    },
+    {
+        "name": "Lands End, United Kingdom",
+        "code": "LEQ"
+    },
+    {
+        "name": "Bournemouth, United Kingdom - Bournemouth",
+        "code": "BOH"
+    },
+    {
+        "name": "Shetland Islands, United Kingdom - Sumburgh",
+        "code": "LSI"
+    },
+    {
+        "name": "Stornoway, United Kingdom - Stornoway",
+        "code": "SYY"
+    },
+    {
+        "name": "North Ronaldsay, United Kingdom - North Ronaldsay Airport",
+        "code": "NRL"
+    },
+    {
+        "name": "Papa Westray, United Kingdom - Papa Westray Airport",
+        "code": "PPW"
+    },
+    {
+        "name": "Londonderry, United Kingdom - Eglinton",
+        "code": "LDY"
+    },
+    {
+        "name": "Wick, United Kingdom - Wick",
+        "code": "WIC"
+    },
+    {
+        "name": "Sanday, United Kingdom - Sanday Airport",
+        "code": "NDY"
+    },
+    {
+        "name": "Stronsay, United Kingdom - Stronsay Airport",
+        "code": "SOY"
+    },
+    {
+        "name": "Westray, United Kingdom - Westray Airport",
+        "code": "WRY"
+    },
+    {
+        "name": "Llanfair yn Neubwll, United Kingdom - Anglesey Airport",
+        "code": "VLY"
+    },
+    {
+        "name": "Barra, United Kingdom - North Bay",
+        "code": "BRR"
+    },
+    {
+        "name": "Benbecula, United Kingdom - Benbecula Airport",
+        "code": "BEB"
+    },
+    {
+        "name": "Islay, United Kingdom - Glenegedale Airport",
+        "code": "ILY"
+    },
+    {
+        "name": "Tiree, Inner Hebrides, United Kingdom",
+        "code": "TRE"
+    },
+    {
+        "name": "Dundee, United Kingdom - Dundee",
+        "code": "DND"
+    },
+    {
+        "name": "Campbeltown, United Kingdom - Machrihanish Airport",
+        "code": "CAL"
+    },
+    {
+        "name": "Cambridge, United Kingdom",
+        "code": "CBG"
+    },
+    {
+        "name": "Eday, United Kingdom - Eday Airport",
+        "code": "EOI"
+    },
+    {
+        "name": "Lydd, United Kingdom - Lydd International Airport",
+        "code": "LYX"
+    },
+    {
+        "name": "Oxfordshire, United Kingdom - RAF Brize Norton Airport",
+        "code": "BZZ"
+    },
+    {
+        "name": "Chester, United Kingdom",
+        "code": "CEG"
+    },
+    {
+        "name": "Alderney, United Kingdom - The Blaye Airport",
+        "code": "ACI"
+    },
+    {
+        "name": "Blackbush, United Kingdom",
+        "code": "BBS"
+    },
+    {
+        "name": "Blackpool, United Kingdom - Blackpool",
+        "code": "BLK"
+    },
+    {
+        "name": "Farnborough, United Kingdom",
+        "code": "FAB"
+    },
+    {
+        "name": "Gloucester, United Kingdom - Gloucestershire",
+        "code": "GLO"
+    },
+    {
+        "name": "Isles of Scilly, United Kingdom - Tresco Airport",
+        "code": "TSO"
+    },
+    {
+        "name": "Manston Airport - Kent, United Kingdom",
+        "code": "MSE"
+    },
+    {
+        "name": "Oxford, United Kingdom",
+        "code": "OXF"
+    },
+    {
+        "name": "Penzance, United Kingdom - Penzance",
+        "code": "PZE"
+    },
+    {
+        "name": "Shoreham By Sea, United Kingdom - Shoreham Airport",
+        "code": "ESH"
+    },
+    {
+        "name": "Swansea, United Kingdom",
+        "code": "SWS"
+    },
+    {
+        "name": "Enniskillen, United Kingdom of Great Britain and Northern Ireland - St Angelo Airport",
+        "code": "ENK"
+    },
+    {
+        "name": "Coventry, United Kingdom of Great Britain and Northern Ireland - Coventry Airport",
+        "code": "CVT"
+    },
+    {
+        "name": "Northampton, United Kingdom of Great Britain and Northern Ireland - Sywell Aerodrome",
+        "code": "ORM"
+    },
+    {
+        "name": "Nottingham, United Kingdom of Great Britain and Northern Ireland - Nottingham Airport",
+        "code": "NQT"
+    },
+    {
+        "name": "Upavon, United Kingdom of Great Britain and Northern Ireland - Upavon Aerodrome",
+        "code": "UPV"
+    },
+    {
+        "name": "Lyneham, United Kingdom of Great Britain and Northern Ireland - RAF Lyneham",
+        "code": "LYE"
+    },
+    {
+        "name": "St. Athan, United Kingdom of Great Britain and Northern Ireland - MOD St. Athan",
+        "code": "DGX"
+    },
+    {
+        "name": "Yeovil, United Kingdom of Great Britain and Northern Ireland - RNAS Yeovilton",
+        "code": "YEO"
+    },
+    {
+        "name": "Fair Isle, United Kingdom of Great Britain and Northern Ireland - Fair Isle Airport",
+        "code": "FIE"
+    },
+    {
+        "name": "Whalsay, United Kingdom of Great Britain and Northern Ireland - Whalsay Airport",
+        "code": "WHS"
+    },
+    {
+        "name": "Coll Island, United Kingdom of Great Britain and Northern Ireland - Coll Airport",
+        "code": "COL"
+    },
+    {
+        "name": "North Connel, United Kingdom of Great Britain and Northern Ireland - Oban Airport",
+        "code": "OBN"
+    },
+    {
+        "name": "Lerwick, United Kingdom of Great Britain and Northern Ireland - Lerwick / Tingwall Airport",
+        "code": "LWK"
+    },
+    {
+        "name": "Colonsay, United Kingdom of Great Britain and Northern Ireland - Colonsay Airstrip",
+        "code": "CSA"
+    },
+    {
+        "name": "Haverfordwest, United Kingdom of Great Britain and Northern Ireland - Haverfordwest Airport",
+        "code": "HAW"
+    },
+    {
+        "name": "Plymouth, United Kingdom of Great Britain and Northern Ireland - Plymouth City Airport",
+        "code": "PLH"
+    },
+    {
+        "name": "Bembridge, United Kingdom of Great Britain and Northern Ireland - Bembridge Airport",
+        "code": "BBP"
+    },
+    {
+        "name": "Lasham, United Kingdom of Great Britain and Northern Ireland - Lasham Airport",
+        "code": "QLA"
+    },
+    {
+        "name": "Chichester, United Kingdom of Great Britain and Northern Ireland - Chichester/Goodwood Airport",
+        "code": "QUG"
+    },
+    {
+        "name": "London, United Kingdom of Great Britain and Northern Ireland - London Biggin Hill Airport",
+        "code": "BQH"
+    },
+    {
+        "name": "Redhill, United Kingdom of Great Britain and Northern Ireland - Redhill Aerodrome",
+        "code": "KRH"
+    },
+    {
+        "name": "Carlisle, United Kingdom of Great Britain and Northern Ireland - Carlisle Airport",
+        "code": "CAX"
+    },
+    {
+        "name": "Barrow-in-Furness, United Kingdom of Great Britain and Northern Ireland - Barrow Walney Island Airport",
+        "code": "BWF"
+    },
+    {
+        "name": "Angelsey, United Kingdom of Great Britain and Northern Ireland - Anglesey Airport",
+        "code": "HLY"
+    },
+    {
+        "name": "Shetland Islands, United Kingdom of Great Britain and Northern Ireland - Scatsta Airport",
+        "code": "SCS"
+    },
+    {
+        "name": "Perth, United Kingdom of Great Britain and Northern Ireland - Perth/Scone Airport",
+        "code": "PSL"
+    },
+    {
+        "name": "Shetland Islands, United Kingdom of Great Britain and Northern Ireland - Unst Airport",
+        "code": "UNT"
+    },
+    {
+        "name": "Ballykelly, United Kingdom of Great Britain and Northern Ireland - Ballykelly Airport",
+        "code": "BOL"
+    },
+    {
+        "name": "Kinloss, United Kingdom of Great Britain and Northern Ireland - RAF Kinloss",
+        "code": "FSS"
+    },
+    {
+        "name": "St. Andrews, United Kingdom of Great Britain and Northern Ireland - RAF Leuchars",
+        "code": "ADX"
+    },
+    {
+        "name": "Lossiemouth, United Kingdom of Great Britain and Northern Ireland - RAF Lossiemouth",
+        "code": "LMO"
+    },
+    {
+        "name": "Duxford, United Kingdom of Great Britain and Northern Ireland - Duxford Airport",
+        "code": "QFO"
+    },
+    {
+        "name": "High Wycombe, United Kingdom of Great Britain and Northern Ireland - Wycombe Air Park",
+        "code": "HYC"
+    },
+    {
+        "name": "Bristol, United Kingdom of Great Britain and Northern Ireland - Bristol Filton Airport",
+        "code": "FZO"
+    },
+    {
+        "name": "Rochester, United Kingdom of Great Britain and Northern Ireland - Rochester Airport",
+        "code": "RCS"
+    },
+    {
+        "name": "Benson, United Kingdom of Great Britain and Northern Ireland - RAF Benson",
+        "code": "BEX"
+    },
+    {
+        "name": "Lakenheath, United Kingdom of Great Britain and Northern Ireland - RAF Lakenheath",
+        "code": "LKZ"
+    },
+    {
+        "name": "Mildenhall, United Kingdom of Great Britain and Northern Ireland - RAF Mildenhall",
+        "code": "MHZ"
+    },
+    {
+        "name": "St. Ives, United Kingdom of Great Britain and Northern Ireland - RAF Wyton",
+        "code": "QUY"
+    },
+    {
+        "name": "Fairford, United Kingdom of Great Britain and Northern Ireland - RAF Fairford",
+        "code": "FFD"
+    },
+    {
+        "name": "Odiham, United Kingdom of Great Britain and Northern Ireland - RAF Odiham",
+        "code": "ODH"
+    },
+    {
+        "name": "Wethersfield, United Kingdom of Great Britain and Northern Ireland - Wethersfield Airport",
+        "code": "WXF"
+    },
+    {
+        "name": "London, United Kingdom of Great Britain and Northern Ireland - RAF Northolt",
+        "code": "NHT"
+    },
+    {
+        "name": "Coningsby, United Kingdom of Great Britain and Northern Ireland - RAF Coningsby",
+        "code": "QCY"
+    },
+    {
+        "name": "Thetford, United Kingdom of Great Britain and Northern Ireland - RAF Honington",
+        "code": "BEQ"
+    },
+    {
+        "name": "Cottesmore, United Kingdom of Great Britain and Northern Ireland - RAF Cottesmore",
+        "code": "OKH"
+    },
+    {
+        "name": "Scampton, United Kingdom of Great Britain and Northern Ireland - RAF Scampton",
+        "code": "SQZ"
+    },
+    {
+        "name": "Linton-On-Ouse, United Kingdom of Great Britain and Northern Ireland - RAF Linton-On-Ouse",
+        "code": "HRT"
+    },
+    {
+        "name": "Waddington, United Kingdom of Great Britain and Northern Ireland - RAF Waddington",
+        "code": "WTN"
+    },
+    {
+        "name": "Marham, United Kingdom of Great Britain and Northern Ireland - RAF Marham",
+        "code": "MRH"
+    },
+    {
+        "name": "Broadford, United Kingdom of Great Britain and Northern Ireland - Skye Bridge Ashaig Airport",
+        "code": "SKL"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Salamanca, Spain",
+        "code": "SLM"
+    },
+    {
+        "name": "San Sebastian, Spain - San Sebastian",
+        "code": "EAS"
+    },
+    {
+        "name": "Murcia, Spain - San Javier",
+        "code": "MJV"
+    },
+    {
+        "name": "Reus, Spain - Reus",
+        "code": "REU"
+    },
+    {
+        "name": "Zaragoza, Spain - Zaragoza",
+        "code": "ZAZ"
+    },
+    {
+        "name": "Valverde, Spain - Hierro",
+        "code": "VDE"
+    },
+    {
+        "name": "Pamplona, Spain - Pamplona-Noain",
+        "code": "PNA"
+    },
+    {
+        "name": "San Sebastian La Gomera, Spain - La Gomera",
+        "code": "GMZ"
+    },
+    {
+        "name": "Badajoz, Spain - Talaveral La Real",
+        "code": "BJZ"
+    },
+    {
+        "name": "Valladolid, Spain - Valladolid",
+        "code": "VLL"
+    },
+    {
+        "name": "Logrono, Spain - Logrono",
+        "code": "RJL"
+    },
+    {
+        "name": "Alguaire, Spain - Lleida-Alguaire Airport",
+        "code": "ILD"
+    },
+    {
+        "name": "Vitoria, Spain - Vitoria",
+        "code": "VIT"
+    },
+    {
+        "name": "Leon, Spain - Leon",
+        "code": "LEN"
+    },
+    {
+        "name": "Jerez de la Frontera, Spain - La Parra",
+        "code": "XRY"
+    },
+    {
+        "name": "Albacete, Spain - Los Llanos",
+        "code": "ABC"
+    },
+    {
+        "name": "Burgos, Spain - Burgos Airport",
+        "code": "RGS"
+    },
+    {
+        "name": "Cordoba, Spain - Cordoba Airport",
+        "code": "ODB"
+    },
+    {
+        "name": "Castellon de La Plana, Spain - Castellon De La Plana Airport",
+        "code": "CDT"
+    },
+    {
+        "name": "Madrid, Spain - Cuatro Vientos Airport",
+        "code": "ECV"
+    },
+    {
+        "name": "Sabadell, Spain - Sabadell Airport",
+        "code": "QSA"
+    },
+    {
+        "name": "Gibraleon, Spain - Mafe - Gibraleon Airport",
+        "code": "HEV"
+    },
+    {
+        "name": "Corvera, Spain - Regi\u221a\u2265n de Murcia International Airport",
+        "code": "RMU"
+    },
+    {
+        "name": "Moron, Spain - Moron Air Base",
+        "code": "OZP"
+    },
+    {
+        "name": "Rota, Spain - Rota Naval Station Airport",
+        "code": "ROZ"
+    },
+    {
+        "name": "Montferrer / Castellbo, Spain - Aerodrom dels Pirineus-Alt Urgell Airport",
+        "code": "LEU"
+    },
+    {
+        "name": "Madrid, Spain - Torrejon Airport",
+        "code": "TOJ"
+    },
+    {
+        "name": "Fuerteventura, Spain - Fuerteventura",
+        "code": "FUE"
+    },
+    {
+        "name": "Barcelona, Spain - Barcelona Airport",
+        "code": "BCN"
+    },
+    {
+        "name": "Palma, Spain - Palma Mallorca",
+        "code": "PMI"
+    },
+    {
+        "name": "Malaga, Spain - Malaga",
+        "code": "AGP"
+    },
+    {
+        "name": "Tenerife, Spain - All Airports",
+        "code": "TCI"
+    },
+    {
+        "name": "Las Palmas, Spain - Gran Canaria",
+        "code": "LPA"
+    },
+    {
+        "name": "Alicante, Spain - Alicante",
+        "code": "ALC"
+    },
+    {
+        "name": "Ibiza, Spain - Ibiza",
+        "code": "IBZ"
+    },
+    {
+        "name": "Valencia, Spain - Valencia",
+        "code": "VLC"
+    },
+    {
+        "name": "Bilbao, Spain - Bilbao",
+        "code": "BIO"
+    },
+    {
+        "name": "Tenerife, Spain - Norte Los Rodeos",
+        "code": "TFN"
+    },
+    {
+        "name": "Tenerife, Spain - Sur Reina Sofia",
+        "code": "TFS"
+    },
+    {
+        "name": "Lanzarote, Spain - Lanzarote",
+        "code": "ACE"
+    },
+    {
+        "name": "Port of Spain, Trinidad and Tobago - Piarco Airport",
+        "code": "POS"
+    },
+    {
+        "name": "Madrid, Spain - Barajas Airport",
+        "code": "MAD"
+    },
+    {
+        "name": "Seville, Spain - Seville San Pablo",
+        "code": "SVQ"
+    },
+    {
+        "name": "Menorca, Spain - Menorca",
+        "code": "MAH"
+    },
+    {
+        "name": "Santa Cruz de la Palma, Spain - La Palma",
+        "code": "SPC"
+    },
+    {
+        "name": "Santiago de Compostela, Spain - Labacolla",
+        "code": "SCQ"
+    },
+    {
+        "name": "La Coruna, Spain - La Coruna",
+        "code": "LCG"
+    },
+    {
+        "name": "Asturias, Spain - Oviedo",
+        "code": "OVD"
+    },
+    {
+        "name": "Vigo, Spain - Vigo",
+        "code": "VGO"
+    },
+    {
+        "name": "Almeria, Spain - Almeria",
+        "code": "LEI"
+    },
+    {
+        "name": "Granada, Spain - Granada",
+        "code": "GRX"
+    },
+    {
+        "name": "Gerona, Spain - Costa Brava",
+        "code": "GRO"
+    },
+    {
+        "name": "Melilla, Spain - Melilla Airport",
+        "code": "MLN"
+    },
+    {
+        "name": "Santander, Spain - Santander",
+        "code": "SDR"
+    }
+]

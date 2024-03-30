@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Gothenburg, Sweden - Saeve Airport",
+        "code": "GSE"
+    },
+    {
+        "name": "Vilhelmina, Sweden - Vilhelmina Airport",
+        "code": "VHM"
+    },
+    {
+        "name": "Arvidsjaur, Sweden - Arvidsjaur",
+        "code": "AJR"
+    },
+    {
+        "name": "Gallivare, Sweden - Gallivare",
+        "code": "GEV"
+    },
+    {
+        "name": "Borlange, Sweden - Dala",
+        "code": "BLE"
+    },
+    {
+        "name": "Mora, Sweden - Mora",
+        "code": "MXX"
+    },
+    {
+        "name": "Hagfors, Sweden - Hagfors Airport",
+        "code": "HFS"
+    },
+    {
+        "name": "Kristianstad, Sweden - Kristianstad",
+        "code": "KID"
+    },
+    {
+        "name": "Hemavan, Sweden - Hemavan",
+        "code": "HMV"
+    },
+    {
+        "name": "Sveg, Sweden - Sveg Airport",
+        "code": "EVG"
+    },
+    {
+        "name": "Stockholm, Sweden - Hasslo",
+        "code": "VST"
+    },
+    {
+        "name": "Torsby, Sweden - Torsby Airport",
+        "code": "TYF"
+    },
+    {
+        "name": "Pajala, Sweden - Pajala Airport",
+        "code": "PJA"
+    },
+    {
+        "name": "Gavle, Sweden",
+        "code": "GVX"
+    },
+    {
+        "name": "Lycksele, Sweden - Lycksele",
+        "code": "LYC"
+    },
+    {
+        "name": "Hudiksvall, Sweden",
+        "code": "HUV"
+    },
+    {
+        "name": "Oskarshamn, Sweden - Oskarshamn",
+        "code": "OSK"
+    },
+    {
+        "name": "Soderhamn, Sweden",
+        "code": "SOO"
+    },
+    {
+        "name": "Storuman, Sweden - Gunnarn Airport",
+        "code": "SQO"
+    },
+    {
+        "name": "Hassleholm, Sweden - Hassleholm Bokeberg Airport",
+        "code": "XWP"
+    },
+    {
+        "name": "Lidkoping, Sweden - Lidkoping-Hovby Airport",
+        "code": "LDK"
+    },
+    {
+        "name": "Skovde, Sweden - Skovde Airport",
+        "code": "KVB"
+    },
+    {
+        "name": "Oerebro, Sweden - Karlskoga Airport",
+        "code": "KSK"
+    },
+    {
+        "name": "Kalmar, Sweden - Hultsfred Airport",
+        "code": "HLF"
+    },
+    {
+        "name": "Eskilstuna, Sweden - Eskilstuna Airport",
+        "code": "EKT"
+    },
+    {
+        "name": "Vastervik, Sweden - Vastervik Airport",
+        "code": "VVK"
+    },
+    {
+        "name": "Idre, Sweden - Idre Airport",
+        "code": "IDB"
+    },
+    {
+        "name": "Ronneby, Sweden - Kallinge",
+        "code": "RNB"
+    },
+    {
+        "name": "Stockholm, Sweden - Arlanda Airport",
+        "code": "ARN"
+    },
+    {
+        "name": "Gothenburg, Sweden - Landvetter Airport",
+        "code": "GOT"
+    },
+    {
+        "name": "Stockholm, Sweden - Bromma Airport",
+        "code": "BMA"
+    },
+    {
+        "name": "Malmo, Sweden - Sturup",
+        "code": "MMX"
+    },
+    {
+        "name": "Umea, Sweden - Umea",
+        "code": "UME"
+    },
+    {
+        "name": "Lulea, Sweden - Kallax",
+        "code": "LLA"
+    },
+    {
+        "name": "Visby, Sweden - Visby",
+        "code": "VBY"
+    },
+    {
+        "name": "Stockholm, Sweden - Skavsta",
+        "code": "NYO"
+    },
+    {
+        "name": "Ostersund, Sweden - Froesoe",
+        "code": "OSD"
+    },
+    {
+        "name": "Sundsvall, Sweden - Harnosand",
+        "code": "SDL"
+    },
+    {
+        "name": "Helsingborg, Sweden - Angelholm",
+        "code": "AGH"
+    },
+    {
+        "name": "Skelleftea, Sweden - Skelleftea",
+        "code": "SFT"
+    },
+    {
+        "name": "Stockholm, Sweden - All Airports",
+        "code": "STO"
+    },
+    {
+        "name": "Kalmar, Sweden - Kalmar",
+        "code": "KLR"
+    },
+    {
+        "name": "Jonkoping, Sweden - Axamo",
+        "code": "JKG"
+    },
+    {
+        "name": "Linkoping, Sweden - Linkoping/Saab",
+        "code": "LPI"
+    },
+    {
+        "name": "Kiruna, Sweden - Kiruna",
+        "code": "KRN"
+    },
+    {
+        "name": "Karlstad, Sweden - Karlstad",
+        "code": "KSD"
+    },
+    {
+        "name": "Vaxjo, Sweden - Vaxjo",
+        "code": "VXO"
+    },
+    {
+        "name": "Orebro, Sweden - Orebro-Bofors",
+        "code": "ORB"
+    },
+    {
+        "name": "Halmstad, Sweden - Halmstad",
+        "code": "HAD"
+    },
+    {
+        "name": "Trollhattan, Sweden - Trollhattan",
+        "code": "THN"
+    },
+    {
+        "name": "Ornskoldsvik, Sweden - Ornskoldsvik",
+        "code": "OER"
+    },
+    {
+        "name": "Kramfors, Sweden - Kramfors",
+        "code": "KRF"
+    },
+    {
+        "name": "Norrkoping, Sweden - Kungsangen",
+        "code": "NRK"
+    }
+]

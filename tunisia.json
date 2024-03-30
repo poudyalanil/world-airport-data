@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Tunis, Tunisia - Carthage",
+        "code": "TUN"
+    },
+    {
+        "name": "Jerba Island, Tunisia - Melita",
+        "code": "DJE"
+    },
+    {
+        "name": "Monastir, Tunisia - Habib Bourguiba Intl",
+        "code": "MIR"
+    },
+    {
+        "name": "Sfax, Tunisia - Sfax El Maou",
+        "code": "SFA"
+    },
+    {
+        "name": "Enfidhau2013Hammamet International Airport, Tunisia",
+        "code": "NBE"
+    },
+    {
+        "name": "Tozeur, Tunisia - Tozeur",
+        "code": "TOE"
+    },
+    {
+        "name": "Gabes, Tunisia",
+        "code": "GAE"
+    },
+    {
+        "name": "Gafsa, Tunisia",
+        "code": "GAF"
+    },
+    {
+        "name": "Tabarka, Tunisia",
+        "code": "TBJ"
+    },
+    {
+        "name": "Sidi Ahmed, Tunisia - Sidi Ahmed Air Base",
+        "code": "OIZ"
+    },
+    {
+        "name": "El Borma, Tunisia - El Borma Airport",
+        "code": "EBM"
+    }
+]

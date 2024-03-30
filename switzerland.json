@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Zurich, Switzerland - Zurich Airport",
+        "code": "ZRH"
+    },
+    {
+        "name": "Geneva, Switzerland - Geneve-Cointrin Airport",
+        "code": "GVA"
+    },
+    {
+        "name": "Basel/Mulhouse, Switzerland - EuroAirport Swiss",
+        "code": "BSL"
+    },
+    {
+        "name": "Lugano, Switzerland - Lugano",
+        "code": "LUG"
+    },
+    {
+        "name": "Berne, Switzerland - Belp",
+        "code": "BRN"
+    },
+    {
+        "name": "Altenrhein, Switzerland - Altenrhein Airport",
+        "code": "ACH"
+    },
+    {
+        "name": "Sion, Switzerland",
+        "code": "SIR"
+    },
+    {
+        "name": "Lausanne, Switzerland - Lausanne-la Blecherette Airport",
+        "code": "QLS"
+    },
+    {
+        "name": "Neuchatel, Switzerland - Neuchatel Airport",
+        "code": "QNC"
+    },
+    {
+        "name": "Bern, Switzerland - Interlaken Air Base",
+        "code": "ZIN"
+    },
+    {
+        "name": "Buochs, Switzerland - Buochs Airport",
+        "code": "BXO"
+    },
+    {
+        "name": "Solothurn, Switzerland - Grenchen Airport",
+        "code": "ZHI"
+    },
+    {
+        "name": "Ticino, Switzerland - Locarno Airport",
+        "code": "ZJI"
+    },
+    {
+        "name": "Grisons, Switzerland - Samedan Airport",
+        "code": "SMV"
+    }
+]

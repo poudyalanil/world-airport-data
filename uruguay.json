@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Montevideo, Uruguay - Carrasco Airport",
+        "code": "MVD"
+    },
+    {
+        "name": "Punta del Este, Uruguay - Punta del Este",
+        "code": "PDP"
+    },
+    {
+        "name": "Rivera, Uruguay",
+        "code": "RVY"
+    },
+    {
+        "name": "Salto, Uruguay",
+        "code": "STY"
+    },
+    {
+        "name": "Artigas, Uruguay - Artigas International Airport",
+        "code": "ATI"
+    },
+    {
+        "name": "Colonia, Uruguay - Laguna de Los Patos International Airport",
+        "code": "CYR"
+    },
+    {
+        "name": "Carmelo, Uruguay - Carmelo International Airport",
+        "code": "CAR"
+    },
+    {
+        "name": "Durazno, Uruguay - Santa Bernardina International Airport",
+        "code": "DZO"
+    },
+    {
+        "name": "Mercedes, Uruguay - Ricardo de Tomasi International Airport",
+        "code": "MER"
+    },
+    {
+        "name": "Melo, Uruguay - Cerro Largo International Airport",
+        "code": "MLZ"
+    },
+    {
+        "name": "Maldonado, Uruguay - El Jaguel / Punta del Este Airport",
+        "code": "MDO"
+    },
+    {
+        "name": "Paysandu, Uruguay - Tydeo Larre Borges Airport",
+        "code": "PDU"
+    },
+    {
+        "name": "Tacuarembo, Uruguay - Tacuarembo Airport",
+        "code": "TAW"
+    },
+    {
+        "name": "Treinta y Tres, Uruguay - Treinta y Tres Airport",
+        "code": "TYT"
+    },
+    {
+        "name": "Vichadero, Uruguay - Vichadero Airport",
+        "code": "VCH"
+    }
+]

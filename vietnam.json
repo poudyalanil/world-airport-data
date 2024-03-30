@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Pleiku, Vietnam - Pleiku Airport",
+        "code": "PXU"
+    },
+    {
+        "name": "Vung Tau, Vietnam - Vung Tau Airport",
+        "code": "VTG"
+    },
+    {
+        "name": "Phan Thiet, Vietnam - Phan Thiet Airport",
+        "code": "PHH"
+    },
+    {
+        "name": "Phan Rang, Vietnam - Phan Rang Airport",
+        "code": "PHA"
+    },
+    {
+        "name": "Son-La, Vietnam - Na-San Airport",
+        "code": "SQH"
+    },
+    {
+        "name": "Dong Hoi, Vietnam - Dong Hoi Airport",
+        "code": "VDH"
+    },
+    {
+        "name": "Nha Trang, Vietnam - Nha-Trang",
+        "code": "NHA"
+    },
+    {
+        "name": "Ca Mau, Vietnam - Ca Mau Airport",
+        "code": "CAH"
+    },
+    {
+        "name": "Rach Gia, Vietnam - Rach Gia Airport",
+        "code": "VKG"
+    },
+    {
+        "name": "Tuy Hoa, Vietnam - Tuy Hoa Airport",
+        "code": "TBB"
+    },
+    {
+        "name": "Dien Bien Phu, Vietnam - Dien Bien Airport",
+        "code": "DIN"
+    },
+    {
+        "name": "Thanh Hoa, Vietnam - Tho Xuan Airport",
+        "code": "THD"
+    },
+    {
+        "name": "Tamky-Chulai Airport, Vietnam - Chulai Airport",
+        "code": "VCL"
+    },
+    {
+        "name": "Ho Chi Minh City, Vietnam - Ho Chi Minh City",
+        "code": "SGN"
+    },
+    {
+        "name": "Banmethuot, Vietnam - Phung-Duc Airport",
+        "code": "BMV"
+    },
+    {
+        "name": "Can Tho, Vietnam",
+        "code": "VCA"
+    },
+    {
+        "name": "Con Dao, Vietnam - Coong Airport",
+        "code": "VCS"
+    },
+    {
+        "name": "Qui Nhon, Vietnam - Qui Nhon Airport",
+        "code": "UIH"
+    },
+    {
+        "name": "Da Lat, Vietnam - Lienkhang",
+        "code": "DLI"
+    },
+    {
+        "name": "Vinh City, Vietnam - Vinh City Airport",
+        "code": "VII"
+    },
+    {
+        "name": "Haiphong, Vietnam - Haiphong",
+        "code": "HPH"
+    },
+    {
+        "name": "Hue, Vietnam - Hue",
+        "code": "HUI"
+    },
+    {
+        "name": "Phu Quoc, Vietnam - Duong Dang Airport",
+        "code": "PQC"
+    },
+    {
+        "name": "Nha Trang, Vietnam",
+        "code": "CXR"
+    },
+    {
+        "name": "Da Nang, Vietnam - Da Nang",
+        "code": "DAD"
+    },
+    {
+        "name": "Hanoi, Vietnam - Noibai",
+        "code": "HAN"
+    }
+]

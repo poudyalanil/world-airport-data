@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Kramatorsk, Ukraine - Kramatorsk Airport",
+        "code": "KRQ"
+    },
+    {
+        "name": "Sevastopol, Ukraine - Belbek Airport",
+        "code": "UKS"
+    },
+    {
+        "name": "Nikolayev, Ukraine - Mykolaiv International Airport",
+        "code": "NLV"
+    },
+    {
+        "name": "Ternopil, Ukraine - Ternopil International Airport",
+        "code": "TNL"
+    },
+    {
+        "name": "Rivne, Ukraine - Rivne International Airport",
+        "code": "RWN"
+    },
+    {
+        "name": "Khmelnytskyi, Ukraine - Khmelnytskyi Airport",
+        "code": "HMJ"
+    },
+    {
+        "name": "Lutsk, Ukraine - Lutsk Airport",
+        "code": "UCK"
+    },
+    {
+        "name": "Zhytomyr, Ukraine - Zhytomyr Airport",
+        "code": "ZTR"
+    },
+    {
+        "name": "Kiev, Ukraine - Gostomel Airport",
+        "code": "GML"
+    },
+    {
+        "name": "Kirovograd, Ukraine - Kirovograd Airport",
+        "code": "KGO"
+    },
+    {
+        "name": "Cherkasy, Ukraine - Cherkasy International Airport",
+        "code": "CKC"
+    },
+    {
+        "name": "Sumy, Ukraine - Sumy Airport",
+        "code": "UMY"
+    },
+    {
+        "name": "Kerch, Ukraine - Kerch Airport",
+        "code": "KHC"
+    },
+    {
+        "name": "Kryvyi Rih, Ukraine - Kryvyi Rih International Airport",
+        "code": "KWG"
+    },
+    {
+        "name": "Berdyansk, Ukraine - Berdyansk Airport",
+        "code": "ERD"
+    },
+    {
+        "name": "Sievierodonetsk, Ukraine - Sievierodonetsk Airport",
+        "code": "SEV"
+    },
+    {
+        "name": "Kiev, Ukraine - Zhulhany",
+        "code": "IEV"
+    },
+    {
+        "name": "Uzhgorod, Ukraine - Uzhgorod",
+        "code": "UDJ"
+    },
+    {
+        "name": "Poltava, Ukraine - Poltava Airport",
+        "code": "PLV"
+    },
+    {
+        "name": "Mariupol, Ukraine - Mariupol Airport",
+        "code": "MPW"
+    },
+    {
+        "name": "Lugansk, Ukraine - Lugansk Airport",
+        "code": "VSG"
+    },
+    {
+        "name": "Donetsk, Ukraine - Donetsk",
+        "code": "DOK"
+    },
+    {
+        "name": "Vinnica, Ukraine",
+        "code": "VIN"
+    },
+    {
+        "name": "Chernovtsy, Ukraine - Chernovtsy",
+        "code": "CWC"
+    },
+    {
+        "name": "Kherson, Ukraine",
+        "code": "KHE"
+    },
+    {
+        "name": "Ivano-Frankovsk, Ukraine - Ivano-Frankovsk Airport",
+        "code": "IFO"
+    },
+    {
+        "name": "Dnepropetrovsk, Ukraine - Dnepropetrovsk",
+        "code": "DNK"
+    },
+    {
+        "name": "Zaporozhye, Ukraine - Zaporozhye",
+        "code": "OZH"
+    },
+    {
+        "name": "Kharkov, Ukraine - Kharkov",
+        "code": "HRK"
+    },
+    {
+        "name": "Lviv, Ukraine - Lvov",
+        "code": "LWO"
+    },
+    {
+        "name": "Odessa, Ukraine - Central",
+        "code": "ODS"
+    },
+    {
+        "name": "Kiev, Ukraine - Borispol",
+        "code": "KBP"
+    }
+]

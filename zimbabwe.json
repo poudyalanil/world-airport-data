@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Harare, Zimbabwe - Harare",
+        "code": "HRE"
+    },
+    {
+        "name": "Victoria Falls, Zimbabwe - Victoria Falls",
+        "code": "VFA"
+    },
+    {
+        "name": "Bulawayo, Zimbabwe - Bulawayo",
+        "code": "BUQ"
+    },
+    {
+        "name": "Kariba, Zimbabwe",
+        "code": "KAB"
+    },
+    {
+        "name": "Chipinge, Zimbabwe - Chipinge Airport",
+        "code": "CHJ"
+    },
+    {
+        "name": "Chiredzi, Zimbabwe - Buffalo Range Airport",
+        "code": "BFO"
+    },
+    {
+        "name": "Manicaland, Zimbabwe - Mutare Airport",
+        "code": "UTA"
+    },
+    {
+        "name": "Masvingo, Zimbabwe - Masvingo International Airport",
+        "code": "MVZ"
+    },
+    {
+        "name": "Gweru, Zimbabwe - Thornhill Air Base",
+        "code": "GWE"
+    },
+    {
+        "name": "Hwange, Zimbabwe - Hwange National Park Airport",
+        "code": "HWN"
+    },
+    {
+        "name": "Hwange, Zimbabwe - Hwange Airport",
+        "code": "WKI"
+    }
+]

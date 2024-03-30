@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Atauro, Timor-Leste - Atauro Airport",
+        "code": "AUT"
+    },
+    {
+        "name": "Suai, Timor-Leste - Suai Airport",
+        "code": "UAI"
+    },
+    {
+        "name": "Baucau, Timor-Leste - Cakung Airport",
+        "code": "BCH"
+    },
+    {
+        "name": "Maliana, Timor-Leste - Maliana Airport",
+        "code": "MPT"
+    },
+    {
+        "name": "Oecussi-Ambeno, Timor-Leste - Oecussi Airport",
+        "code": "OEC"
+    },
+    {
+        "name": "Viqueque, Timor-Leste - Viqueque Airport",
+        "code": "VIQ"
+    }
+]

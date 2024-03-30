@@ -1,0 +1,274 @@
+[
+    {
+        "name": "Canakkale, Turkey - Canakkale Airport",
+        "code": "CKZ"
+    },
+    {
+        "name": "Usak, Turkey - Usak Airport",
+        "code": "USQ"
+    },
+    {
+        "name": "Tokat, Turkey",
+        "code": "TJK"
+    },
+    {
+        "name": "Siirt, Turkey",
+        "code": "SXZ"
+    },
+    {
+        "name": "Samsun, Turkey",
+        "code": "SSX"
+    },
+    {
+        "name": "Eskisehir, Turkey",
+        "code": "AOE"
+    },
+    {
+        "name": "Zonguldak, Turkey",
+        "code": "ONQ"
+    },
+    {
+        "name": "Balikesir, Turkey",
+        "code": "MQJ"
+    },
+    {
+        "name": "Kocaeli, Turkey",
+        "code": "KCO"
+    },
+    {
+        "name": "Ankara, Turkey - Etimesgut Air Base",
+        "code": "ANK"
+    },
+    {
+        "name": "Kastamonu, Turkey",
+        "code": "KFS"
+    },
+    {
+        "name": "Tekirdag, Turkey",
+        "code": "TEQ"
+    },
+    {
+        "name": "Sinop, Turkey - Sinop Airport",
+        "code": "NOP"
+    },
+    {
+        "name": "Isparta, Turkey",
+        "code": "ISE"
+    },
+    {
+        "name": "Merzifon, Turkey",
+        "code": "MZH"
+    },
+    {
+        "name": "Sinop, Turkey",
+        "code": "SIC"
+    },
+    {
+        "name": "Altinas, Turkey - Zafer Airport",
+        "code": "KZR"
+    },
+    {
+        "name": "Eskisehir, Turkey - Eskisehir Air Base",
+        "code": "ESK"
+    },
+    {
+        "name": "Turkey Creek, Australia - Turkey Creek Airport",
+        "code": "TKY"
+    },
+    {
+        "name": "Gokceada, Turkey - Imroz Airport",
+        "code": "GKD"
+    },
+    {
+        "name": "Yuksekova, Turkey - Hakkari Yuksekova Airport",
+        "code": "YKO"
+    },
+    {
+        "name": "Sanliurfa, Turkey - Sanliurfa Airport",
+        "code": "SFQ"
+    },
+    {
+        "name": "Ordu, Turkey - Ordu\u201a\u00c4\u00ecGiresun Airport",
+        "code": "OGU"
+    },
+    {
+        "name": "Bodrum, Turkey - Imsik Airport",
+        "code": "BXN"
+    },
+    {
+        "name": "Bursa, Turkey - Bursa Yenisehir Airport",
+        "code": "YEI"
+    },
+    {
+        "name": "Izmir, Turkey - Cigli Airport",
+        "code": "IGL"
+    },
+    {
+        "name": "Nevsehir, Turkey",
+        "code": "NAV"
+    },
+    {
+        "name": "Bandirma, Turkey - Bandirma Airport",
+        "code": "BDM"
+    },
+    {
+        "name": "Balikesir, Turkey - Balikesir Merkez Airport",
+        "code": "BZI"
+    },
+    {
+        "name": "Bursa, Turkey - Bursa Airport",
+        "code": "BTZ"
+    },
+    {
+        "name": "Aydin, Turkey - Cildir Airport",
+        "code": "CII"
+    },
+    {
+        "name": "Istanbul, Turkey - Ataturk International Airport",
+        "code": "ISL"
+    },
+    {
+        "name": "Afyonkarahisar, Turkey - Afyon Airport",
+        "code": "AFY"
+    },
+    {
+        "name": "Adana, Turkey - Incirlik Air Base",
+        "code": "UAB"
+    },
+    {
+        "name": "Dalaman, Turkey - Dalaman",
+        "code": "DLM"
+    },
+    {
+        "name": "Erzurum, Turkey - Erzurum",
+        "code": "ERZ"
+    },
+    {
+        "name": "Hatay, Turkey - Hatay Airport",
+        "code": "HTY"
+    },
+    {
+        "name": "Van, Turkey - Van",
+        "code": "VAN"
+    },
+    {
+        "name": "Konya, Turkey - Konya",
+        "code": "KYA"
+    },
+    {
+        "name": "Samsun, Turkey - Carsamba Airport",
+        "code": "SZF"
+    },
+    {
+        "name": "Diyarbakir, Turkey - Kaplaner",
+        "code": "DIY"
+    },
+    {
+        "name": "Kayseri, Turkey - Erkilet",
+        "code": "ASR"
+    },
+    {
+        "name": "Gaziantep, Turkey - Gaziantep",
+        "code": "GZT"
+    },
+    {
+        "name": "Elazig, Turkey - Elazig Airport",
+        "code": "EZS"
+    },
+    {
+        "name": "Bodrum, Turkey - Milas",
+        "code": "BJV"
+    },
+    {
+        "name": "Trabzon, Turkey - Trabzon",
+        "code": "TZX"
+    },
+    {
+        "name": "Adana, Turkey - Adana",
+        "code": "ADA"
+    },
+    {
+        "name": "Izmir, Turkey - Adnan Menderes",
+        "code": "ADB"
+    },
+    {
+        "name": "Antalya, Turkey - Antalya",
+        "code": "AYT"
+    },
+    {
+        "name": "Ankara, Turkey - Esenboga",
+        "code": "ESB"
+    },
+    {
+        "name": "Istanbul, Turkey - Sabiha Gokcen",
+        "code": "SAW"
+    },
+    {
+        "name": "Batman, Turkey - Batman Airport",
+        "code": "BAL"
+    },
+    {
+        "name": "Igdir, Turkey - Igdir Airport",
+        "code": "IGD"
+    },
+    {
+        "name": "Adiyaman, Turkey - Adiyaman Airport",
+        "code": "ADF"
+    },
+    {
+        "name": "Agri, Turkey - Agri Airport",
+        "code": "AJI"
+    },
+    {
+        "name": "Sirnak, Turkey - Sirnak Airport",
+        "code": "NKT"
+    },
+    {
+        "name": "Mus, Turkey - Mus Airport",
+        "code": "MSR"
+    },
+    {
+        "name": "Edremit/Korfez, Turkey - Edremit/Korfez Airport",
+        "code": "EDO"
+    },
+    {
+        "name": "Kahramanmaras, Turkey - Kahramanmaras Airport",
+        "code": "KCM"
+    },
+    {
+        "name": "Erzincan, Turkey - Erzincan Airport",
+        "code": "ERC"
+    },
+    {
+        "name": "Istanbul, Turkey - Istanbul Int'l Airport",
+        "code": "IST"
+    },
+    {
+        "name": "Kars, Turkey - Kars Airport",
+        "code": "KSY"
+    },
+    {
+        "name": "Sivas, Turkey - Sivas Airport",
+        "code": "VAS"
+    },
+    {
+        "name": "Denizli, Turkey - Cardak",
+        "code": "DNZ"
+    },
+    {
+        "name": "Mardin, Turkey - Mardin Airport",
+        "code": "MQM"
+    },
+    {
+        "name": "Gazipau015fa, Turkey - Alanya Airport",
+        "code": "GZP"
+    },
+    {
+        "name": "Sanliurfa, Turkey - Sanliurfa GAP Airport",
+        "code": "GNY"
+    },
+    {
+        "name": "Malatya, Turkey - Malatya Airport",
+        "code": "MLX"
+    }
+]
