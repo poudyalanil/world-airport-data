@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Dakar, Senegal - Yoff",
+        "code": "DKR"
+    },
+    {
+        "name": "Ziguinchor, Senegal - Ziguinchor Airport",
+        "code": "ZIG"
+    },
+    {
+        "name": "Cap Skirring, Senegal - Cap Skirring Airport",
+        "code": "CSK"
+    },
+    {
+        "name": "Saint Louis, Senegal - St. Louis Airport",
+        "code": "XLS"
+    },
+    {
+        "name": "Tambacounda, Senegal - Tambacounda Airport",
+        "code": "TUD"
+    },
+    {
+        "name": "Diass, Senegal - Blaise Diagne International Airport",
+        "code": "DSS"
+    },
+    {
+        "name": "Kolda, Senegal - Kolda North Airport",
+        "code": "KDA"
+    },
+    {
+        "name": "Kaolack, Senegal - Kaolack Airport",
+        "code": "KLC"
+    },
+    {
+        "name": "Matam, Senegal - Ouro Sogui Airport",
+        "code": "MAX"
+    },
+    {
+        "name": "Podor, Senegal - Podor Airport",
+        "code": "POD"
+    },
+    {
+        "name": "Richard Toll, Senegal - Richard Toll Airport",
+        "code": "RDT"
+    },
+    {
+        "name": "Bakel, Senegal - Bakel Airport",
+        "code": "BXE"
+    },
+    {
+        "name": "Kedougou, Senegal - Kedougou Airport",
+        "code": "KGG"
+    },
+    {
+        "name": "Simenti, Senegal - Simenti Airport",
+        "code": "SMY"
+    }
+]

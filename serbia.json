@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Belgrade, Serbia - Beograd",
+        "code": "BEG"
+    },
+    {
+        "name": "Nis, Serbia - Nis Airport",
+        "code": "INI"
+    },
+    {
+        "name": "Batajnica, Serbia - Batajnica Air Base",
+        "code": "BJY"
+    },
+    {
+        "name": "Novi Sad, Serbia - Cenej Airport",
+        "code": "QND"
+    },
+    {
+        "name": "Uzice, Serbia - Ponikve Airport",
+        "code": "UZC"
+    },
+    {
+        "name": "Valjevo, Serbia - Divci Airport",
+        "code": "QWV"
+    },
+    {
+        "name": "Zrenjanin, Serbia - Zrenjanin Airport",
+        "code": "ZRE"
+    }
+]

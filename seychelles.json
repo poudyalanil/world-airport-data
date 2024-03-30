@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mahe Island, Seychelles - Seychelles Intl",
+        "code": "SEZ"
+    },
+    {
+        "name": "Praslin Island, Seychelles - Praslin Island",
+        "code": "PRI"
+    },
+    {
+        "name": "Desroches Island, Seychelles - Desroches Airport",
+        "code": "DES"
+    },
+    {
+        "name": "Bird Island, Seychelles - Bird Island Airport",
+        "code": "BDI"
+    },
+    {
+        "name": "Denis Island, Seychelles - Denis Island Airport",
+        "code": "DEI"
+    },
+    {
+        "name": "Fregate Island, Seychelles - Fregate Island Airport",
+        "code": "FRK"
+    }
+]
