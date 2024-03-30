@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Bratislava, Slovakia - Ivanka",
+        "code": "BTS"
+    },
+    {
+        "name": "Kosice, Slovakia - Barca",
+        "code": "KSC"
+    },
+    {
+        "name": "Poprad/Tatry, Slovakia - Poprad/Tatry Airport",
+        "code": "TAT"
+    },
+    {
+        "name": "Sliac, Slovakia - Sliac Airport",
+        "code": "SLD"
+    },
+    {
+        "name": "Piestany, Slovakia",
+        "code": "PZY"
+    },
+    {
+        "name": "Zilina, Slovakia - Zilina Airport",
+        "code": "ILZ"
+    },
+    {
+        "name": "Lucenec, Slovakia - Lucenec Airport",
+        "code": "LUE"
+    },
+    {
+        "name": "Presov, Slovakia - Presov Air Base",
+        "code": "POV"
+    }
+]
